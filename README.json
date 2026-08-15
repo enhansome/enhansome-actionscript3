@@ -574,7 +574,7 @@
             "last_commit": "2025-05-19T18:05:34Z",
             "owner": "robertpenner",
             "repo": "as3-signals",
-            "stars": 1063
+            "stars": 1064
           }
         },
         {
@@ -1173,7 +1173,7 @@
             "last_commit": "2017-02-05T02:35:55Z",
             "owner": "iainlobb",
             "repo": "Gamepad",
-            "stars": 56
+            "stars": 57
           }
         },
         {
@@ -1868,7 +1868,7 @@
             "last_commit": "2026-07-28T13:28:47Z",
             "owner": "zxing",
             "repo": "zxing",
-            "stars": 34069
+            "stars": 34066
           }
         },
         {
@@ -3900,7 +3900,7 @@
             "last_commit": "2024-08-18T20:22:14Z",
             "owner": "mikechambers",
             "repo": "as3corelib",
-            "stars": 1505
+            "stars": 1504
           }
         },
         {
@@ -5196,7 +5196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:30:56.726Z",
+    "last_updated": "2026-08-15T02:19:42.556Z",
     "original_repository": "robinrodricks/awesome-actionscript3",
     "original_repository_sha": "b56e5f021fa79f4c8567f49e81e231db37f3a7a5",
     "enhanced_repository": "enhansome/enhansome-actionscript3",
