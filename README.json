@@ -1868,7 +1868,7 @@
             "last_commit": "2026-07-28T13:28:47Z",
             "owner": "zxing",
             "repo": "zxing",
-            "stars": 34066
+            "stars": 34068
           }
         },
         {
@@ -4303,7 +4303,7 @@
             "archived": false,
             "language": "ActionScript",
             "last_commit": "2009-12-08T03:50:53Z",
-            "owner": "ozipi",
+            "owner": "oscarvaldezg",
             "repo": "As3_SpaceInvaders_Emulator",
             "stars": 7
           }
@@ -5196,7 +5196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:19:42.556Z",
+    "last_updated": "2026-08-16T02:35:35.372Z",
     "original_repository": "robinrodricks/awesome-actionscript3",
     "original_repository_sha": "b56e5f021fa79f4c8567f49e81e231db37f3a7a5",
     "enhanced_repository": "enhansome/enhansome-actionscript3",
