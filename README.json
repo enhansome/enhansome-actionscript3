@@ -222,7 +222,7 @@
             "last_commit": "2026-07-17T08:08:05Z",
             "owner": "Gamua",
             "repo": "Starling-Framework",
-            "stars": 3085
+            "stars": 3086
           }
         },
         {
@@ -1868,7 +1868,7 @@
             "last_commit": "2026-07-28T13:28:47Z",
             "owner": "zxing",
             "repo": "zxing",
-            "stars": 34068
+            "stars": 34066
           }
         },
         {
@@ -4277,7 +4277,7 @@
             "last_commit": "2015-08-02T12:15:51Z",
             "owner": "nesbox",
             "repo": "emulator",
-            "stars": 654
+            "stars": 653
           }
         },
         {
@@ -5196,7 +5196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:35:35.372Z",
+    "last_updated": "2026-08-17T02:34:51.897Z",
     "original_repository": "robinrodricks/awesome-actionscript3",
     "original_repository_sha": "b56e5f021fa79f4c8567f49e81e231db37f3a7a5",
     "enhanced_repository": "enhansome/enhansome-actionscript3",
