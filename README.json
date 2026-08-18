@@ -233,7 +233,7 @@
           "repo_info": {
             "archived": false,
             "language": "ActionScript",
-            "last_commit": "2026-01-22T22:20:03Z",
+            "last_commit": "2026-08-17T16:11:19Z",
             "owner": "feathersui",
             "repo": "feathersui-starling",
             "stars": 915
@@ -326,7 +326,7 @@
             "last_commit": "2015-11-05T01:35:36Z",
             "owner": "AdamAtomic",
             "repo": "flixel",
-            "stars": 1145
+            "stars": 1144
           }
         },
         {
@@ -340,7 +340,7 @@
             "last_commit": "2016-03-31T05:56:47Z",
             "owner": "useflashpunk",
             "repo": "FlashPunk",
-            "stars": 395
+            "stars": 396
           }
         },
         {
@@ -1865,10 +1865,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-07-28T13:28:47Z",
+            "last_commit": "2026-08-17T06:52:29Z",
             "owner": "zxing",
             "repo": "zxing",
-            "stars": 34066
+            "stars": 34067
           }
         },
         {
@@ -3257,7 +3257,7 @@
             "last_commit": "2022-03-17T08:06:45Z",
             "owner": "charlesbihis",
             "repo": "actionscript-oauth2",
-            "stars": 109
+            "stars": 110
           }
         },
         {
@@ -5196,7 +5196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:34:51.897Z",
+    "last_updated": "2026-08-18T02:29:55.667Z",
     "original_repository": "robinrodricks/awesome-actionscript3",
     "original_repository_sha": "b56e5f021fa79f4c8567f49e81e231db37f3a7a5",
     "enhanced_repository": "enhansome/enhansome-actionscript3",
