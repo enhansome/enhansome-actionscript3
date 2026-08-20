@@ -119,7 +119,7 @@
                 "last_commit": "2020-06-16T09:09:56Z",
                 "owner": "robotlegs",
                 "repo": "robotlegs-framework",
-                "stars": 962
+                "stars": 963
               }
             },
             {
@@ -231,7 +231,7 @@
                 "last_commit": "2026-07-17T08:08:05Z",
                 "owner": "Gamua",
                 "repo": "Starling-Framework",
-                "stars": 3085
+                "stars": 3086
               }
             },
             {
@@ -343,7 +343,7 @@
                 "last_commit": "2015-11-05T01:35:36Z",
                 "owner": "AdamAtomic",
                 "repo": "flixel",
-                "stars": 1143
+                "stars": 1144
               }
             },
             {
@@ -485,7 +485,7 @@
                 "last_commit": "2024-06-03T14:06:14Z",
                 "owner": "away3d",
                 "repo": "away3d-core-fp11",
-                "stars": 640
+                "stars": 641
               }
             },
             {
@@ -5510,7 +5510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:12:39.514Z",
+    "last_updated": "2026-08-20T02:31:07.292Z",
     "original_repository": "robinrodricks/awesome-actionscript3",
     "original_repository_id": 93946771,
     "original_repository_sha": "b56e5f021fa79f4c8567f49e81e231db37f3a7a5",

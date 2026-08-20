@@ -6,7 +6,7 @@
 
 [Adobe AIR](https://en.wikipedia.org/wiki/Adobe_AIR) provides a single set of APIs to build cross-platform desktop/mobile applications and games. [ActionScript 3](https://en.wikipedia.org/wiki/ActionScript) is the programming language for AIR. Powerful native functionality such as file system, SQLite, sensors are included by default. To add missing functionality, you can build ANEs (Air Native Extensions) coded in the native language (eg VC++ for Windows, Java for Android, Swift/Objective-C for iOS). To build mobile apps/games with GPU-rendered graphics, use the [Starling](https://gamua.com/starling/) framework and optionally the [Feathers UI](https://feathersui.com/). Adobe AIR is very popular in the mobile gaming space.
 
-Contributions welcome. To add a useful project simply create an [Issue](https://github.com/hgupta9/awesome-actionscript3/issues) ⭐ 273 | 🐛 2 | 📅 2022-11-12.
+Contributions welcome. To add a useful project simply create an [Issue](https://github.com/hgupta9/awesome-actionscript3/issues) ⭐ 274 | 🐛 2 | 📅 2022-11-12.
 
 ## Contents
 
@@ -70,7 +70,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### MVC Frameworks
 
-* [Robotlegs](https://github.com/robotlegs/robotlegs-framework) ⭐ 962 | 🐛 19 | 🌐 ActionScript | 📅 2020-06-16 - Dependency injection, module/view/command management framework for Flash.
+* [Robotlegs](https://github.com/robotlegs/robotlegs-framework) ⭐ 963 | 🐛 19 | 🌐 ActionScript | 📅 2020-06-16 - Dependency injection, module/view/command management framework for Flash.
 * [StarlingMVC](https://github.com/CreativeBottle/starlingMVC) ⭐ 125 | 🐛 10 | 🌐 ActionScript | 📅 2017-04-24 - IOC Framework for Starling based games.
 * [PureMVC](https://github.com/PureMVC/puremvc-as3-standard-framework) ⭐ 124 | 🐛 1 | 🌐 HTML | 📅 2018-10-27 - Industry-standard MVC framework for Flash ([multicore](https://github.com/PureMVC/puremvc-as3-multicore-framework) ⭐ 56 | 🐛 0 | 🌐 HTML | 📅 2018-10-27).
 * [Hummingbird](https://github.com/flashapi/hummingbird) ⚠️ Archived - Build and deploy robust MVC applications for AS3, Mobile and the Starling Framework.
@@ -80,7 +80,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### UI Frameworks
 
-* [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework) ⭐ 3,085 | 🐛 97 | 🌐 ActionScript | 📅 2026-07-17, [help](http://wiki.starling-framework.org/start)).
+* [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework) ⭐ 3,086 | 🐛 97 | 🌐 ActionScript | 📅 2026-07-17, [help](http://wiki.starling-framework.org/start)).
 * [Feathers UI](https://feathersui.com/) - User interface components for Starling Framework ([github](https://github.com/BowlerHatLLC/feathers) ⭐ 915 | 🐛 169 | 🌐 ActionScript | 📅 2026-08-17, [help](https://feathersui.com/help/index.html)).
 * [Swiz](https://github.com/swiz/swiz-framework) ⭐ 225 | 🐛 18 | 🌐 ActionScript | 📅 2013-06-19 - Brutally simple micro-architecture for creating RIAs with AS3 and Adobe Flex.
 * [Elastic-Lists](https://github.com/MoritzStefaner/Elastic-Lists) ⭐ 108 | 🐛 5 | 🌐 ActionScript | 📅 2011-06-03 - Fluid and powerful interface for facet browsing.
@@ -92,7 +92,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Game Frameworks
 
-* [Flixel](https://github.com/AdamAtomic/flixel) ⭐ 1,143 | 🐛 75 | 🌐 ActionScript | 📅 2015-11-05 - Useful base classes that you can extend to make your own game objects.
+* [Flixel](https://github.com/AdamAtomic/flixel) ⭐ 1,144 | 🐛 75 | 🌐 ActionScript | 📅 2015-11-05 - Useful base classes that you can extend to make your own game objects.
 * [FlashPunk](https://github.com/useflashpunk/FlashPunk) ⭐ 396 | 🐛 69 | 🌐 ActionScript | 📅 2016-03-31 - Framework to build 2D games. Provides graphics, events, inputs, animation, etc.
 * [StarlingPunk](https://github.com/asaia/StarlingPunk) ⭐ 139 | 🐛 6 | 🌐 ActionScript | 📅 2017-04-17 - Framework built on Starling to add structure and organization to your game projects.
 * [YCanvas](https://github.com/jozefchutka/YCanvas) ⭐ 117 | 🐛 3 | 🌐 ActionScript | 📅 2014-12-15 - High-performance 2D tile renderer and world map renderer.
@@ -106,7 +106,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### 3D Frameworks
 
-* [Away3D](https://github.com/away3d/away3d-core-fp11) ⭐ 640 | 🐛 111 | 🌐 ActionScript | 📅 2024-06-03 - Open-source GPU-accelerated 3D engine for Flash Player 11+ ([examples](https://github.com/away3d/away3d-examples-fp11) ⭐ 101 | 🐛 7 | 🌐 ActionScript | 📅 2015-05-29).
+* [Away3D](https://github.com/away3d/away3d-core-fp11) ⭐ 641 | 🐛 111 | 🌐 ActionScript | 📅 2024-06-03 - Open-source GPU-accelerated 3D engine for Flash Player 11+ ([examples](https://github.com/away3d/away3d-examples-fp11) ⭐ 101 | 🐛 7 | 🌐 ActionScript | 📅 2015-05-29).
 * [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) ⭐ 381 | 🐛 19 | 🌐 ActionScript | 📅 2024-05-03 - Alternativa3D GPU accelerated 3D engine ([examples](https://github.com/AlternativaPlatform/Alternativa3DExamples) ⭐ 36 | 🐛 1 | 🌐 ActionScript | 📅 2012-10-23).
 * [Away3D OpenFL](https://github.com/away3d/away3d-core-openfl) ⭐ 166 | 🐛 29 | 🌐 Haxe | 📅 2017-03-14 - Away3D for Neko, HTML5 and native CPP. ([examples](https://github.com/away3d/away3d-examples-openfl) ⭐ 40 | 🐛 4 | 🌐 Haxe | 📅 2015-09-04).
 * [AwayPhysics FP11](https://github.com/away3d/awayphysics-core-fp11) ⭐ 114 | 🐛 13 | 🌐 C++ | 📅 2013-11-07 - Away Physics - 3D physics library for the Away3D FP 11 ([examples](https://github.com/away3d/awayphysics-examples-fp11) ⭐ 57 | 🐛 0 | 🌐 ActionScript | 📅 2013-02-24).
@@ -674,4 +674,4 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
