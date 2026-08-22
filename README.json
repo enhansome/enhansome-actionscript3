@@ -231,7 +231,7 @@
                 "last_commit": "2026-07-17T08:08:05Z",
                 "owner": "Gamua",
                 "repo": "Starling-Framework",
-                "stars": 3087
+                "stars": 3090
               }
             },
             {
@@ -1978,10 +1978,10 @@
                 "archived": false,
                 "id": 2562751,
                 "language": "Java",
-                "last_commit": "2026-08-17T06:52:29Z",
+                "last_commit": "2026-08-21T18:42:21Z",
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34071
+                "stars": 34072
               }
             },
             {
@@ -5510,7 +5510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:37:22.904Z",
+    "last_updated": "2026-08-22T02:29:05.540Z",
     "original_repository": "robinrodricks/awesome-actionscript3",
     "original_repository_id": 93946771,
     "original_repository_sha": "b56e5f021fa79f4c8567f49e81e231db37f3a7a5",
