@@ -119,7 +119,7 @@
                 "last_commit": "2020-06-16T09:09:56Z",
                 "owner": "robotlegs",
                 "repo": "robotlegs-framework",
-                "stars": 963
+                "stars": 962
               }
             },
             {
@@ -343,7 +343,7 @@
                 "last_commit": "2015-11-05T01:35:36Z",
                 "owner": "AdamAtomic",
                 "repo": "flixel",
-                "stars": 1144
+                "stars": 1143
               }
             },
             {
@@ -358,7 +358,7 @@
                 "last_commit": "2016-03-31T05:56:47Z",
                 "owner": "useflashpunk",
                 "repo": "FlashPunk",
-                "stars": 396
+                "stars": 395
               }
             },
             {
@@ -604,7 +604,7 @@
                 "last_commit": "2025-05-19T18:05:34Z",
                 "owner": "robertpenner",
                 "repo": "as3-signals",
-                "stars": 1064
+                "stars": 1063
               }
             },
             {
@@ -1414,7 +1414,7 @@
                 "last_commit": "2012-08-02T16:28:23Z",
                 "owner": "prefuse",
                 "repo": "Flare",
-                "stars": 352
+                "stars": 351
               }
             },
             {
@@ -1981,7 +1981,7 @@
                 "last_commit": "2026-08-21T18:42:21Z",
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34074
+                "stars": 34075
               }
             },
             {
@@ -2871,7 +2871,7 @@
                 "last_commit": "2012-02-06T03:07:18Z",
                 "owner": "mherkender",
                 "repo": "actionjson",
-                "stars": 125
+                "stars": 126
               }
             },
             {
@@ -4134,7 +4134,7 @@
                 "last_commit": "2024-08-18T20:22:14Z",
                 "owner": "mikechambers",
                 "repo": "as3corelib",
-                "stars": 1504
+                "stars": 1503
               }
             },
             {
@@ -4528,7 +4528,7 @@
                 "last_commit": "2015-08-02T12:15:51Z",
                 "owner": "nesbox",
                 "repo": "emulator",
-                "stars": 653
+                "stars": 654
               }
             },
             {
@@ -5510,7 +5510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:37:49.178Z",
+    "last_updated": "2026-08-24T02:38:13.647Z",
     "original_repository": "robinrodricks/awesome-actionscript3",
     "original_repository_id": 93946771,
     "original_repository_sha": "b56e5f021fa79f4c8567f49e81e231db37f3a7a5",
