@@ -42,9 +42,9 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Asset Creators
 
+* [FlashMovieClipConverter](https://github.com/zenrobin/FlashMovieClipConverter) ⭐ 24 | 🐛 5 | 🌐 ActionScript | 📅 2013-10-02 - Converts a Flash MovieClip to a Starling IAnimatable Sprite.
 * [Adobe Animate CC](https://www.adobe.com/products/animate.html) - Premiere vector graphics and animation toolset for vector/spritesheet creation.
 * [TILED Map Editor](http://www.mapeditor.org/) - Flexible tile map editor compatible with various AS3 game engines.
-* [FlashMovieClipConverter](https://github.com/zenrobin/FlashMovieClipConverter) ⭐ 24 | 🐛 5 | 🌐 ActionScript | 📅 2013-10-02 - Converts a Flash MovieClip to a Starling IAnimatable Sprite.
 
 #### SWF Obfuscators
 
@@ -264,7 +264,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### QR Code
 
-* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,075 | 🐛 2 | 🌐 Java | 📅 2026-08-21 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
+* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,077 | 🐛 1 | 🌐 Java | 📅 2026-08-24 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
 * [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) ⭐ 91 | 🐛 3 | 🌐 ActionScript | 📅 2016-08-18 - QR code encoder in as3.
 * [qrcode-as](https://github.com/yanbe/qrcode-as) ⭐ 29 | 🐛 1 | 🌐 ActionScript | 📅 2011-10-31 - QR Code reader which supports webcam on Windows, Mac and Linux.
 

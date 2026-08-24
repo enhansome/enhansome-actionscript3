@@ -44,6 +44,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "FlashMovieClipConverter",
+              "description": "Converts a Flash MovieClip to a Starling IAnimatable Sprite.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7380480,
+                "language": "ActionScript",
+                "last_commit": "2013-10-02T15:33:38Z",
+                "owner": "zenrobin",
+                "repo": "FlashMovieClipConverter",
+                "stars": 24
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Asset Creators"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "SWFWire",
               "description": "Advanced SWF Decompiler, Inspector and Debugger Tools (website).",
               "children": [],
@@ -1978,10 +2000,10 @@
                 "archived": false,
                 "id": 2562751,
                 "language": "Java",
-                "last_commit": "2026-08-21T18:42:21Z",
+                "last_commit": "2026-08-24T12:12:03Z",
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34075
+                "stars": 34077
               }
             },
             {
@@ -2479,6 +2501,94 @@
           "description": null,
           "node_type": "group",
           "title": "CouchDB"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AS3mysql",
+              "description": "Driver for the MySQL open source database.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73711032,
+                "language": "ActionScript",
+                "last_commit": "2016-11-14T15:38:32Z",
+                "owner": "robinrodricks",
+                "repo": "as3mysql",
+                "stars": 16
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MySQL"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pegasus",
+              "description": "Driver for the PostgreSQL open source database.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 388101,
+                "language": "ActionScript",
+                "last_commit": "2012-03-08T20:50:46Z",
+                "owner": "msakrejda",
+                "repo": "pegasus",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PostgreSQL"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AWS-dynamodb",
+              "description": "Driver for accessing Amazon's AWS DynamoDB.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16741513,
+                "language": "ActionScript",
+                "last_commit": "2014-02-11T19:28:49Z",
+                "owner": "ferf",
+                "repo": "aws-dynamodb-actionscript",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "DynamoDB"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AS3redis",
+              "description": "Driver for Redis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1014991,
+                "language": "ActionScript",
+                "last_commit": "2009-11-24T03:59:17Z",
+                "owner": "zhangq0355",
+                "repo": "as3redis",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Redis"
         }
       ],
       "title": "Database"
@@ -2861,6 +2971,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "AS3iCAL",
+              "description": "iCal parser based on the RFC2445 specification.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 378377,
+                "language": "ActionScript",
+                "last_commit": "2011-02-03T08:03:57Z",
+                "owner": "nicolai86",
+                "repo": "as3.iCal",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ICAL"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Actionjson",
               "description": "Faster, more advanced ActionScript 3 JSON library.",
               "children": [],
@@ -3099,6 +3231,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "AS3-psd-parser",
+              "description": "Parse Photoshop PSD files and render as BitmapData objects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3711535,
+                "language": "ActionScript",
+                "last_commit": "2012-03-13T21:34:47Z",
+                "owner": "warrenseine",
+                "repo": "as3-psd-parser",
+                "stars": 35
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PSD"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "AS3swf",
               "description": "Low level library to parse, create, modify and publish SWF files.",
               "children": [],
@@ -3250,6 +3404,28 @@
           "description": null,
           "node_type": "group",
           "title": "XML"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AS3-xlsx-reader",
+              "description": "Parse Open XML Excel (.XLSX) or Open Office spreadsheets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1273572,
+                "language": "ActionScript",
+                "last_commit": "2020-10-01T05:12:29Z",
+                "owner": "childoftv",
+                "repo": "as3-xlsx-reader",
+                "stars": 41
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "XLSX"
         }
       ],
       "title": "File Formats"
@@ -4246,6 +4422,28 @@
           "description": null,
           "node_type": "group",
           "title": "Crypto"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AS3Commons Collections",
+              "description": "Sophisticated and high-performance collections & iterators for AS3.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1639412,
+                "language": "ActionScript",
+                "last_commit": "2011-09-19T16:47:35Z",
+                "owner": "AS3Commons",
+                "repo": "as3commons-collections",
+                "stars": 105
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data"
         },
         {
           "children": [
@@ -5510,7 +5708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:38:13.647Z",
+    "last_updated": "2026-08-24T14:28:33.580Z",
     "original_repository": "robinrodricks/awesome-actionscript3",
     "original_repository_id": 93946771,
     "original_repository_sha": "b56e5f021fa79f4c8567f49e81e231db37f3a7a5",
