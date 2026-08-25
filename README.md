@@ -116,7 +116,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Animation
 
-* [GreenSock GSAP](https://greensock.com/gsap-as) - The industry-standard animation library for Flash (TweenLite, TweenMax) ([github](https://github.com/greensock/GreenSock-AS3) ⭐ 421 | 🐛 3 | 🌐 ActionScript | 📅 2019-05-29).
+* [GreenSock GSAP](https://greensock.com/gsap-as) - The industry-standard animation library for Flash (TweenLite, TweenMax) ([github](https://github.com/greensock/GreenSock-AS3) ⭐ 422 | 🐛 3 | 🌐 ActionScript | 📅 2019-05-29).
 * [StarlingGAFPlayer](https://github.com/zenrobin/StarlingGAFPlayer) ⭐ 1 | 🐛 0 | 🌐 ActionScript | 📅 2016-05-24 - Play back GAF animations using Starling (animations authored in Flash Pro).
 * [GTween](http://gskinner.com/libraries/gtween/) - Small but robust library for programmatic tweening, animation, and transitions.
 * [DragonBones](http://dragonbones.github.io/) - High-speed skeletal animation using Starling, and tools to export animations from Flash Pro.
@@ -441,7 +441,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Data Loader
 
-* [GreenSock LoaderMax](https://github.com/greensock/GreenSock-AS3) ⭐ 421 | 🐛 3 | 🌐 ActionScript | 📅 2019-05-29 - Provides an easy and powerful way to load assets at runtime.
+* [GreenSock LoaderMax](https://github.com/greensock/GreenSock-AS3) ⭐ 422 | 🐛 3 | 🌐 ActionScript | 📅 2019-05-29 - Provides an easy and powerful way to load assets at runtime.
 * [BulkLoader](https://github.com/arthur-debert/BulkLoader) ⭐ 269 | 🐛 10 | 🌐 ActionScript | 📅 2015-08-31 - Bulk asset loading library for Actionscript.
 * [AssetLoader](https://github.com/Matan/AssetLoader) ⭐ 117 | 🐛 3 | 🌐 ActionScript | 📅 2013-02-22 - Multi-file/asset loader for AS3 built on AS3Signals.
 
@@ -578,7 +578,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Emulators
 
-* [NES Emulator](https://github.com/nesbox/emulator) ⭐ 654 | 🐛 91 | 🌐 ActionScript | 📅 2015-08-02 - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles.
+* [NES Emulator](https://github.com/nesbox/emulator) ⭐ 655 | 🐛 91 | 🌐 ActionScript | 📅 2015-08-02 - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles.
 * [Commodore 64 Emulator](https://github.com/claus/fc64) ⚠️ Archived - A low level Commodore 64 emulator written in Actionscript 3.
 * [8080 Emulator](https://github.com/ozipi/As3_SpaceInvaders_Emulator) ⭐ 7 | 🐛 0 | 🌐 ActionScript | 📅 2009-12-08 - An actionscript 3 space invaders emulator based on the intel 8080 processor.
 * [8-bit VM](https://github.com/OutOfTheVoid/AS3-8-bit-VM) ⭐ 6 | 🐛 0 | 🌐 ActionScript | 📅 2012-11-22 - An eight bit virtual machine written in actionscript.

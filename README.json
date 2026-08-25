@@ -589,7 +589,7 @@
                 "last_commit": "2019-05-29T16:49:47Z",
                 "owner": "greensock",
                 "repo": "GreenSock-AS3",
-                "stars": 421
+                "stars": 422
               }
             },
             {
@@ -3447,7 +3447,7 @@
                 "last_commit": "2019-05-29T16:49:47Z",
                 "owner": "greensock",
                 "repo": "GreenSock-AS3",
-                "stars": 421
+                "stars": 422
               }
             },
             {
@@ -4726,7 +4726,7 @@
                 "last_commit": "2015-08-02T12:15:51Z",
                 "owner": "nesbox",
                 "repo": "emulator",
-                "stars": 654
+                "stars": 655
               }
             },
             {
@@ -5708,7 +5708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:31:40.882Z",
+    "last_updated": "2026-08-25T06:21:16.558Z",
     "original_repository": "robinrodricks/awesome-actionscript3",
     "original_repository_id": 93946771,
     "original_repository_sha": "b56e5f021fa79f4c8567f49e81e231db37f3a7a5",
