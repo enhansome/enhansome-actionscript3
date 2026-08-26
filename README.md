@@ -63,7 +63,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### ANE Dev Tools
 
-* [Swift-IOS-ANE](https://github.com/tuarua/Swift-IOS-ANE) ⭐ 61 | 🐛 0 | 🌐 Swift | 📅 2026-01-31 - ANE starter kit written in Swift 3 for iOS 10 .
+* [Swift-IOS-ANE](https://github.com/tuarua/Swift-IOS-ANE) ⭐ 62 | 🐛 0 | 🌐 Swift | 📅 2026-01-31 - ANE starter kit written in Swift 3 for iOS 10 .
 * [FreSharp](https://github.com/tuarua/FreSharp) ⭐ 51 | 🐛 2 | 🌐 C# | 📅 2020-10-18 - Build ANEs using C# with this C# wrapper for FlashRuntimeExtensions .
 
 ## Frameworks
@@ -150,7 +150,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### UI Components
 
-* [GPUI](https://github.com/inspirit/GPUI) ⭐ 73 | 🐛 1 | 🌐 ActionScript | 📅 2012-05-03 - Tiny GUI Library based on Stage3D (GPU).
+* [GPUI](https://github.com/inspirit/GPUI) ⭐ 74 | 🐛 1 | 🌐 ActionScript | 📅 2012-05-03 - Tiny GUI Library based on Stage3D (GPU).
 * [MadComponents](https://github.com/danfreeman/MadComponents) ⭐ 46 | 🐛 1 | 🌐 ActionScript | 📅 2015-04-08 - Popular Mobile UI Framework for AS3 / AIR.
 * [Flex-Android-Material-Skins](https://github.com/quick6black/flex-Android-Material-Skins) ⚠️ Archived - Android Material Design skins for Flex Mobile components.
 * [Falcon](https://github.com/HendrixString/Falcon) ⭐ 22 | 🐛 0 | 🌐 ActionScript | 📅 2016-02-22 - responsive/flexible mobile ui controls for Feathers.
@@ -578,7 +578,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Emulators
 
-* [NES Emulator](https://github.com/nesbox/emulator) ⭐ 655 | 🐛 91 | 🌐 ActionScript | 📅 2015-08-02 - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles.
+* [NES Emulator](https://github.com/nesbox/emulator) ⭐ 656 | 🐛 91 | 🌐 ActionScript | 📅 2015-08-02 - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles.
 * [Commodore 64 Emulator](https://github.com/claus/fc64) ⚠️ Archived - A low level Commodore 64 emulator written in Actionscript 3.
 * [8080 Emulator](https://github.com/ozipi/As3_SpaceInvaders_Emulator) ⭐ 7 | 🐛 0 | 🌐 ActionScript | 📅 2009-12-08 - An actionscript 3 space invaders emulator based on the intel 8080 processor.
 * [8-bit VM](https://github.com/OutOfTheVoid/AS3-8-bit-VM) ⭐ 6 | 🐛 0 | 🌐 ActionScript | 📅 2012-11-22 - An eight bit virtual machine written in actionscript.
@@ -674,4 +674,4 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

@@ -98,7 +98,7 @@
                 "last_commit": "2026-01-31T19:03:25Z",
                 "owner": "tuarua",
                 "repo": "Swift-IOS-ANE",
-                "stars": 61
+                "stars": 62
               }
             },
             {
@@ -863,7 +863,7 @@
                 "last_commit": "2012-05-03T17:44:00Z",
                 "owner": "inspirit",
                 "repo": "GPUI",
-                "stars": 73
+                "stars": 74
               }
             },
             {
@@ -4726,7 +4726,7 @@
                 "last_commit": "2015-08-02T12:15:51Z",
                 "owner": "nesbox",
                 "repo": "emulator",
-                "stars": 655
+                "stars": 656
               }
             },
             {
@@ -5708,7 +5708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:21:16.558Z",
+    "last_updated": "2026-08-26T02:39:45.249Z",
     "original_repository": "robinrodricks/awesome-actionscript3",
     "original_repository_id": 93946771,
     "original_repository_sha": "b56e5f021fa79f4c8567f49e81e231db37f3a7a5",
