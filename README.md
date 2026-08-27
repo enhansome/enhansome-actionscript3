@@ -276,7 +276,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [SiON](https://github.com/keim/SiON) ⭐ 118 | 🐛 0 | 🌐 ActionScript | 📅 2021-08-27 - Flash Software Synthesizer.
 * [AS3sfxr](https://github.com/SFBTom/as3sfxr) ⭐ 99 | 🐛 4 | 🌐 ActionScript | 📅 2015-03-14 - Port of sfxr from C++ to AS3, using the new sound and file capabilities of Flash Player 10.
 * [Soundtouch-as3](https://github.com/also/soundtouch-as3) ⭐ 62 | 🐛 2 | 🌐 ActionScript | 📅 2010-04-05 - AS3 Port of the SoundTouch Sound Processing Library.
-* [Flod](https://github.com/photonstorm/Flod) ⭐ 53 | 🐛 2 | 🌐 ActionScript | 📅 2012-05-05 - Amiga SoundTracker (MOD) and FastTracker (XM) Replay Library.
+* [Flod](https://github.com/photonstorm/Flod) ⭐ 54 | 🐛 2 | 🌐 ActionScript | 📅 2012-05-05 - Amiga SoundTracker (MOD) and FastTracker (XM) Replay Library.
 * [AS3-Sound-Manager](https://github.com/GrupoW/as3-Sound-Manager) ⭐ 17 | 🐛 3 | 🌐 ActionScript | 📅 2011-05-10- Upgraded version of the Sound Manager Class from Matt Przybylski.
 * [Local-recorder](https://github.com/pauln/local-audio-recorder) ⭐ 14 | 🐛 1 | 🌐 ActionScript | 📅 2014-05-26 - Local audio recorder (no streaming server required).  Currently requires Flash Player 10.1 or above.
 * [SeiON](https://github.com/cardin/SeiON) ⚠️ Archived - Sound Management Library.
@@ -534,7 +534,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Crypto
 
-* [AS3corelib](https://github.com/mikechambers/as3corelib) ⭐ 1,503 | 🐛 121 | 🌐 ActionScript | 📅 2024-08-18 -  MD5 and SHA1 hashing, Image encoders, and JSON serialization.
+* [AS3corelib](https://github.com/mikechambers/as3corelib) ⭐ 1,504 | 🐛 121 | 🌐 ActionScript | 📅 2024-08-18 -  MD5 and SHA1 hashing, Image encoders, and JSON serialization.
 * [AS3Crypto](https://github.com/timkurvers/as3-crypto) ⚠️ Archived - Fork of Henri Torgemane's excellent cryptography library ([patched](https://github.com/lyokato/as3crypto_patched) ⭐ 16 | 🐛 0 | 🌐 ActionScript | 📅 2011-03-28).
 * [BlooddyCrypto](https://github.com/blooddy/blooddy_crypto) ⭐ 94 | 🐛 15 | 🌐 ActionScript | 📅 2022-02-25 - High-performance library for processing binary data. This library contains MD5, SHA-1, SHA-2, Base64, CRC32, JSON, PNG/JPEG encoders.
 * [ASCrypt](https://github.com/Meychi/ASCrypt) ⭐ 47 | 🐛 3 | 🌐 ActionScript | 📅 2015-02-07 - Crypto library with a similar API for multiple languages.
@@ -674,4 +674,4 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
