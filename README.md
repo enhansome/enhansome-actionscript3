@@ -70,7 +70,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### MVC Frameworks
 
-* [Robotlegs](https://github.com/robotlegs/robotlegs-framework) ⭐ 962 | 🐛 19 | 🌐 ActionScript | 📅 2020-06-16 - Dependency injection, module/view/command management framework for Flash.
+* [Robotlegs](https://github.com/robotlegs/robotlegs-framework) ⭐ 961 | 🐛 19 | 🌐 ActionScript | 📅 2020-06-16 - Dependency injection, module/view/command management framework for Flash.
 * [StarlingMVC](https://github.com/CreativeBottle/starlingMVC) ⭐ 125 | 🐛 10 | 🌐 ActionScript | 📅 2017-04-24 - IOC Framework for Starling based games.
 * [PureMVC](https://github.com/PureMVC/puremvc-as3-standard-framework) ⭐ 124 | 🐛 1 | 🌐 HTML | 📅 2018-10-27 - Industry-standard MVC framework for Flash ([multicore](https://github.com/PureMVC/puremvc-as3-multicore-framework) ⭐ 56 | 🐛 0 | 🌐 HTML | 📅 2018-10-27).
 * [Hummingbird](https://github.com/flashapi/hummingbird) ⚠️ Archived - Build and deploy robust MVC applications for AS3, Mobile and the Starling Framework.
@@ -264,7 +264,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### QR Code
 
-* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,079 | 🐛 0 | 🌐 Java | 📅 2026-08-24 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
+* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,078 | 🐛 0 | 🌐 Java | 📅 2026-08-24 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
 * [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) ⭐ 91 | 🐛 3 | 🌐 ActionScript | 📅 2016-08-18 - QR code encoder in as3.
 * [qrcode-as](https://github.com/yanbe/qrcode-as) ⭐ 29 | 🐛 1 | 🌐 ActionScript | 📅 2011-10-31 - QR Code reader which supports webcam on Windows, Mac and Linux.
 
@@ -578,7 +578,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Emulators
 
-* [NES Emulator](https://github.com/nesbox/emulator) ⭐ 654 | 🐛 91 | 🌐 ActionScript | 📅 2015-08-02 - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles.
+* [NES Emulator](https://github.com/nesbox/emulator) ⭐ 655 | 🐛 91 | 🌐 ActionScript | 📅 2015-08-02 - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles.
 * [Commodore 64 Emulator](https://github.com/claus/fc64) ⚠️ Archived - A low level Commodore 64 emulator written in Actionscript 3.
 * [8080 Emulator](https://github.com/ozipi/As3_SpaceInvaders_Emulator) ⭐ 7 | 🐛 0 | 🌐 ActionScript | 📅 2009-12-08 - An actionscript 3 space invaders emulator based on the intel 8080 processor.
 * [8-bit VM](https://github.com/OutOfTheVoid/AS3-8-bit-VM) ⭐ 6 | 🐛 0 | 🌐 ActionScript | 📅 2012-11-22 - An eight bit virtual machine written in actionscript.
@@ -674,4 +674,4 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
