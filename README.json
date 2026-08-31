@@ -1071,7 +1071,7 @@
                 "language": "ActionScript",
                 "license": null,
                 "last_commit": "2012-03-21T11:48:40Z",
-                "open_issues": 22,
+                "open_issues": 21,
                 "owner": "drewbourne",
                 "repo": "hamcrest-as3",
                 "stars": 176,
@@ -1210,7 +1210,7 @@
                 "language": "ActionScript",
                 "license": null,
                 "last_commit": "2012-05-03T17:44:00Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "inspirit",
                 "repo": "GPUI",
                 "stars": 74,
@@ -2798,11 +2798,11 @@
                 "id": 2562751,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-24T15:35:41Z",
-                "open_issues": 0,
+                "last_commit": "2026-08-31T06:52:37Z",
+                "open_issues": 1,
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34079,
+                "stars": 34077,
                 "topics": [
                   "android",
                   "barcode",
@@ -4939,7 +4939,7 @@
                 "open_issues": 15,
                 "owner": "quetwo",
                 "repo": "as3-arduino-connector",
-                "stars": 48,
+                "stars": 49,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -7975,7 +7975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T06:42:18.432Z",
+    "last_updated": "2026-08-31T07:03:01.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",
@@ -7987,7 +7987,7 @@
       "open_issues": 2,
       "owner": "robinrodricks",
       "repo": "awesome-actionscript3",
-      "stars": 274,
+      "stars": 275,
       "topics": [
         "actionscript",
         "actionscript3",

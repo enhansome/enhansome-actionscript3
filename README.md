@@ -6,7 +6,7 @@
 
 [Adobe AIR](https://en.wikipedia.org/wiki/Adobe_AIR) provides a single set of APIs to build cross-platform desktop/mobile applications and games. [ActionScript 3](https://en.wikipedia.org/wiki/ActionScript) is the programming language for AIR. Powerful native functionality such as file system, SQLite, sensors are included by default. To add missing functionality, you can build ANEs (Air Native Extensions) coded in the native language (eg VC++ for Windows, Java for Android, Swift/Objective-C for iOS). To build mobile apps/games with GPU-rendered graphics, use the [Starling](https://gamua.com/starling/) framework and optionally the [Feathers UI](https://feathersui.com/). Adobe AIR is very popular in the mobile gaming space.
 
-Contributions welcome. To add a useful project simply create an [Issue](https://github.com/hgupta9/awesome-actionscript3/issues) ⭐ 274 | 🐛 2 | 📅 2022-11-12.
+Contributions welcome. To add a useful project simply create an [Issue](https://github.com/hgupta9/awesome-actionscript3/issues) ⭐ 275 | 🐛 2 | 📅 2022-11-12.
 
 ## Contents
 
@@ -139,7 +139,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Unit Testing
 
 * [Flexunit](https://github.com/flexunit/flexunit) ⭐ 271 | 🐛 2 | 🌐 ActionScript | 📅 2014-01-16 - FlexUnit project for Actionscript 3 and Flex projects.
-* [hamcrest-as3](https://github.com/drewbourne/hamcrest-as3) ⭐ 176 | 🐛 22 | 🌐 ActionScript | 📅 2012-03-21 - Matcher objects allowing 'match' rules to be defined declaratively.
+* [hamcrest-as3](https://github.com/drewbourne/hamcrest-as3) ⭐ 176 | 🐛 21 | 🌐 ActionScript | 📅 2012-03-21 - Matcher objects allowing 'match' rules to be defined declaratively.
 * [ASunit](https://github.com/patternpark/asunit) ⭐ 48 | 🐛 0 | 🌐 ActionScript | 📅 2011-11-04 - The only unit test framework that supports Flash Players 6, 7, 8, 9 and 10.
 * [RobotEyes](https://github.com/Stray/RobotEyes) ⭐ 48 | 🐛 0 | 🌐 ActionScript | 📅 2010-12-08 - End-to-end testing for TDD. Hybrid of WindowLicker and Drew Bourne's Mockolate.
 * [AS3spec](https://github.com/f1337/as3spec) ⭐ 20 | 🐛 1 | 🌐 ActionScript | 📅 2010-01-14 - Tiny BDD framework for AS3, inspired by Bacon and RSpec.
@@ -150,7 +150,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### UI Components
 
-* [GPUI](https://github.com/inspirit/GPUI) ⭐ 74 | 🐛 1 | 🌐 ActionScript | 📅 2012-05-03 - Tiny GUI Library based on Stage3D (GPU).
+* [GPUI](https://github.com/inspirit/GPUI) ⭐ 74 | 🐛 2 | 🌐 ActionScript | 📅 2012-05-03 - Tiny GUI Library based on Stage3D (GPU).
 * [MadComponents](https://github.com/danfreeman/MadComponents) ⭐ 46 | 🐛 1 | 🌐 ActionScript | 📅 2015-04-08 - Popular Mobile UI Framework for AS3 / AIR.
 * [Flex-Android-Material-Skins](https://github.com/quick6black/flex-Android-Material-Skins) ⚠️ Archived - Android Material Design skins for Flex Mobile components.
 * [Falcon](https://github.com/HendrixString/Falcon) ⭐ 22 | 🐛 0 | 🌐 ActionScript | 📅 2016-02-22 - responsive/flexible mobile ui controls for Feathers.
@@ -264,7 +264,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### QR Code
 
-* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,079 | 🐛 0 | 🌐 Java | 📅 2026-08-24 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
+* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,077 | 🐛 1 | 🌐 Java | 📅 2026-08-31 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
 * [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) ⭐ 91 | 🐛 3 | 🌐 ActionScript | 📅 2016-08-18 - QR code encoder in as3.
 * [qrcode-as](https://github.com/yanbe/qrcode-as) ⭐ 29 | 🐛 1 | 🌐 ActionScript | 📅 2011-10-31 - QR Code reader which supports webcam on Windows, Mac and Linux.
 
@@ -451,7 +451,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [OpenTSPS](https://github.com/labatrockwell/openTSPS) ⭐ 197 | 🐛 26 | 🌐 C++ | 📅 2017-11-19 - TSPS is a cross platform Toolkit for Sensing People in Spaces. It performs openCV operations on live video (Kinect, web camera, etc) and sends it to clients as JSON (via WebSockets), OSC, TUIO, or TCP.
 * [AIRkinect](https://github.com/AS3NUI/airkinect-2-core) ⭐ 113 | 🐛 10 | 🌐 C++ | 📅 2017-04-17 - ANE for integrating with Microsoft Kinect. ([examples](https://github.com/AS3NUI/airkinect-2-examples) ⭐ 45 | 🐛 3 | 🌐 ActionScript | 📅 2013-05-21).
 * [Kinect-Gestures](https://github.com/tonybeltramelli/Air-Kinect-Gesture-Lib) ⭐ 53 | 🐛 1 | 🌐 ActionScript | 📅 2014-06-27 - AIR Kinect Gesture Library.
-* [AS3-arduino](https://github.com/quetwo/as3-arduino-connector) ⭐ 48 | 🐛 15 | 🌐 C | 📅 2015-03-22 - Connecting Arduino Prototyping board to Adobe AIR.
+* [AS3-arduino](https://github.com/quetwo/as3-arduino-connector) ⭐ 49 | 🐛 15 | 🌐 C | 📅 2015-03-22 - Connecting Arduino Prototyping board to Adobe AIR.
 * [KinectGate](https://github.com/cleoag/KinectGate) ⭐ 14 | 🐛 0 | 🌐 ActionScript | 📅 2011-09-03 - KinectSDK to AS3 socket gate.
 * [AS3midilib](https://github.com/heyfrench/as3midilib) ⭐ 8 | 🐛 4 | 🌐 ActionScript | 📅 2015-07-13 - Work with MIDI files and MIDI input/output devices.
 * [AS3glue](https://code.google.com/archive/p/as3glue/) - Communication for Arduino boards.
@@ -674,4 +674,4 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
