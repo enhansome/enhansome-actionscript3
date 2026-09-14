@@ -1548,7 +1548,7 @@
                 "open_issues": 5,
                 "owner": "senocular",
                 "repo": "TransformTool",
-                "stars": 78,
+                "stars": 77,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2010,7 +2010,7 @@
                 "open_issues": 4,
                 "owner": "prefuse",
                 "repo": "Flare",
-                "stars": 351,
+                "stars": 350,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2802,7 +2802,7 @@
                 "open_issues": 3,
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34093,
+                "stars": 34091,
                 "topics": [
                   "android",
                   "barcode",
@@ -7975,7 +7975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T06:12:49.853Z",
+    "last_updated": "2026-09-14T06:20:36.482Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",
