@@ -357,7 +357,7 @@
                 "open_issues": 97,
                 "owner": "Gamua",
                 "repo": "Starling-Framework",
-                "stars": 3104,
+                "stars": 3105,
                 "topics": [
                   "actionscript",
                   "adobe-air",
@@ -551,7 +551,7 @@
                 "open_issues": 69,
                 "owner": "useflashpunk",
                 "repo": "FlashPunk",
-                "stars": 395,
+                "stars": 396,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2802,7 +2802,7 @@
                 "open_issues": 3,
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34091,
+                "stars": 34092,
                 "topics": [
                   "android",
                   "barcode",
@@ -7975,7 +7975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T06:20:36.482Z",
+    "last_updated": "2026-09-15T06:11:01.622Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",
