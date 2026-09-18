@@ -892,7 +892,7 @@
                 "open_issues": 9,
                 "owner": "robertpenner",
                 "repo": "as3-signals",
-                "stars": 1064,
+                "stars": 1063,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2802,7 +2802,7 @@
                 "open_issues": 3,
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34094,
+                "stars": 34097,
                 "topics": [
                   "android",
                   "barcode",
@@ -7513,7 +7513,7 @@
                 "open_issues": 11,
                 "owner": "myflashlab",
                 "repo": "bluetooth-ANE",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -7975,7 +7975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T06:10:04.429Z",
+    "last_updated": "2026-09-18T05:57:16.675Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",
@@ -7987,7 +7987,7 @@
       "open_issues": 2,
       "owner": "robinrodricks",
       "repo": "awesome-actionscript3",
-      "stars": 275,
+      "stars": 276,
       "topics": [
         "actionscript",
         "actionscript3",
