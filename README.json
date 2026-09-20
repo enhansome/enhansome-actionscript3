@@ -2802,7 +2802,7 @@
                 "open_issues": 3,
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34100,
+                "stars": 34102,
                 "topics": [
                   "android",
                   "barcode",
@@ -7975,7 +7975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T05:55:39.821Z",
+    "last_updated": "2026-09-20T06:20:06.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",
