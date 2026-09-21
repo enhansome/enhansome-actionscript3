@@ -843,7 +843,7 @@
                 "open_issues": 3,
                 "owner": "greensock",
                 "repo": "GreenSock-AS3",
-                "stars": 421,
+                "stars": 422,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2802,7 +2802,7 @@
                 "open_issues": 3,
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34102,
+                "stars": 34106,
                 "topics": [
                   "android",
                   "barcode",
@@ -3474,27 +3474,6 @@
                 "owner": "bustardcelly",
                 "repo": "as3couchdb",
                 "stars": 38,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T12:48:13.693Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Soup",
-              "description": "Mixing CouchDB, Sinatra, AIR and RestfulX to create an offline/online ready app with undo/redo capabilities.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Mixing CouchDB, Sinatra, AIR and RestfulX to create an offline/online ready app with undo/redo capabilities.",
-                "homepage": null,
-                "id": 113737,
-                "language": "ActionScript",
-                "license": null,
-                "last_commit": "2009-03-19T08:15:48Z",
-                "open_issues": 0,
-                "owner": "dima",
-                "repo": "soup",
-                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -4785,7 +4764,7 @@
                 "open_issues": 3,
                 "owner": "greensock",
                 "repo": "GreenSock-AS3",
-                "stars": 421,
+                "stars": 422,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -7975,7 +7954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T06:20:06.717Z",
+    "last_updated": "2026-09-21T06:23:57.408Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",

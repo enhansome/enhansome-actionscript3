@@ -116,7 +116,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Animation
 
-* [GreenSock GSAP](https://greensock.com/gsap-as) - The industry-standard animation library for Flash (TweenLite, TweenMax) ([github](https://github.com/greensock/GreenSock-AS3) ⭐ 421 | 🐛 3 | 🌐 ActionScript | 📅 2019-05-29).
+* [GreenSock GSAP](https://greensock.com/gsap-as) - The industry-standard animation library for Flash (TweenLite, TweenMax) ([github](https://github.com/greensock/GreenSock-AS3) ⭐ 422 | 🐛 3 | 🌐 ActionScript | 📅 2019-05-29).
 * [StarlingGAFPlayer](https://github.com/zenrobin/StarlingGAFPlayer) ⭐ 1 | 🐛 0 | 🌐 ActionScript | 📅 2016-05-24 - Play back GAF animations using Starling (animations authored in Flash Pro).
 * [GTween](http://gskinner.com/libraries/gtween/) - Small but robust library for programmatic tweening, animation, and transitions.
 * [DragonBones](http://dragonbones.github.io/) - High-speed skeletal animation using Starling, and tools to export animations from Flash Pro.
@@ -264,7 +264,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### QR Code
 
-* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,102 | 🐛 3 | 🌐 Java | 📅 2026-09-07 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
+* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,106 | 🐛 3 | 🌐 Java | 📅 2026-09-07 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
 * [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) ⭐ 91 | 🐛 3 | 🌐 ActionScript | 📅 2016-08-18 - QR code encoder in as3.
 * [qrcode-as](https://github.com/yanbe/qrcode-as) ⭐ 29 | 🐛 1 | 🌐 ActionScript | 📅 2011-10-31 - QR Code reader which supports webcam on Windows, Mac and Linux.
 
@@ -311,7 +311,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### CouchDB
 
 * [AS3couchdb](https://github.com/bustardcelly/as3couchdb) ⭐ 38 | 🐛 4 | 🌐 ActionScript | 📅 2010-11-19 - Client-side API for interacting with a CouchDB instance.
-* [Soup](https://github.com/dima/soup) ⚠️ Archived - Mixing CouchDB, Sinatra, AIR and RestfulX to create an offline/online ready app with undo/redo capabilities.
+* [Soup](https://github.com/dima/soup) - Mixing CouchDB, Sinatra, AIR and RestfulX to create an offline/online ready app with undo/redo capabilities.
 
 #### MySQL
 
@@ -441,7 +441,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Data Loader
 
-* [GreenSock LoaderMax](https://github.com/greensock/GreenSock-AS3) ⭐ 421 | 🐛 3 | 🌐 ActionScript | 📅 2019-05-29 - Provides an easy and powerful way to load assets at runtime.
+* [GreenSock LoaderMax](https://github.com/greensock/GreenSock-AS3) ⭐ 422 | 🐛 3 | 🌐 ActionScript | 📅 2019-05-29 - Provides an easy and powerful way to load assets at runtime.
 * [BulkLoader](https://github.com/arthur-debert/BulkLoader) ⭐ 269 | 🐛 10 | 🌐 ActionScript | 📅 2015-08-31 - Bulk asset loading library for Actionscript.
 * [AssetLoader](https://github.com/Matan/AssetLoader) ⭐ 117 | 🐛 3 | 🌐 ActionScript | 📅 2013-02-22 - Multi-file/asset loader for AS3 built on AS3Signals.
 
@@ -674,4 +674,4 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
