@@ -131,7 +131,7 @@
                 "open_issues": 0,
                 "owner": "tuarua",
                 "repo": "Swift-IOS-ANE",
-                "stars": 62,
+                "stars": 63,
                 "topics": [
                   "actionscript",
                   "adobe-air",
@@ -203,7 +203,7 @@
                 "open_issues": 19,
                 "owner": "robotlegs",
                 "repo": "robotlegs-framework",
-                "stars": 961,
+                "stars": 962,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2798,11 +2798,11 @@
                 "id": 2562751,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T06:52:57Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-21T06:52:42Z",
+                "open_issues": 5,
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34106,
+                "stars": 34105,
                 "topics": [
                   "android",
                   "barcode",
@@ -6948,7 +6948,7 @@
                 "open_issues": 1,
                 "owner": "tuarua",
                 "repo": "AVANE",
-                "stars": 57,
+                "stars": 58,
                 "topics": [
                   "actionscript",
                   "adobe-air",
@@ -7230,7 +7230,7 @@
                 "open_issues": 0,
                 "owner": "myflashlab",
                 "repo": "Firebase-ANE",
-                "stars": 57,
+                "stars": 58,
                 "topics": [
                   "actionscript",
                   "adobe-air",
@@ -7954,7 +7954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T06:23:57.408Z",
+    "last_updated": "2026-09-22T06:17:11.155Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",

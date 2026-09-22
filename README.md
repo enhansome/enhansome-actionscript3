@@ -63,14 +63,14 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### ANE Dev Tools
 
-* [Swift-IOS-ANE](https://github.com/tuarua/Swift-IOS-ANE) ⭐ 62 | 🐛 0 | 🌐 Swift | 📅 2026-01-31 - ANE starter kit written in Swift 3 for iOS 10 .
+* [Swift-IOS-ANE](https://github.com/tuarua/Swift-IOS-ANE) ⭐ 63 | 🐛 0 | 🌐 Swift | 📅 2026-01-31 - ANE starter kit written in Swift 3 for iOS 10 .
 * [FreSharp](https://github.com/tuarua/FreSharp) ⭐ 51 | 🐛 2 | 🌐 C# | 📅 2020-10-18 - Build ANEs using C# with this C# wrapper for FlashRuntimeExtensions .
 
 ## Frameworks
 
 #### MVC Frameworks
 
-* [Robotlegs](https://github.com/robotlegs/robotlegs-framework) ⭐ 961 | 🐛 19 | 🌐 ActionScript | 📅 2020-06-16 - Dependency injection, module/view/command management framework for Flash.
+* [Robotlegs](https://github.com/robotlegs/robotlegs-framework) ⭐ 962 | 🐛 19 | 🌐 ActionScript | 📅 2020-06-16 - Dependency injection, module/view/command management framework for Flash.
 * [StarlingMVC](https://github.com/CreativeBottle/starlingMVC) ⭐ 125 | 🐛 10 | 🌐 ActionScript | 📅 2017-04-24 - IOC Framework for Starling based games.
 * [PureMVC](https://github.com/PureMVC/puremvc-as3-standard-framework) ⭐ 124 | 🐛 1 | 🌐 HTML | 📅 2018-10-27 - Industry-standard MVC framework for Flash ([multicore](https://github.com/PureMVC/puremvc-as3-multicore-framework) ⭐ 56 | 🐛 0 | 🌐 HTML | 📅 2018-10-27).
 * [Hummingbird](https://github.com/flashapi/hummingbird) ⚠️ Archived - Build and deploy robust MVC applications for AS3, Mobile and the Starling Framework.
@@ -264,7 +264,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### QR Code
 
-* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,106 | 🐛 3 | 🌐 Java | 📅 2026-09-07 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
+* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,105 | 🐛 5 | 🌐 Java | 📅 2026-09-21 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
 * [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) ⭐ 91 | 🐛 3 | 🌐 ActionScript | 📅 2016-08-18 - QR code encoder in as3.
 * [qrcode-as](https://github.com/yanbe/qrcode-as) ⭐ 29 | 🐛 1 | 🌐 ActionScript | 📅 2011-10-31 - QR Code reader which supports webcam on Windows, Mac and Linux.
 
@@ -674,4 +674,4 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
