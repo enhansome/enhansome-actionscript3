@@ -530,7 +530,7 @@
                 "open_issues": 75,
                 "owner": "AdamAtomic",
                 "repo": "flixel",
-                "stars": 1144,
+                "stars": 1143,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2802,7 +2802,7 @@
                 "open_issues": 5,
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34112,
+                "stars": 34111,
                 "topics": [
                   "android",
                   "barcode",
@@ -7954,7 +7954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T06:12:05.377Z",
+    "last_updated": "2026-09-25T06:10:27.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",
@@ -7966,7 +7966,7 @@
       "open_issues": 2,
       "owner": "robinrodricks",
       "repo": "awesome-actionscript3",
-      "stars": 276,
+      "stars": 275,
       "topics": [
         "actionscript",
         "actionscript3",
