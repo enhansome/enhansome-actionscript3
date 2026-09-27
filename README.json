@@ -1989,7 +1989,7 @@
                 "open_issues": 8,
                 "owner": "WeaveTeam",
                 "repo": "Weave",
-                "stars": 367,
+                "stars": 368,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -7954,7 +7954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T06:10:36.958Z",
+    "last_updated": "2026-09-27T06:37:53.109Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",

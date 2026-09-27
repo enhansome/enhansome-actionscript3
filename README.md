@@ -207,7 +207,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Data Visualization
 
-* [Weave](https://github.com/WeaveTeam/Weave) ⭐ 367 | 🐛 8 | 🌐 ActionScript | 📅 2019-01-06 - Web-based Analysis and Visualization Environment.
+* [Weave](https://github.com/WeaveTeam/Weave) ⭐ 368 | 🐛 8 | 🌐 ActionScript | 📅 2019-01-06 - Web-based Analysis and Visualization Environment.
 * [Flare](https://github.com/prefuse/Flare) ⭐ 350 | 🐛 4 | 🌐 ActionScript | 📅 2012-08-02 - charts and graphs, supports data management, visual encoding, animation, and interaction techniques.
 * [clearmaps](https://github.com/sunlightlabs/clearmaps) ⭐ 62 | 🐛 1 | 🌐 ActionScript | 📅 2010-02-17 - Mapping framework for data visualization.
 * [Flextreemap](https://github.com/joshtynjala/flextreemap) ⚠️ Archived - TreeMap data visualization component for Adobe Flex.
@@ -674,4 +674,4 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
