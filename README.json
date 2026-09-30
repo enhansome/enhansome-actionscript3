@@ -357,7 +357,7 @@
                 "open_issues": 97,
                 "owner": "Gamua",
                 "repo": "Starling-Framework",
-                "stars": 3107,
+                "stars": 3108,
                 "topics": [
                   "actionscript",
                   "adobe-air",
@@ -439,7 +439,7 @@
                 "open_issues": 5,
                 "owner": "MoritzStefaner",
                 "repo": "Elastic-Lists",
-                "stars": 108,
+                "stars": 109,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -843,7 +843,7 @@
                 "open_issues": 3,
                 "owner": "greensock",
                 "repo": "GreenSock-AS3",
-                "stars": 423,
+                "stars": 424,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -892,7 +892,7 @@
                 "open_issues": 9,
                 "owner": "robertpenner",
                 "repo": "as3-signals",
-                "stars": 1063,
+                "stars": 1064,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -1706,7 +1706,7 @@
                 "open_issues": 0,
                 "owner": "TouchScript",
                 "repo": "TouchScript.as3",
-                "stars": 19,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2802,7 +2802,7 @@
                 "open_issues": 5,
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34117,
+                "stars": 34116,
                 "topics": [
                   "android",
                   "barcode",
@@ -4764,7 +4764,7 @@
                 "open_issues": 3,
                 "owner": "greensock",
                 "repo": "GreenSock-AS3",
-                "stars": 423,
+                "stars": 424,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -6518,7 +6518,7 @@
                 "open_issues": 91,
                 "owner": "nesbox",
                 "repo": "emulator",
-                "stars": 656,
+                "stars": 657,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -7954,7 +7954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T06:57:02.991Z",
+    "last_updated": "2026-09-30T06:45:36.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",
