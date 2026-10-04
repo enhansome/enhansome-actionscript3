@@ -273,7 +273,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) ⭐ 241 | 🐛 34 | 🌐 ActionScript | 📅 2016-10-25 - Recording audio and saving as a WAV.
 * [Standingwave3](https://github.com/maxl0rd/standingwave3) ⭐ 161 | 🐛 18 | 🌐 ActionScript | 📅 2012-12-20 - Dynamic audio library.
 * [SoundAS](https://github.com/treefortress/SoundAS) ⭐ 139 | 🐛 11 | 🌐 ActionScript | 📅 2023-10-02 - Modern & lightweight sound manager for AS3.
-* [SiON](https://github.com/keim/SiON) ⭐ 118 | 🐛 0 | 🌐 ActionScript | 📅 2021-08-27 - Flash Software Synthesizer.
+* [SiON](https://github.com/keim/SiON) ⭐ 119 | 🐛 0 | 🌐 ActionScript | 📅 2021-08-27 - Flash Software Synthesizer.
 * [AS3sfxr](https://github.com/SFBTom/as3sfxr) ⭐ 98 | 🐛 4 | 🌐 ActionScript | 📅 2015-03-14 - Port of sfxr from C++ to AS3, using the new sound and file capabilities of Flash Player 10.
 * [Soundtouch-as3](https://github.com/also/soundtouch-as3) ⭐ 62 | 🐛 2 | 🌐 ActionScript | 📅 2010-04-05 - AS3 Port of the SoundTouch Sound Processing Library.
 * [Flod](https://github.com/photonstorm/Flod) ⭐ 54 | 🐛 2 | 🌐 ActionScript | 📅 2012-05-05 - Amiga SoundTracker (MOD) and FastTracker (XM) Replay Library.
@@ -578,7 +578,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Emulators
 
-* [NES Emulator](https://github.com/nesbox/emulator) ⭐ 658 | 🐛 91 | 🌐 ActionScript | 📅 2015-08-02 - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles.
+* [NES Emulator](https://github.com/nesbox/emulator) ⭐ 659 | 🐛 91 | 🌐 ActionScript | 📅 2015-08-02 - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles.
 * [Commodore 64 Emulator](https://github.com/claus/fc64) ⚠️ Archived - A low level Commodore 64 emulator written in Actionscript 3.
 * [8080 Emulator](https://github.com/ozipi/As3_SpaceInvaders_Emulator) ⭐ 7 | 🐛 0 | 🌐 ActionScript | 📅 2009-12-08 - An actionscript 3 space invaders emulator based on the intel 8080 processor.
 * [8-bit VM](https://github.com/OutOfTheVoid/AS3-8-bit-VM) ⭐ 6 | 🐛 0 | 🌐 ActionScript | 📅 2012-11-22 - An eight bit virtual machine written in actionscript.
@@ -674,4 +674,4 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

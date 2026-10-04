@@ -2944,7 +2944,7 @@
                 "open_issues": 0,
                 "owner": "keim",
                 "repo": "SiON",
-                "stars": 118,
+                "stars": 119,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -6518,7 +6518,7 @@
                 "open_issues": 91,
                 "owner": "nesbox",
                 "repo": "emulator",
-                "stars": 658,
+                "stars": 659,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -7954,7 +7954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T06:35:14.776Z",
+    "last_updated": "2026-10-04T06:58:21.761Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",
