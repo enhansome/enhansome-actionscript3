@@ -731,7 +731,7 @@
                 "open_issues": 111,
                 "owner": "away3d",
                 "repo": "away3d-core-fp11",
-                "stars": 641,
+                "stars": 642,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2802,7 +2802,7 @@
                 "open_issues": 5,
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34114,
+                "stars": 34115,
                 "topics": [
                   "android",
                   "barcode",
@@ -3007,7 +3007,7 @@
                 "open_issues": 2,
                 "owner": "photonstorm",
                 "repo": "Flod",
-                "stars": 54,
+                "stars": 55,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -7954,7 +7954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T06:58:21.761Z",
+    "last_updated": "2026-10-05T07:05:46.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",
