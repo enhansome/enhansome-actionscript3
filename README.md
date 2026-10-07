@@ -83,7 +83,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework) ⭐ 3,109 | 🐛 97 | 🌐 ActionScript | 📅 2026-07-17, [help](http://wiki.starling-framework.org/start)).
 * [Feathers UI](https://feathersui.com/) - User interface components for Starling Framework ([github](https://github.com/BowlerHatLLC/feathers) ⭐ 915 | 🐛 169 | 🌐 ActionScript | 📅 2026-08-20, [help](https://feathersui.com/help/index.html)).
 * [Swiz](https://github.com/swiz/swiz-framework) ⭐ 225 | 🐛 18 | 🌐 ActionScript | 📅 2013-06-19 - Brutally simple micro-architecture for creating RIAs with AS3 and Adobe Flex.
-* [Elastic-Lists](https://github.com/MoritzStefaner/Elastic-Lists) ⭐ 109 | 🐛 5 | 🌐 ActionScript | 📅 2011-06-03 - Fluid and powerful interface for facet browsing.
+* [Elastic-Lists](https://github.com/MoritzStefaner/Elastic-Lists) ⭐ 108 | 🐛 5 | 🌐 ActionScript | 📅 2011-06-03 - Fluid and powerful interface for facet browsing.
 * [AS3Commons UI](https://github.com/AS3Commons/as3commons-ui) ⭐ 61 | 🐛 2 | 🌐 ActionScript | 📅 2011-12-21 - Layouting, focus and keyboard management framework.
 * [Flow](https://github.com/artman/Flow) ⭐ 30 | 🐛 0 | 🌐 ActionScript | 📅 2014-08-30 - Layout, effects, data binding and remoting framework to be used instead of Flex.
 * [Hiddenwood](https://github.com/raweden/Project-Hiddenwood) ⚠️ Archived - User interface library developed for a web app project, written in AS3 and in a MVC pattern.
@@ -93,7 +93,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Game Frameworks
 
 * [Flixel](https://github.com/AdamAtomic/flixel) ⭐ 1,143 | 🐛 75 | 🌐 ActionScript | 📅 2015-11-05 - Useful base classes that you can extend to make your own game objects.
-* [FlashPunk](https://github.com/useflashpunk/FlashPunk) ⭐ 396 | 🐛 69 | 🌐 ActionScript | 📅 2016-03-31 - Framework to build 2D games. Provides graphics, events, inputs, animation, etc.
+* [FlashPunk](https://github.com/useflashpunk/FlashPunk) ⭐ 395 | 🐛 69 | 🌐 ActionScript | 📅 2016-03-31 - Framework to build 2D games. Provides graphics, events, inputs, animation, etc.
 * [StarlingPunk](https://github.com/asaia/StarlingPunk) ⭐ 139 | 🐛 6 | 🌐 ActionScript | 📅 2017-04-17 - Framework built on Starling to add structure and organization to your game projects.
 * [YCanvas](https://github.com/jozefchutka/YCanvas) ⭐ 117 | 🐛 3 | 🌐 ActionScript | 📅 2014-12-15 - High-performance 2D tile renderer and world map renderer.
 * [IsoHill](https://github.com/jadbox/IsoHill-Game-Engine) ⭐ 101 | 🐛 1 | 🌐 ActionScript | 📅 2012-08-30 - GPU-based Isometric engine built on Starling, with TILED map parser, layers, etc ([website](http://www.isohill.com/)).
@@ -264,13 +264,13 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### QR Code
 
-* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,117 | 🐛 5 | 🌐 Java | 📅 2026-09-21 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
+* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,117 | 🐛 4 | 🌐 Java | 📅 2026-10-06 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
 * [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) ⭐ 91 | 🐛 3 | 🌐 ActionScript | 📅 2016-08-18 - QR code encoder in as3.
 * [qrcode-as](https://github.com/yanbe/qrcode-as) ⭐ 29 | 🐛 1 | 🌐 ActionScript | 📅 2011-10-31 - QR Code reader which supports webcam on Windows, Mac and Linux.
 
 #### Sound
 
-* [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) ⭐ 241 | 🐛 34 | 🌐 ActionScript | 📅 2016-10-25 - Recording audio and saving as a WAV.
+* [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) ⭐ 240 | 🐛 34 | 🌐 ActionScript | 📅 2016-10-25 - Recording audio and saving as a WAV.
 * [Standingwave3](https://github.com/maxl0rd/standingwave3) ⭐ 161 | 🐛 18 | 🌐 ActionScript | 📅 2012-12-20 - Dynamic audio library.
 * [SoundAS](https://github.com/treefortress/SoundAS) ⭐ 139 | 🐛 11 | 🌐 ActionScript | 📅 2023-10-02 - Modern & lightweight sound manager for AS3.
 * [SiON](https://github.com/keim/SiON) ⭐ 119 | 🐛 0 | 🌐 ActionScript | 📅 2021-08-27 - Flash Software Synthesizer.
@@ -674,4 +674,4 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._

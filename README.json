@@ -439,7 +439,7 @@
                 "open_issues": 5,
                 "owner": "MoritzStefaner",
                 "repo": "Elastic-Lists",
-                "stars": 109,
+                "stars": 108,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -551,7 +551,7 @@
                 "open_issues": 69,
                 "owner": "useflashpunk",
                 "repo": "FlashPunk",
-                "stars": 396,
+                "stars": 395,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2798,8 +2798,8 @@
                 "id": 2562751,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T06:52:42Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-06T19:23:52Z",
+                "open_issues": 4,
                 "owner": "zxing",
                 "repo": "zxing",
                 "stars": 34117,
@@ -2881,7 +2881,7 @@
                 "open_issues": 34,
                 "owner": "michalstocki",
                 "repo": "FlashWavRecorder",
-                "stars": 241,
+                "stars": 240,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -3625,7 +3625,7 @@
                 "open_issues": 5,
                 "owner": "claus",
                 "repo": "fzip",
-                "stars": 184,
+                "stars": 183,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -7954,7 +7954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:13:48.580Z",
+    "last_updated": "2026-10-07T07:16:31.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",
