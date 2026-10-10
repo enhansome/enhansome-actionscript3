@@ -312,27 +312,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Apollo",
-              "description": "Dependency injection and messaging framework, which can be used as the basis for MVC projects.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Apollo is an dependency injection and messaging framework. It can be used as the basis for Actionscript MVC projects. ",
-                "homepage": null,
-                "id": 2201585,
-                "language": "ActionScript",
-                "license": null,
-                "last_commit": "2011-08-24T23:02:41Z",
-                "open_issues": 0,
-                "owner": "LaurentZuijdwijk",
-                "repo": "Apollo",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T12:48:13.693Z"
             }
           ],
           "description": null,
@@ -353,8 +332,8 @@
                 "id": 2097941,
                 "language": "ActionScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-07-17T08:08:05Z",
-                "open_issues": 98,
+                "last_commit": "2026-10-09T13:18:34Z",
+                "open_issues": 97,
                 "owner": "Gamua",
                 "repo": "Starling-Framework",
                 "stars": 3111,
@@ -2802,7 +2781,7 @@
                 "open_issues": 4,
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34126,
+                "stars": 34129,
                 "topics": [
                   "android",
                   "barcode",
@@ -2965,7 +2944,7 @@
                 "open_issues": 4,
                 "owner": "SFBTom",
                 "repo": "as3sfxr",
-                "stars": 98,
+                "stars": 99,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -3165,7 +3144,7 @@
                 "open_issues": 103,
                 "owner": "flowplayer",
                 "repo": "flash",
-                "stars": 283,
+                "stars": 282,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -7954,7 +7933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T07:25:09.269Z",
+    "last_updated": "2026-10-10T07:11:23.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",

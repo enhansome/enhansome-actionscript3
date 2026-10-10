@@ -76,11 +76,11 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Hummingbird](https://github.com/flashapi/hummingbird) ⚠️ Archived - Build and deploy robust MVC applications for AS3, Mobile and the Starling Framework.
 * [Somacore](https://github.com/soundstep/somacore_framework) ⭐ 21 | 🐛 0 | 🌐 ActionScript | 📅 2011-12-14 - Lightweight event-based AS3 MVC framework.
 * [Kote](https://github.com/whitered/Kote) ⭐ 4 | 🐛 0 | 🌐 ActionScript | 📅 2013-03-18 - Fast and lightweight MVC framework that brings together the best of PureMVC and as3-signals.
-* [Apollo](https://github.com/LaurentZuijdwijk/Apollo) ⚠️ Archived - Dependency injection and messaging framework, which can be used as the basis for MVC projects.
+* [Apollo](https://github.com/LaurentZuijdwijk/Apollo) - Dependency injection and messaging framework, which can be used as the basis for MVC projects.
 
 #### UI Frameworks
 
-* [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework) ⭐ 3,111 | 🐛 98 | 🌐 ActionScript | 📅 2026-07-17, [help](http://wiki.starling-framework.org/start)).
+* [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework) ⭐ 3,111 | 🐛 97 | 🌐 ActionScript | 📅 2026-10-09, [help](http://wiki.starling-framework.org/start)).
 * [Feathers UI](https://feathersui.com/) - User interface components for Starling Framework ([github](https://github.com/BowlerHatLLC/feathers) ⭐ 914 | 🐛 169 | 🌐 ActionScript | 📅 2026-08-20, [help](https://feathersui.com/help/index.html)).
 * [Swiz](https://github.com/swiz/swiz-framework) ⭐ 225 | 🐛 18 | 🌐 ActionScript | 📅 2013-06-19 - Brutally simple micro-architecture for creating RIAs with AS3 and Adobe Flex.
 * [Elastic-Lists](https://github.com/MoritzStefaner/Elastic-Lists) ⭐ 108 | 🐛 5 | 🌐 ActionScript | 📅 2011-06-03 - Fluid and powerful interface for facet browsing.
@@ -264,7 +264,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### QR Code
 
-* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,126 | 🐛 4 | 🌐 Java | 📅 2026-10-06 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
+* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,129 | 🐛 4 | 🌐 Java | 📅 2026-10-06 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
 * [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) ⭐ 91 | 🐛 3 | 🌐 ActionScript | 📅 2016-08-18 - QR code encoder in as3.
 * [qrcode-as](https://github.com/yanbe/qrcode-as) ⭐ 29 | 🐛 1 | 🌐 ActionScript | 📅 2011-10-31 - QR Code reader which supports webcam on Windows, Mac and Linux.
 
@@ -274,7 +274,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Standingwave3](https://github.com/maxl0rd/standingwave3) ⭐ 161 | 🐛 18 | 🌐 ActionScript | 📅 2012-12-20 - Dynamic audio library.
 * [SoundAS](https://github.com/treefortress/SoundAS) ⭐ 139 | 🐛 11 | 🌐 ActionScript | 📅 2023-10-02 - Modern & lightweight sound manager for AS3.
 * [SiON](https://github.com/keim/SiON) ⭐ 119 | 🐛 0 | 🌐 ActionScript | 📅 2021-08-27 - Flash Software Synthesizer.
-* [AS3sfxr](https://github.com/SFBTom/as3sfxr) ⭐ 98 | 🐛 4 | 🌐 ActionScript | 📅 2015-03-14 - Port of sfxr from C++ to AS3, using the new sound and file capabilities of Flash Player 10.
+* [AS3sfxr](https://github.com/SFBTom/as3sfxr) ⭐ 99 | 🐛 4 | 🌐 ActionScript | 📅 2015-03-14 - Port of sfxr from C++ to AS3, using the new sound and file capabilities of Flash Player 10.
 * [Soundtouch-as3](https://github.com/also/soundtouch-as3) ⭐ 62 | 🐛 2 | 🌐 ActionScript | 📅 2010-04-05 - AS3 Port of the SoundTouch Sound Processing Library.
 * [Flod](https://github.com/photonstorm/Flod) ⭐ 55 | 🐛 2 | 🌐 ActionScript | 📅 2012-05-05 - Amiga SoundTracker (MOD) and FastTracker (XM) Replay Library.
 * [AS3-Sound-Manager](https://github.com/GrupoW/as3-Sound-Manager) ⭐ 17 | 🐛 3 | 🌐 ActionScript | 📅 2011-05-10- Upgraded version of the Sound Manager Class from Matt Przybylski.
@@ -674,4 +674,4 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
