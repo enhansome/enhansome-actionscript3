@@ -80,8 +80,8 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### UI Frameworks
 
-* [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework) ⭐ 3,111 | 🐛 97 | 🌐 ActionScript | 📅 2026-10-09, [help](http://wiki.starling-framework.org/start)).
-* [Feathers UI](https://feathersui.com/) - User interface components for Starling Framework ([github](https://github.com/BowlerHatLLC/feathers) ⭐ 914 | 🐛 169 | 🌐 ActionScript | 📅 2026-08-20, [help](https://feathersui.com/help/index.html)).
+* [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework) ⭐ 3,111 | 🐛 95 | 🌐 ActionScript | 📅 2026-10-10, [help](http://wiki.starling-framework.org/start)).
+* [Feathers UI](https://feathersui.com/) - User interface components for Starling Framework ([github](https://github.com/BowlerHatLLC/feathers) ⭐ 913 | 🐛 169 | 🌐 ActionScript | 📅 2026-08-20, [help](https://feathersui.com/help/index.html)).
 * [Swiz](https://github.com/swiz/swiz-framework) ⭐ 225 | 🐛 18 | 🌐 ActionScript | 📅 2013-06-19 - Brutally simple micro-architecture for creating RIAs with AS3 and Adobe Flex.
 * [Elastic-Lists](https://github.com/MoritzStefaner/Elastic-Lists) ⭐ 108 | 🐛 5 | 🌐 ActionScript | 📅 2011-06-03 - Fluid and powerful interface for facet browsing.
 * [AS3Commons UI](https://github.com/AS3Commons/as3commons-ui) ⭐ 61 | 🐛 2 | 🌐 ActionScript | 📅 2011-12-21 - Layouting, focus and keyboard management framework.
@@ -264,13 +264,13 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### QR Code
 
-* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,129 | 🐛 4 | 🌐 Java | 📅 2026-10-06 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
+* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,131 | 🐛 5 | 🌐 Java | 📅 2026-10-06 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
 * [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) ⭐ 91 | 🐛 3 | 🌐 ActionScript | 📅 2016-08-18 - QR code encoder in as3.
 * [qrcode-as](https://github.com/yanbe/qrcode-as) ⭐ 29 | 🐛 1 | 🌐 ActionScript | 📅 2011-10-31 - QR Code reader which supports webcam on Windows, Mac and Linux.
 
 #### Sound
 
-* [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) ⭐ 240 | 🐛 34 | 🌐 ActionScript | 📅 2016-10-25 - Recording audio and saving as a WAV.
+* [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) ⭐ 239 | 🐛 34 | 🌐 ActionScript | 📅 2016-10-25 - Recording audio and saving as a WAV.
 * [Standingwave3](https://github.com/maxl0rd/standingwave3) ⭐ 161 | 🐛 18 | 🌐 ActionScript | 📅 2012-12-20 - Dynamic audio library.
 * [SoundAS](https://github.com/treefortress/SoundAS) ⭐ 139 | 🐛 11 | 🌐 ActionScript | 📅 2023-10-02 - Modern & lightweight sound manager for AS3.
 * [SiON](https://github.com/keim/SiON) ⭐ 119 | 🐛 0 | 🌐 ActionScript | 📅 2021-08-27 - Flash Software Synthesizer.
@@ -674,4 +674,4 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
