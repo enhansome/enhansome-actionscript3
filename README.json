@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "joshtynjala",
                 "repo": "monsterdebugger-client-starling",
-                "stars": 52,
+                "stars": 50,
                 "topics": [
                   "actionscript",
                   "feathers-ui",
@@ -333,10 +333,10 @@
                 "language": "ActionScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-10T18:06:19Z",
-                "open_issues": 95,
+                "open_issues": 93,
                 "owner": "Gamua",
                 "repo": "Starling-Framework",
-                "stars": 3111,
+                "stars": 3110,
                 "topics": [
                   "actionscript",
                   "adobe-air",
@@ -365,7 +365,7 @@
                 "open_issues": 169,
                 "owner": "feathersui",
                 "repo": "feathersui-starling",
-                "stars": 913,
+                "stars": 912,
                 "topics": [
                   "actionscript",
                   "actionscript-3",
@@ -677,7 +677,7 @@
                 "open_issues": 0,
                 "owner": "tversteeg",
                 "repo": "Nexus",
-                "stars": 12,
+                "stars": 11,
                 "topics": [
                   "engine",
                   "gpu-acceleration",
@@ -868,10 +868,10 @@
                 "language": "ActionScript",
                 "license": "MIT",
                 "last_commit": "2025-05-19T18:05:34Z",
-                "open_issues": 9,
+                "open_issues": 8,
                 "owner": "robertpenner",
                 "repo": "as3-signals",
-                "stars": 1064,
+                "stars": 1063,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -1352,7 +1352,7 @@
                 "open_issues": 2,
                 "owner": "ZwickTheGreat",
                 "repo": "feathers-maps",
-                "stars": 61,
+                "stars": 60,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2396,7 +2396,7 @@
                 "open_issues": 0,
                 "owner": "roipeker",
                 "repo": "as3-blurhash",
-                "stars": 8,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2557,7 +2557,7 @@
                 "open_issues": 1,
                 "owner": "Gamua",
                 "repo": "Starling-Extension-Particle-System",
-                "stars": 324,
+                "stars": 323,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2777,11 +2777,11 @@
                 "id": 2562751,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T19:23:52Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-11T12:04:40Z",
+                "open_issues": 4,
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34131,
+                "stars": 34136,
                 "topics": [
                   "android",
                   "barcode",
@@ -2881,7 +2881,7 @@
                 "open_issues": 18,
                 "owner": "maxl0rd",
                 "repo": "standingwave3",
-                "stars": 161,
+                "stars": 160,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2902,7 +2902,7 @@
                 "open_issues": 11,
                 "owner": "treefortress",
                 "repo": "SoundAS",
-                "stars": 139,
+                "stars": 138,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -3653,7 +3653,7 @@
                 "open_issues": 2,
                 "owner": "Barliesque",
                 "repo": "EasyAGAL",
-                "stars": 114,
+                "stars": 113,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -5067,7 +5067,7 @@
                 "open_issues": 11,
                 "owner": "gabriel",
                 "repo": "as3httpclient",
-                "stars": 243,
+                "stars": 242,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -5920,28 +5920,7 @@
                 "open_issues": 121,
                 "owner": "mikechambers",
                 "repo": "as3corelib",
-                "stars": 1505,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T12:48:13.693Z"
-            },
-            {
-              "node_type": "item",
-              "title": "AS3Crypto",
-              "description": "Fork of Henri Torgemane's excellent cryptography library (patched).",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Fork of Henri Torgemane's excellent as3 cryptography library",
-                "homepage": "http://code.google.com/p/as3crypto",
-                "id": 2433054,
-                "language": "ActionScript",
-                "license": "NOASSERTION",
-                "last_commit": "2017-06-18T19:38:19Z",
-                "open_issues": 17,
-                "owner": "timkurvers",
-                "repo": "as3-crypto",
-                "stars": 95,
+                "stars": 1504,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -5975,6 +5954,27 @@
                   "sha224",
                   "sha256"
                 ]
+              },
+              "first_seen": "2026-08-28T12:48:13.693Z"
+            },
+            {
+              "node_type": "item",
+              "title": "AS3Crypto",
+              "description": "Fork of Henri Torgemane's excellent cryptography library (patched).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Fork of Henri Torgemane's excellent as3 cryptography library",
+                "homepage": "http://code.google.com/p/as3crypto",
+                "id": 2433054,
+                "language": "ActionScript",
+                "license": "NOASSERTION",
+                "last_commit": "2017-06-18T19:38:19Z",
+                "open_issues": 17,
+                "owner": "timkurvers",
+                "repo": "as3-crypto",
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
             },
@@ -6615,7 +6615,7 @@
                 "open_issues": 0,
                 "owner": "sixsided",
                 "repo": "Simplified-JavaScript-Interpreter",
-                "stars": 20,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -7933,7 +7933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T07:14:41.237Z",
+    "last_updated": "2026-10-12T07:23:52.840Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",
@@ -7945,7 +7945,7 @@
       "open_issues": 2,
       "owner": "robinrodricks",
       "repo": "awesome-actionscript3",
-      "stars": 276,
+      "stars": 275,
       "topics": [
         "actionscript",
         "actionscript3",

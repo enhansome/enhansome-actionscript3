@@ -6,7 +6,7 @@
 
 [Adobe AIR](https://en.wikipedia.org/wiki/Adobe_AIR) provides a single set of APIs to build cross-platform desktop/mobile applications and games. [ActionScript 3](https://en.wikipedia.org/wiki/ActionScript) is the programming language for AIR. Powerful native functionality such as file system, SQLite, sensors are included by default. To add missing functionality, you can build ANEs (Air Native Extensions) coded in the native language (eg VC++ for Windows, Java for Android, Swift/Objective-C for iOS). To build mobile apps/games with GPU-rendered graphics, use the [Starling](https://gamua.com/starling/) framework and optionally the [Feathers UI](https://feathersui.com/). Adobe AIR is very popular in the mobile gaming space.
 
-Contributions welcome. To add a useful project simply create an [Issue](https://github.com/hgupta9/awesome-actionscript3/issues) ⭐ 276 | 🐛 2 | 📅 2022-11-12.
+Contributions welcome. To add a useful project simply create an [Issue](https://github.com/hgupta9/awesome-actionscript3/issues) ⭐ 275 | 🐛 2 | 📅 2022-11-12.
 
 ## Contents
 
@@ -80,8 +80,8 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### UI Frameworks
 
-* [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework) ⭐ 3,111 | 🐛 95 | 🌐 ActionScript | 📅 2026-10-10, [help](http://wiki.starling-framework.org/start)).
-* [Feathers UI](https://feathersui.com/) - User interface components for Starling Framework ([github](https://github.com/BowlerHatLLC/feathers) ⭐ 913 | 🐛 169 | 🌐 ActionScript | 📅 2026-08-20, [help](https://feathersui.com/help/index.html)).
+* [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework) ⭐ 3,110 | 🐛 93 | 🌐 ActionScript | 📅 2026-10-10, [help](http://wiki.starling-framework.org/start)).
+* [Feathers UI](https://feathersui.com/) - User interface components for Starling Framework ([github](https://github.com/BowlerHatLLC/feathers) ⭐ 912 | 🐛 169 | 🌐 ActionScript | 📅 2026-08-20, [help](https://feathersui.com/help/index.html)).
 * [Swiz](https://github.com/swiz/swiz-framework) ⭐ 225 | 🐛 18 | 🌐 ActionScript | 📅 2013-06-19 - Brutally simple micro-architecture for creating RIAs with AS3 and Adobe Flex.
 * [Elastic-Lists](https://github.com/MoritzStefaner/Elastic-Lists) ⭐ 108 | 🐛 5 | 🌐 ActionScript | 📅 2011-06-03 - Fluid and powerful interface for facet browsing.
 * [AS3Commons UI](https://github.com/AS3Commons/as3commons-ui) ⭐ 61 | 🐛 2 | 🌐 ActionScript | 📅 2011-12-21 - Layouting, focus and keyboard management framework.
@@ -125,7 +125,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Signals
 
-* [AS3-signals](https://github.com/robertpenner/as3-signals) ⭐ 1,064 | 🐛 9 | 🌐 ActionScript | 📅 2025-05-19 - New approach for AS3 events inspired by C# events and signals/slots in Qt.
+* [AS3-signals](https://github.com/robertpenner/as3-signals) ⭐ 1,063 | 🐛 8 | 🌐 ActionScript | 📅 2025-05-19 - New approach for AS3 events inspired by C# events and signals/slots in Qt.
 * [react-as3](https://github.com/tconkling/react-as3) ⭐ 33 | 🐛 0 | 🌐 ActionScript | 📅 2018-08-18 - Signals/slots and functional reactive programming library.
 * [Fa-as3](https://github.com/fabrikagency/fa-as3) ⭐ 9 | 🐛 0 | 🌐 ActionScript | 📅 2009-06-22 - Write less, do more framework, modeled like jQuery.
 * [Signaller](https://github.com/whitered/Signaller) ⭐ 2 | 🐛 0 | 🌐 ActionScript | 📅 2010-04-28 - Signals implementation with restricted rights for dispatching.
@@ -161,7 +161,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Starling Components
 
-* [Google Maps](https://github.com/ZwickTheGreat/feathers-maps) ⭐ 61 | 🐛 2 | 🌐 ActionScript | 📅 2016-04-20 - Google Maps for Starling, optimized for mobile devices.
+* [Google Maps](https://github.com/ZwickTheGreat/feathers-maps) ⭐ 60 | 🐛 2 | 🌐 ActionScript | 📅 2016-04-20 - Google Maps for Starling, optimized for mobile devices.
 * [TabbedApplication](https://github.com/pol2095/Feathers-Extension-Tabbed-Application) ⭐ 11 | 🐛 0 | 🌐 ActionScript | 📅 2017-10-28 - View-based navigation model with swipe to navigate tabs.
 * [Canvas](https://github.com/pol2095/Feathers-Extension-Canvas) ⭐ 9 | 🐛 0 | 🌐 ActionScript | 📅 2017-03-14 - Supports basic vector drawing functionality.
 * [DataTree](https://github.com/pol2095/Feathers-Extension-Tree) ⭐ 8 | 🐛 0 | 🌐 ActionScript | 📅 2019-03-03 - Displays hierarchical data arranged as an expandable tree.
@@ -234,7 +234,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AS3-transitions-lib](https://github.com/foo123/as3-transitions-lib) ⭐ 13 | 🐛 0 | 🌐 ActionScript | 📅 2023-09-19 - Image Transitions Library.
 * [ASImageLib](https://github.com/terrynoya/ASImageLib) ⭐ 12 | 🐛 0 | 🌐 ActionScript | 📅 2013-11-26 - BMP/PNG decoder for actionscript.
 * [AS3-klt](https://github.com/motemen/as3-klt) ⭐ 11 | 🐛 0 | 🌐 ActionScript | 📅 2008-09-25 - Kanade-Lucas-Tomasi feature tracker implementation.
-* [BlurHash](https://github.com/roipeker/as3-blurhash) ⭐ 8 | 🐛 0 | 🌐 ActionScript | 📅 2020-07-03 - A BlurHash encoder/decoder implementation in ActionScript 3.0..
+* [BlurHash](https://github.com/roipeker/as3-blurhash) ⭐ 7 | 🐛 0 | 🌐 ActionScript | 📅 2020-07-03 - A BlurHash encoder/decoder implementation in ActionScript 3.0..
 * [Inspirit Image](https://github.com/hgupta9/InspiritImage) ⭐ 3 | 🐛 0 | 🌐 C | 📅 2016-11-11 - FFT, SURF, edge detection, fluid solver, etc.
 * [Async-Image-Encoders](https://github.com/LeeBurrows/Async-Image-Encoders) ⚠️ Archived - Asynchronously encode BitmapData objects into image file format.
 
@@ -247,7 +247,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Particle
 
-* [Starling-Particles](https://github.com/Gamua/Starling-Extension-Particle-System) ⭐ 324 | 🐛 1 | 🌐 ActionScript | 📅 2024-07-25 - Particle system for the Starling framework, compatible with the "Particle Designer" from 71squared.com.
+* [Starling-Particles](https://github.com/Gamua/Starling-Extension-Particle-System) ⭐ 323 | 🐛 1 | 🌐 ActionScript | 📅 2024-07-25 - Particle system for the Starling framework, compatible with the "Particle Designer" from 71squared.com.
 * [Flint](https://github.com/richardlord/Flint) ⭐ 259 | 🐛 0 | 🌐 ActionScript | 📅 2017-04-16 - Particle Engine for Flash and Flex.
 * [SAP](https://github.com/gonchar/SAP) ⭐ 44 | 🐛 2 | 🌐 ActionScript | 📅 2017-04-25 - Particle System for Starling.
 * [Desuade Partigen](http://desuade.com/partigen) - Desuade Partigen particle generation system ([github](https://github.com/andrewfitz/desuade) ⚠️ Archived).
@@ -264,15 +264,15 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### QR Code
 
-* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,131 | 🐛 5 | 🌐 Java | 📅 2026-10-06 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
+* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,136 | 🐛 4 | 🌐 Java | 📅 2026-10-11 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
 * [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) ⭐ 91 | 🐛 3 | 🌐 ActionScript | 📅 2016-08-18 - QR code encoder in as3.
 * [qrcode-as](https://github.com/yanbe/qrcode-as) ⭐ 29 | 🐛 1 | 🌐 ActionScript | 📅 2011-10-31 - QR Code reader which supports webcam on Windows, Mac and Linux.
 
 #### Sound
 
 * [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) ⭐ 239 | 🐛 34 | 🌐 ActionScript | 📅 2016-10-25 - Recording audio and saving as a WAV.
-* [Standingwave3](https://github.com/maxl0rd/standingwave3) ⭐ 161 | 🐛 18 | 🌐 ActionScript | 📅 2012-12-20 - Dynamic audio library.
-* [SoundAS](https://github.com/treefortress/SoundAS) ⭐ 139 | 🐛 11 | 🌐 ActionScript | 📅 2023-10-02 - Modern & lightweight sound manager for AS3.
+* [Standingwave3](https://github.com/maxl0rd/standingwave3) ⭐ 160 | 🐛 18 | 🌐 ActionScript | 📅 2012-12-20 - Dynamic audio library.
+* [SoundAS](https://github.com/treefortress/SoundAS) ⭐ 138 | 🐛 11 | 🌐 ActionScript | 📅 2023-10-02 - Modern & lightweight sound manager for AS3.
 * [SiON](https://github.com/keim/SiON) ⭐ 119 | 🐛 0 | 🌐 ActionScript | 📅 2021-08-27 - Flash Software Synthesizer.
 * [AS3sfxr](https://github.com/SFBTom/as3sfxr) ⭐ 99 | 🐛 4 | 🌐 ActionScript | 📅 2015-03-14 - Port of sfxr from C++ to AS3, using the new sound and file capabilities of Flash Player 10.
 * [Soundtouch-as3](https://github.com/also/soundtouch-as3) ⭐ 62 | 🐛 2 | 🌐 ActionScript | 📅 2010-04-05 - AS3 Port of the SoundTouch Sound Processing Library.
@@ -339,7 +339,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### 3D Formats
 
-* [EasyAGAL](https://github.com/Barliesque/EasyAGAL) ⭐ 114 | 🐛 2 | 🌐 HTML | 📅 2015-05-27 - Simplifies development of AGAL shaders with code completion, code hinting,  macros, etc.
+* [EasyAGAL](https://github.com/Barliesque/EasyAGAL) ⭐ 113 | 🐛 2 | 🌐 HTML | 📅 2015-05-27 - Simplifies development of AGAL shaders with code completion, code hinting,  macros, etc.
 * [AsBlender](https://github.com/timknip/asblender) ⭐ 38 | 🐛 4 | 🌐 ActionScript | 📅 2010-01-25 - Parse Blender .BLEND files.
 * [AsCollada](https://github.com/timknip/ascollada) ⭐ 7 | 🐛 0 | 📅 2010-01-16 - Parse COLLADA 3D model files ([fork](https://github.com/david-gregory/ascollada) ⭐ 1 | 🐛 0 | 🌐 ActionScript | 📅 2011-05-21).
 * [AS3-bvh-parser](https://github.com/rkn14/as3-bvh-parser) ⭐ 5 | 🐛 0 | 🌐 ActionScript | 📅 2012-09-21 - Parse BVH files.
@@ -469,7 +469,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### HTTP
 
-* [AS3httpclient](https://github.com/gabriel/as3httpclient) ⭐ 243 | 🐛 11 | 🌐 ActionScript | 📅 2021-11-03 - HTTP client implementation.
+* [AS3httpclient](https://github.com/gabriel/as3httpclient) ⭐ 242 | 🐛 11 | 🌐 ActionScript | 📅 2021-11-03 - HTTP client implementation.
 * [Amazon Web Services](https://github.com/satoshi7/ActionScript-API-for-AWS-Amazon-Web-Services-) ⭐ 25 | 🐛 2 | 🌐 ActionScript | 📅 2019-11-03 - AS3 API for AWS.
 * [Hendrix-HTTP](https://github.com/HendrixString/Hendrix-HttP-AiR) ⭐ 12 | 🐛 0 | 🌐 ActionScript | 📅 2016-02-22 - Lightweight HTTP library for ActionScript 3 (as3) inspired by Square's OkHttp.
 * [AS3httpclient](https://github.com/abdul/as3httpclient) ⭐ 6 | 🐛 0 | 🌐 ActionScript | 📅 2015-02-22 - HTTP client implementation.
@@ -534,9 +534,9 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Crypto
 
-* [AS3corelib](https://github.com/mikechambers/as3corelib) ⭐ 1,505 | 🐛 121 | 🌐 ActionScript | 📅 2024-08-18 -  MD5 and SHA1 hashing, Image encoders, and JSON serialization.
-* [AS3Crypto](https://github.com/timkurvers/as3-crypto) ⚠️ Archived - Fork of Henri Torgemane's excellent cryptography library ([patched](https://github.com/lyokato/as3crypto_patched) ⭐ 16 | 🐛 0 | 🌐 ActionScript | 📅 2011-03-28).
+* [AS3corelib](https://github.com/mikechambers/as3corelib) ⭐ 1,504 | 🐛 121 | 🌐 ActionScript | 📅 2024-08-18 -  MD5 and SHA1 hashing, Image encoders, and JSON serialization.
 * [BlooddyCrypto](https://github.com/blooddy/blooddy_crypto) ⭐ 94 | 🐛 15 | 🌐 ActionScript | 📅 2022-02-25 - High-performance library for processing binary data. This library contains MD5, SHA-1, SHA-2, Base64, CRC32, JSON, PNG/JPEG encoders.
+* [AS3Crypto](https://github.com/timkurvers/as3-crypto) ⚠️ Archived - Fork of Henri Torgemane's excellent cryptography library ([patched](https://github.com/lyokato/as3crypto_patched) ⭐ 16 | 🐛 0 | 🌐 ActionScript | 📅 2011-03-28).
 * [ASCrypt](https://github.com/Meychi/ASCrypt) ⭐ 47 | 🐛 3 | 🌐 ActionScript | 📅 2015-02-07 - Crypto library with a similar API for multiple languages.
 * [Nexuslib](https://github.com/nexussays/nexuslib-as3) ⚠️ Archived - Reflection, serialization, seeded random number generation, cryptography, networking, and more.
 * [XXTEA-AS3](https://github.com/xxtea/xxtea-as3) ⭐ 5 | 🐛 0 | 🌐 ActionScript | 📅 2016-02-08 - XXTEA encryption algorithm library for ActionScript 3.
@@ -586,7 +586,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Interpreters
 
 * [Lisp Compiler](https://github.com/aemoncannon/las3r) ⭐ 94 | 🐛 9 | 🌐 ActionScript | 📅 2011-01-29 - A lisp compiler for the AVM2.
-* [Simple JS](https://github.com/sixsided/Simplified-JavaScript-Interpreter) ⭐ 20 | 🐛 0 | 🌐 ActionScript | 📅 2014-02-27 - AS3-based Javascript interpreter.
+* [Simple JS](https://github.com/sixsided/Simplified-JavaScript-Interpreter) ⭐ 19 | 🐛 0 | 🌐 ActionScript | 📅 2014-02-27 - AS3-based Javascript interpreter.
 * [JS](https://github.com/theturtle32/RhinoAS3) ⚠️ Archived - RhinoJS, Port of Mozilla's Rhino JavaScript interpreter.
 * [CannonML](https://github.com/abiyasa/cannonml_as3) ⭐ 3 | 🐛 0 | 🌐 ActionScript | 📅 2012-04-20 - keim's CannonML (shmup scripting language) interpreter.
 * [MIL](https://github.com/ser1zw/MIL) ⭐ 2 | 🐛 0 | 🌐 ActionScript | 📅 2010-07-27 - A MIL language VM and interpreter written in ActionScript.
@@ -674,4 +674,4 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
