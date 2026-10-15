@@ -53,7 +53,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### SWF Inspectors
 
-* [SWFWire](https://github.com/magicalhobo/SWFWire) ⭐ 255 | 🐛 21 | 🌐 ActionScript | 📅 2018-09-10 - Advanced SWF Decompiler, Inspector and Debugger Tools ([website](http://www.swfwire.com/)).
+* [SWFWire](https://github.com/magicalhobo/SWFWire) ⭐ 254 | 🐛 21 | 🌐 ActionScript | 📅 2018-09-10 - Advanced SWF Decompiler, Inspector and Debugger Tools ([website](http://www.swfwire.com/)).
 * [Velocity9](https://github.com/velocity9/Inspector) - Basic SWF Inspector.
 
 #### SWF Decompilers
@@ -80,7 +80,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### UI Frameworks
 
-* [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework) ⭐ 3,111 | 🐛 93 | 🌐 ActionScript | 📅 2026-10-10, [help](http://wiki.starling-framework.org/start)).
+* [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework) ⭐ 3,110 | 🐛 93 | 🌐 ActionScript | 📅 2026-10-10, [help](http://wiki.starling-framework.org/start)).
 * [Feathers UI](https://feathersui.com/) - User interface components for Starling Framework ([github](https://github.com/BowlerHatLLC/feathers) ⭐ 912 | 🐛 169 | 🌐 ActionScript | 📅 2026-08-20, [help](https://feathersui.com/help/index.html)).
 * [Swiz](https://github.com/swiz/swiz-framework) ⭐ 225 | 🐛 18 | 🌐 ActionScript | 📅 2013-06-19 - Brutally simple micro-architecture for creating RIAs with AS3 and Adobe Flex.
 * [Elastic-Lists](https://github.com/MoritzStefaner/Elastic-Lists) ⭐ 108 | 🐛 5 | 🌐 ActionScript | 📅 2011-06-03 - Fluid and powerful interface for facet browsing.
@@ -94,7 +94,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [Flixel](https://github.com/AdamAtomic/flixel) ⭐ 1,142 | 🐛 75 | 🌐 ActionScript | 📅 2015-11-05 - Useful base classes that you can extend to make your own game objects.
 * [FlashPunk](https://github.com/useflashpunk/FlashPunk) ⭐ 393 | 🐛 69 | 🌐 ActionScript | 📅 2016-03-31 - Framework to build 2D games. Provides graphics, events, inputs, animation, etc.
-* [StarlingPunk](https://github.com/asaia/StarlingPunk) ⭐ 139 | 🐛 6 | 🌐 ActionScript | 📅 2017-04-17 - Framework built on Starling to add structure and organization to your game projects.
+* [StarlingPunk](https://github.com/asaia/StarlingPunk) ⭐ 138 | 🐛 6 | 🌐 ActionScript | 📅 2017-04-17 - Framework built on Starling to add structure and organization to your game projects.
 * [YCanvas](https://github.com/jozefchutka/YCanvas) ⭐ 117 | 🐛 3 | 🌐 ActionScript | 📅 2014-12-15 - High-performance 2D tile renderer and world map renderer.
 * [IsoHill](https://github.com/jadbox/IsoHill-Game-Engine) ⭐ 101 | 🐛 1 | 🌐 ActionScript | 📅 2012-08-30 - GPU-based Isometric engine built on Starling, with TILED map parser, layers, etc ([website](http://www.isohill.com/)).
 * [Pixelizer](https://github.com/johanp/Pixelizer) ⭐ 53 | 🐛 20 | 🌐 ActionScript | 📅 2013-01-05 - Component based game engine to build 2D games. Provides rendering, animation, input, etc.
@@ -108,7 +108,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [Away3D](https://github.com/away3d/away3d-core-fp11) ⭐ 642 | 🐛 111 | 🌐 ActionScript | 📅 2024-06-03 - Open-source GPU-accelerated 3D engine for Flash Player 11+ ([examples](https://github.com/away3d/away3d-examples-fp11) ⭐ 101 | 🐛 7 | 🌐 ActionScript | 📅 2015-05-29).
 * [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) ⭐ 381 | 🐛 19 | 🌐 ActionScript | 📅 2024-05-03 - Alternativa3D GPU accelerated 3D engine ([examples](https://github.com/AlternativaPlatform/Alternativa3DExamples) ⭐ 36 | 🐛 1 | 🌐 ActionScript | 📅 2012-10-23).
-* [Away3D OpenFL](https://github.com/away3d/away3d-core-openfl) ⭐ 166 | 🐛 29 | 🌐 Haxe | 📅 2017-03-14 - Away3D for Neko, HTML5 and native CPP. ([examples](https://github.com/away3d/away3d-examples-openfl) ⭐ 40 | 🐛 4 | 🌐 Haxe | 📅 2015-09-04).
+* [Away3D OpenFL](https://github.com/away3d/away3d-core-openfl) ⭐ 165 | 🐛 29 | 🌐 Haxe | 📅 2017-03-14 - Away3D for Neko, HTML5 and native CPP. ([examples](https://github.com/away3d/away3d-examples-openfl) ⭐ 40 | 🐛 4 | 🌐 Haxe | 📅 2015-09-04).
 * [AwayPhysics FP11](https://github.com/away3d/awayphysics-core-fp11) ⭐ 114 | 🐛 13 | 🌐 C++ | 📅 2013-11-07 - Away Physics - 3D physics library for the Away3D FP 11 ([examples](https://github.com/away3d/awayphysics-examples-fp11) ⭐ 57 | 🐛 0 | 🌐 ActionScript | 📅 2013-02-24).
 * [Zen3D](https://github.com/hgupta9/Zen3D) ⭐ 6 | 🐛 0 | 🌐 ActionScript | 📅 2017-06-29 - High-performance 3D engine for Adobe Flash & AIR (GPU based).
 * [AwayBuilder](http://awaytools.com/awaybuilder/) - Visual workflow tool to import, optimise and bake 3D assets from a variety of sources.
@@ -182,7 +182,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Multi Touch
 
-* [Gestouch](https://github.com/fljot/Gestouch) ⭐ 357 | 🐛 37 | 🌐 ActionScript | 📅 2016-03-01 - Multitouch gesture recognition library for building better Natural User Interfaces.
+* [Gestouch](https://github.com/fljot/Gestouch) ⭐ 356 | 🐛 37 | 🌐 ActionScript | 📅 2016-03-01 - Multitouch gesture recognition library for building better Natural User Interfaces.
 * [TouchScript](https://github.com/TouchScript/TouchScript.as3) ⭐ 20 | 🐛 0 | 🌐 ActionScript | 📅 2013-03-03 - Multitouch framework that makes handling complex gesture interactions on large touch surfaces easier.
 * [TUIO Client](https://github.com/lagerkoller/tuio-as3) ⭐ 6 | 🐛 1 | 🌐 ActionScript | 📅 2022-03-15 - Common framework for multi-touch hardware, supporting TUIO/FLC and TUIO/TCP ([web](http://www.tuio.org/?flash)).
 * [Gestures.IO](https://github.com/GesturesIO/gesturesio-as3) ⚠️ Archived - Simplifies the way you create gesture-based Natural Interactions.
@@ -226,8 +226,8 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Image
 
-* [Inspirit GPUImage](https://github.com/inspirit/GPUImage) ⭐ 171 | 🐛 4 | 🌐 ActionScript | 📅 2012-09-14 - Framework for GPU-based image processing.
-* [ATF-Encoder](https://github.com/plepers/ATF-Encoder) ⭐ 80 | 🐛 1 | 🌐 ActionScript | 📅 2013-06-26 - Encode/decode ATF (Adobe Texture Format) files in pure AS3.
+* [Inspirit GPUImage](https://github.com/inspirit/GPUImage) ⭐ 170 | 🐛 4 | 🌐 ActionScript | 📅 2012-09-14 - Framework for GPU-based image processing.
+* [ATF-Encoder](https://github.com/plepers/ATF-Encoder) ⭐ 79 | 🐛 1 | 🌐 ActionScript | 📅 2013-06-26 - Encode/decode ATF (Adobe Texture Format) files in pure AS3.
 * [AS3potrace](https://github.com/PowerflasherBR/as3potrace) ⭐ 60 | 🐛 1 | 🌐 ActionScript | 📅 2011-05-21 - POTrace implementation, to trace bitmap images to vector.
 * [Scale9Image](https://github.com/Tibus/Scale9Image) ⭐ 15 | 🐛 0 | 🌐 ActionScript | 📅 2013-04-22 - Optimized scale9Grid image for starling.
 * [Flip-Planes-AS3](https://github.com/jamesflorentino/Flip-Planes-AS3) ⭐ 15 | 🐛 1 | 🌐 ActionScript | 📅 2011-08-19 - Photo slideshow effects.
@@ -241,8 +241,8 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Font
 
 * [Firetype](https://github.com/MaxDidIt/firetype) ⭐ 99 | 🐛 6 | 🌐 ActionScript | 📅 2015-09-30 - Parse OpenType fonts and render them using Stage3D.
-* [BMFontRenderer](https://github.com/bengarney/BMFontRenderer) ⭐ 35 | 🐛 0 | 🌐 ActionScript | 📅 2011-09-07 - AS3 renderer for bitmap font data in the BMFont format.
-* [HanFont](https://github.com/kyoji2/HanFont) ⭐ 15 | 🐛 0 | 🌐 ActionScript | 📅 2010-12-20 - AIR app for Chinese Font Embeding in ActionScript.
+* [BMFontRenderer](https://github.com/bengarney/BMFontRenderer) ⭐ 34 | 🐛 0 | 🌐 ActionScript | 📅 2011-09-07 - AS3 renderer for bitmap font data in the BMFont format.
+* [HanFont](https://github.com/kyoji2/HanFont) ⭐ 14 | 🐛 0 | 🌐 ActionScript | 📅 2010-12-20 - AIR app for Chinese Font Embeding in ActionScript.
 * [Ficon.as](https://github.com/dv/Ficon.as) ⭐ 4 | 🐛 0 | 🌐 ActionScript | 📅 2012-10-03 - Library to easily include icon fonts.
 
 #### Particle
@@ -264,14 +264,14 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### QR Code
 
-* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,152 | 🐛 5 | 🌐 Java | 📅 2026-10-12 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
-* [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) ⭐ 91 | 🐛 3 | 🌐 ActionScript | 📅 2016-08-18 - QR code encoder in as3.
+* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,155 | 🐛 5 | 🌐 Java | 📅 2026-10-12 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
+* [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) ⭐ 90 | 🐛 3 | 🌐 ActionScript | 📅 2016-08-18 - QR code encoder in as3.
 * [qrcode-as](https://github.com/yanbe/qrcode-as) ⭐ 29 | 🐛 1 | 🌐 ActionScript | 📅 2011-10-31 - QR Code reader which supports webcam on Windows, Mac and Linux.
 
 #### Sound
 
 * [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) ⭐ 239 | 🐛 34 | 🌐 ActionScript | 📅 2016-10-25 - Recording audio and saving as a WAV.
-* [Standingwave3](https://github.com/maxl0rd/standingwave3) ⭐ 160 | 🐛 18 | 🌐 ActionScript | 📅 2012-12-20 - Dynamic audio library.
+* [Standingwave3](https://github.com/maxl0rd/standingwave3) ⭐ 159 | 🐛 18 | 🌐 ActionScript | 📅 2012-12-20 - Dynamic audio library.
 * [SoundAS](https://github.com/treefortress/SoundAS) ⭐ 138 | 🐛 11 | 🌐 ActionScript | 📅 2023-10-02 - Modern & lightweight sound manager for AS3.
 * [SiON](https://github.com/keim/SiON) ⭐ 119 | 🐛 0 | 🌐 ActionScript | 📅 2021-08-27 - Flash Software Synthesizer.
 * [AS3sfxr](https://github.com/SFBTom/as3sfxr) ⭐ 99 | 🐛 4 | 🌐 ActionScript | 📅 2015-03-14 - Port of sfxr from C++ to AS3, using the new sound and file capabilities of Flash Player 10.
@@ -351,8 +351,8 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### CSS
 
-* [Fcss](https://github.com/theflashbum/fcss) ⭐ 83 | 🐛 13 | 🌐 ActionScript | 📅 2011-02-24 - Flash Cascading StyleSheet Library.
-* [Stylekit-as3](https://github.com/videojuicer/stylekit-as3) ⭐ 37 | 🐛 1 | 🌐 ActionScript | 📅 2012-05-15 -  Skinnable user interfaces using CSS3.
+* [Fcss](https://github.com/theflashbum/fcss) ⭐ 82 | 🐛 13 | 🌐 ActionScript | 📅 2011-02-24 - Flash Cascading StyleSheet Library.
+* [Stylekit-as3](https://github.com/videojuicer/stylekit-as3) ⭐ 36 | 🐛 1 | 🌐 ActionScript | 📅 2012-05-15 -  Skinnable user interfaces using CSS3.
 * [Jakute-CSS](https://github.com/kakenbok/Jakute-Styling-Engine) ⭐ 10 | 🐛 1 | 🌐 ActionScript | 📅 2011-12-21 - Jakute is a CSS framework for ActionScript/Flash.
 * [Sass4as](https://github.com/jeremyruppel/sass4as) ⭐ 4 | 🐛 0 | 🌐 ActionScript | 📅 2010-08-25 - Syntactically Awesome Stylesheets for ActionScript 3.
 * [AS3csslib](https://github.com/heyfrench/as3csslib) ⭐ 1 | 🐛 0 | 🌐 ActionScript | 📅 2015-07-13 - CSS3 parser, selector and style engine for ActionScript 3.0.
@@ -375,7 +375,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### GIF
 
-* [GIF Player](https://github.com/theturtle32/Flash-Animated-GIF-Library) ⭐ 58 | 🐛 5 | 🌐 ActionScript | 📅 2015-09-01 - Play Animated GIFs in Flash.
+* [GIF Player](https://github.com/theturtle32/Flash-Animated-GIF-Library) ⭐ 57 | 🐛 5 | 🌐 ActionScript | 📅 2015-09-01 - Play Animated GIFs in Flash.
 * [AS3gif](https://github.com/audreyt/as3gif) ⭐ 25 | 🐛 0 | 🌐 ActionScript | 📅 2010-07-01 - Play and encode Animated GIFs.
 * [Async-gif-decoder](https://github.com/honzabrecka/async-gif-decoder) ⚠️ Archived - Asynchronous GIF decoder & player.
 
@@ -412,12 +412,12 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### PSD
 
-* [AS3-psd-parser](https://github.com/warrenseine/as3-psd-parser) ⭐ 35 | 🐛 0 | 🌐 ActionScript | 📅 2012-03-13 - Parse Photoshop PSD files and render as BitmapData objects.
+* [AS3-psd-parser](https://github.com/warrenseine/as3-psd-parser) ⭐ 34 | 🐛 0 | 🌐 ActionScript | 📅 2012-03-13 - Parse Photoshop PSD files and render as BitmapData objects.
 
 #### SWF
 
 * [AS3swf](https://github.com/claus/as3swf) ⚠️ Archived - Low level library to parse, create, modify and publish SWF files.
-* [SWFWire](https://github.com/magicalhobo/SWFWire) ⭐ 255 | 🐛 21 | 🌐 ActionScript | 📅 2018-09-10 - SWF Decompiler and Inspector Tools.
+* [SWFWire](https://github.com/magicalhobo/SWFWire) ⭐ 254 | 🐛 21 | 🌐 ActionScript | 📅 2018-09-10 - SWF Decompiler and Inspector Tools.
 * [AS3abc](https://github.com/imcj/as3abc) ⭐ 5 | 🐛 0 | 🌐 ActionScript | 📅 2012-02-03 - Low level library to parse, create, modify and publish ABC (Actionscript Block Code) files.
 * [Abc-abstraction](https://github.com/krilnon/abc-abstraction) - Allows ABC to be analyzed, manipulated, packaged back into an SWF, and run.
 
@@ -549,11 +549,11 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Geometry
 
-* [AS3geometry](https://github.com/alecmce/as3geometry) ⭐ 74 | 🐛 0 | 🌐 ActionScript | 📅 2011-10-27 - Primitives, Polygons, Intersections, etc.
-* [Coral](https://github.com/richardlord/Coral) ⭐ 44 | 🐛 2 | 🌐 ActionScript | 📅 2017-04-16 - High-performance classes for 3D mathematics (Point, Vector, Matrix, Quaternion).
+* [AS3geometry](https://github.com/alecmce/as3geometry) ⭐ 73 | 🐛 0 | 🌐 ActionScript | 📅 2011-10-27 - Primitives, Polygons, Intersections, etc.
 * [AS3GeomAlgo](https://github.com/azrafe7/as3GeomAlgo) ⭐ 43 | 🐛 1 | 🌐 ActionScript | 📅 2014-05-05 - Collection of geometry algorithms. Port of hxGeomAlgo.
-* [AS3AStar](https://github.com/tomnewton/AS3AStar) ⭐ 22 | 🐛 1 | 🌐 ActionScript | 📅 2011-03-27 - Fast A-Star pathfinding algorithm.
-* [As3Pathfinder](https://github.com/azakhary/As3Pathfinder) ⭐ 17 | 🐛 0 | 🌐 ActionScript | 📅 2017-07-02 - Grid Path finding Library written using Dijkstra's algorithm.
+* [Coral](https://github.com/richardlord/Coral) ⭐ 43 | 🐛 2 | 🌐 ActionScript | 📅 2017-04-16 - High-performance classes for 3D mathematics (Point, Vector, Matrix, Quaternion).
+* [AS3AStar](https://github.com/tomnewton/AS3AStar) ⭐ 21 | 🐛 1 | 🌐 ActionScript | 📅 2011-03-27 - Fast A-Star pathfinding algorithm.
+* [As3Pathfinder](https://github.com/azakhary/As3Pathfinder) ⭐ 16 | 🐛 0 | 🌐 ActionScript | 📅 2017-07-02 - Grid Path finding Library written using Dijkstra's algorithm.
 * [Csg.as](https://github.com/timknip/csg.as) ⭐ 8 | 🐛 0 | 🌐 ActionScript | 📅 2012-07-23 - Constructive Solid Geometry on 3D meshes.
 * [A-star\_pathfinder](https://github.com/kevhiggins/a-star_pathfinder) ⭐ 3 | 🐛 0 | 🌐 ActionScript | 📅 2011-04-14 - A-Star pathfinding interface for tile based maps.
 * [Hilbert](https://github.com/nodename/Hilbert) ⭐ 1 | 🐛 0 | 🌐 ActionScript | 📅 2011-07-13 - Port of Hilbert curve from cortesi/scurve.
@@ -674,4 +674,4 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._

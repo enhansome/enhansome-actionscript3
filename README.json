@@ -103,7 +103,7 @@
                 "open_issues": 21,
                 "owner": "magicalhobo",
                 "repo": "SWFWire",
-                "stars": 255,
+                "stars": 254,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -336,7 +336,7 @@
                 "open_issues": 93,
                 "owner": "Gamua",
                 "repo": "Starling-Framework",
-                "stars": 3111,
+                "stars": 3110,
                 "topics": [
                   "actionscript",
                   "adobe-air",
@@ -551,7 +551,7 @@
                 "open_issues": 6,
                 "owner": "asaia",
                 "repo": "StarlingPunk",
-                "stars": 139,
+                "stars": 138,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -752,7 +752,7 @@
                 "open_issues": 29,
                 "owner": "away3d",
                 "repo": "away3d-core-openfl",
-                "stars": 166,
+                "stars": 165,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -1664,7 +1664,7 @@
                 "open_issues": 37,
                 "owner": "fljot",
                 "repo": "Gestouch",
-                "stars": 357,
+                "stars": 356,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2223,7 +2223,7 @@
                 "open_issues": 4,
                 "owner": "inspirit",
                 "repo": "GPUImage",
-                "stars": 171,
+                "stars": 170,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2244,7 +2244,7 @@
                 "open_issues": 1,
                 "owner": "plepers",
                 "repo": "ATF-Encoder",
-                "stars": 80,
+                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2487,7 +2487,7 @@
                 "open_issues": 0,
                 "owner": "bengarney",
                 "repo": "BMFontRenderer",
-                "stars": 35,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2508,7 +2508,7 @@
                 "open_issues": 0,
                 "owner": "kyoji2",
                 "repo": "HanFont",
-                "stars": 15,
+                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2781,7 +2781,7 @@
                 "open_issues": 5,
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34152,
+                "stars": 34155,
                 "topics": [
                   "android",
                   "barcode",
@@ -2811,7 +2811,7 @@
                 "open_issues": 3,
                 "owner": "jbpin",
                 "repo": "as3-qrcode-encoder",
-                "stars": 91,
+                "stars": 90,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2881,7 +2881,7 @@
                 "open_issues": 18,
                 "owner": "maxl0rd",
                 "repo": "standingwave3",
-                "stars": 160,
+                "stars": 159,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -3772,7 +3772,7 @@
                 "open_issues": 13,
                 "owner": "theflashbum",
                 "repo": "fcss",
-                "stars": 83,
+                "stars": 82,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -3793,7 +3793,7 @@
                 "open_issues": 1,
                 "owner": "videojuicer",
                 "repo": "stylekit-as3",
-                "stars": 37,
+                "stars": 36,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -4031,7 +4031,7 @@
                 "open_issues": 5,
                 "owner": "theturtle32",
                 "repo": "Flash-Animated-GIF-Library",
-                "stars": 58,
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -4471,7 +4471,7 @@
                 "open_issues": 0,
                 "owner": "warrenseine",
                 "repo": "as3-psd-parser",
-                "stars": 35,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -4499,7 +4499,7 @@
                 "open_issues": 15,
                 "owner": "claus",
                 "repo": "as3swf",
-                "stars": 525,
+                "stars": 524,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -4520,7 +4520,7 @@
                 "open_issues": 21,
                 "owner": "magicalhobo",
                 "repo": "SWFWire",
-                "stars": 255,
+                "stars": 254,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -6134,28 +6134,7 @@
                 "open_issues": 0,
                 "owner": "alecmce",
                 "repo": "as3geometry",
-                "stars": 74,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T12:48:13.693Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Coral",
-              "description": "High-performance classes for 3D mathematics (Point, Vector, Matrix, Quaternion).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A library of Actionscript 3 classes for 3D Mathematics.",
-                "homepage": "http://www.richardlord.net/blog/introducing-coral-an-actionscript-library-for-3d-math",
-                "id": 1401516,
-                "language": "ActionScript",
-                "license": "NOASSERTION",
-                "last_commit": "2017-04-16T18:01:42Z",
-                "open_issues": 2,
-                "owner": "richardlord",
-                "repo": "Coral",
-                "stars": 44,
+                "stars": 73,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -6183,6 +6162,27 @@
             },
             {
               "node_type": "item",
+              "title": "Coral",
+              "description": "High-performance classes for 3D mathematics (Point, Vector, Matrix, Quaternion).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A library of Actionscript 3 classes for 3D Mathematics.",
+                "homepage": "http://www.richardlord.net/blog/introducing-coral-an-actionscript-library-for-3d-math",
+                "id": 1401516,
+                "language": "ActionScript",
+                "license": "NOASSERTION",
+                "last_commit": "2017-04-16T18:01:42Z",
+                "open_issues": 2,
+                "owner": "richardlord",
+                "repo": "Coral",
+                "stars": 43,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T12:48:13.693Z"
+            },
+            {
+              "node_type": "item",
               "title": "AS3AStar",
               "description": "Fast A-Star pathfinding algorithm.",
               "children": [],
@@ -6197,7 +6197,7 @@
                 "open_issues": 1,
                 "owner": "tomnewton",
                 "repo": "AS3AStar",
-                "stars": 22,
+                "stars": 21,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -6218,7 +6218,7 @@
                 "open_issues": 0,
                 "owner": "azakhary",
                 "repo": "As3Pathfinder",
-                "stars": 17,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -6309,7 +6309,7 @@
                 "open_issues": 1,
                 "owner": "zasdfgbnm-dumpster",
                 "repo": "FlashFormulaEditor",
-                "stars": 18,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -7933,7 +7933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T06:10:47.030Z",
+    "last_updated": "2026-10-15T05:55:24.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",
