@@ -203,7 +203,7 @@
                 "open_issues": 19,
                 "owner": "robotlegs",
                 "repo": "robotlegs-framework",
-                "stars": 962,
+                "stars": 963,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2781,7 +2781,7 @@
                 "open_issues": 5,
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34159,
+                "stars": 34161,
                 "topics": [
                   "android",
                   "barcode",
@@ -2923,7 +2923,7 @@
                 "open_issues": 0,
                 "owner": "keim",
                 "repo": "SiON",
-                "stars": 119,
+                "stars": 120,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -5920,7 +5920,7 @@
                 "open_issues": 121,
                 "owner": "mikechambers",
                 "repo": "as3corelib",
-                "stars": 1504,
+                "stars": 1503,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -7933,7 +7933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T05:53:02.007Z",
+    "last_updated": "2026-10-17T05:37:25.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",

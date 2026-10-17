@@ -70,7 +70,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### MVC Frameworks
 
-* [Robotlegs](https://github.com/robotlegs/robotlegs-framework) ⭐ 962 | 🐛 19 | 🌐 ActionScript | 📅 2020-06-16 - Dependency injection, module/view/command management framework for Flash.
+* [Robotlegs](https://github.com/robotlegs/robotlegs-framework) ⭐ 963 | 🐛 19 | 🌐 ActionScript | 📅 2020-06-16 - Dependency injection, module/view/command management framework for Flash.
 * [StarlingMVC](https://github.com/CreativeBottle/starlingMVC) ⭐ 125 | 🐛 10 | 🌐 ActionScript | 📅 2017-04-24 - IOC Framework for Starling based games.
 * [PureMVC](https://github.com/PureMVC/puremvc-as3-standard-framework) ⭐ 124 | 🐛 1 | 🌐 HTML | 📅 2018-10-27 - Industry-standard MVC framework for Flash ([multicore](https://github.com/PureMVC/puremvc-as3-multicore-framework) ⭐ 56 | 🐛 0 | 🌐 HTML | 📅 2018-10-27).
 * [Hummingbird](https://github.com/flashapi/hummingbird) ⚠️ Archived - Build and deploy robust MVC applications for AS3, Mobile and the Starling Framework.
@@ -264,7 +264,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### QR Code
 
-* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,159 | 🐛 5 | 🌐 Java | 📅 2026-10-12 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
+* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,161 | 🐛 5 | 🌐 Java | 📅 2026-10-12 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
 * [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) ⭐ 90 | 🐛 3 | 🌐 ActionScript | 📅 2016-08-18 - QR code encoder in as3.
 * [qrcode-as](https://github.com/yanbe/qrcode-as) ⭐ 29 | 🐛 1 | 🌐 ActionScript | 📅 2011-10-31 - QR Code reader which supports webcam on Windows, Mac and Linux.
 
@@ -273,7 +273,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) ⭐ 239 | 🐛 34 | 🌐 ActionScript | 📅 2016-10-25 - Recording audio and saving as a WAV.
 * [Standingwave3](https://github.com/maxl0rd/standingwave3) ⭐ 160 | 🐛 18 | 🌐 ActionScript | 📅 2012-12-20 - Dynamic audio library.
 * [SoundAS](https://github.com/treefortress/SoundAS) ⭐ 139 | 🐛 11 | 🌐 ActionScript | 📅 2023-10-02 - Modern & lightweight sound manager for AS3.
-* [SiON](https://github.com/keim/SiON) ⭐ 119 | 🐛 0 | 🌐 ActionScript | 📅 2021-08-27 - Flash Software Synthesizer.
+* [SiON](https://github.com/keim/SiON) ⭐ 120 | 🐛 0 | 🌐 ActionScript | 📅 2021-08-27 - Flash Software Synthesizer.
 * [AS3sfxr](https://github.com/SFBTom/as3sfxr) ⭐ 99 | 🐛 4 | 🌐 ActionScript | 📅 2015-03-14 - Port of sfxr from C++ to AS3, using the new sound and file capabilities of Flash Player 10.
 * [Soundtouch-as3](https://github.com/also/soundtouch-as3) ⭐ 62 | 🐛 2 | 🌐 ActionScript | 📅 2010-04-05 - AS3 Port of the SoundTouch Sound Processing Library.
 * [Flod](https://github.com/photonstorm/Flod) ⭐ 55 | 🐛 2 | 🌐 ActionScript | 📅 2012-05-05 - Amiga SoundTracker (MOD) and FastTracker (XM) Replay Library.
@@ -534,7 +534,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Crypto
 
-* [AS3corelib](https://github.com/mikechambers/as3corelib) ⭐ 1,504 | 🐛 121 | 🌐 ActionScript | 📅 2024-08-18 -  MD5 and SHA1 hashing, Image encoders, and JSON serialization.
+* [AS3corelib](https://github.com/mikechambers/as3corelib) ⭐ 1,503 | 🐛 121 | 🌐 ActionScript | 📅 2024-08-18 -  MD5 and SHA1 hashing, Image encoders, and JSON serialization.
 * [AS3Crypto](https://github.com/timkurvers/as3-crypto) ⚠️ Archived - Fork of Henri Torgemane's excellent cryptography library ([patched](https://github.com/lyokato/as3crypto_patched) ⭐ 16 | 🐛 0 | 🌐 ActionScript | 📅 2011-03-28).
 * [BlooddyCrypto](https://github.com/blooddy/blooddy_crypto) ⭐ 94 | 🐛 15 | 🌐 ActionScript | 📅 2022-02-25 - High-performance library for processing binary data. This library contains MD5, SHA-1, SHA-2, Base64, CRC32, JSON, PNG/JPEG encoders.
 * [ASCrypt](https://github.com/Meychi/ASCrypt) ⭐ 47 | 🐛 3 | 🌐 ActionScript | 📅 2015-02-07 - Crypto library with a similar API for multiple languages.
@@ -674,4 +674,4 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
