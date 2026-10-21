@@ -333,10 +333,10 @@
                 "language": "ActionScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-10T18:06:19Z",
-                "open_issues": 96,
+                "open_issues": 95,
                 "owner": "Gamua",
                 "repo": "Starling-Framework",
-                "stars": 3116,
+                "stars": 3117,
                 "topics": [
                   "actionscript",
                   "adobe-air",
@@ -2781,7 +2781,7 @@
                 "open_issues": 0,
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34168,
+                "stars": 34177,
                 "topics": [
                   "android",
                   "barcode",
@@ -5920,7 +5920,7 @@
                 "open_issues": 121,
                 "owner": "mikechambers",
                 "repo": "as3corelib",
-                "stars": 1503,
+                "stars": 1504,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -7933,7 +7933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T06:03:43.418Z",
+    "last_updated": "2026-10-21T06:03:44.540Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",
