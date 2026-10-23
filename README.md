@@ -80,7 +80,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### UI Frameworks
 
-* [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework) ⭐ 3,118 | 🐛 95 | 🌐 ActionScript | 📅 2026-10-10, [help](http://wiki.starling-framework.org/start)).
+* [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework) ⭐ 3,117 | 🐛 95 | 🌐 ActionScript | 📅 2026-10-10, [help](http://wiki.starling-framework.org/start)).
 * [Feathers UI](https://feathersui.com/) - User interface components for Starling Framework ([github](https://github.com/BowlerHatLLC/feathers) ⭐ 913 | 🐛 169 | 🌐 ActionScript | 📅 2026-08-20, [help](https://feathersui.com/help/index.html)).
 * [Swiz](https://github.com/swiz/swiz-framework) ⭐ 225 | 🐛 18 | 🌐 ActionScript | 📅 2013-06-19 - Brutally simple micro-architecture for creating RIAs with AS3 and Adobe Flex.
 * [Elastic-Lists](https://github.com/MoritzStefaner/Elastic-Lists) ⭐ 108 | 🐛 5 | 🌐 ActionScript | 📅 2011-06-03 - Fluid and powerful interface for facet browsing.
@@ -264,7 +264,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### QR Code
 
-* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,176 | 🐛 0 | 🌐 Java | 📅 2026-10-19 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
+* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,175 | 🐛 1 | 🌐 Java | 📅 2026-10-19 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
 * [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) ⭐ 90 | 🐛 3 | 🌐 ActionScript | 📅 2016-08-18 - QR code encoder in as3.
 * [qrcode-as](https://github.com/yanbe/qrcode-as) ⭐ 29 | 🐛 1 | 🌐 ActionScript | 📅 2011-10-31 - QR Code reader which supports webcam on Windows, Mac and Linux.
 
@@ -447,7 +447,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Hardware
 
-* [LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) ⭐ 308 | 🐛 5 | 📅 2021-07-18 - Integrate with the LeapMotion sensor (provides Gestures, Image, Skeleton/Bone @ 210 FPS).
+* [LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) ⭐ 307 | 🐛 5 | 📅 2021-07-18 - Integrate with the LeapMotion sensor (provides Gestures, Image, Skeleton/Bone @ 210 FPS).
 * [OpenTSPS](https://github.com/labatrockwell/openTSPS) ⭐ 198 | 🐛 26 | 🌐 C++ | 📅 2017-11-19 - TSPS is a cross platform Toolkit for Sensing People in Spaces. It performs openCV operations on live video (Kinect, web camera, etc) and sends it to clients as JSON (via WebSockets), OSC, TUIO, or TCP.
 * [AIRkinect](https://github.com/AS3NUI/airkinect-2-core) ⭐ 113 | 🐛 10 | 🌐 C++ | 📅 2017-04-17 - ANE for integrating with Microsoft Kinect. ([examples](https://github.com/AS3NUI/airkinect-2-examples) ⭐ 45 | 🐛 3 | 🌐 ActionScript | 📅 2013-05-21).
 * [Kinect-Gestures](https://github.com/tonybeltramelli/Air-Kinect-Gesture-Lib) ⭐ 53 | 🐛 1 | 🌐 ActionScript | 📅 2014-06-27 - AIR Kinect Gesture Library.
@@ -489,7 +489,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Sockets
 
 * [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) ⭐ 251 | 🐛 8 | 🌐 ActionScript | 📅 2016-09-22 - WebSocket client implementation for the final WebSocket Draft RFC6455.
-* [FlashSocket.IO](https://github.com/simb/FlashSocket.IO) ⭐ 210 | 🐛 13 | 🌐 ActionScript | 📅 2016-09-22 - Clients connect to Socket.IO servers from AS3/AIR clients.
+* [FlashSocket.IO](https://github.com/simb/FlashSocket.IO) ⭐ 209 | 🐛 13 | 🌐 ActionScript | 📅 2016-09-22 - Clients connect to Socket.IO servers from AS3/AIR clients.
 * [Socket.io-flash](https://github.com/sinnus/socket.io-flash) ⭐ 45 | 🐛 4 | 🌐 ActionScript | 📅 2013-08-23 - Communication to Socket.IO v.0.8+ servers.
 * [Socket.io](https://github.com/ascorbic/socket-io-actionscript) ⭐ 35 | 🐛 0 | 🌐 ActionScript | 📅 2010-12-02 - Socket.IO Actionscript 3 client.
 * [SmartSocket](https://github.com/XaeroDegreaz/SmartSocket) ⭐ 15 | 🐛 1 | 🌐 ActionScript | 📅 2012-05-26 - SmartSocket is a Java and PHP socket server engine, to make creating multi-user applications quick and painless.
@@ -631,7 +631,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Hardware ANE
 
-* [LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) ⭐ 308 | 🐛 5 | 📅 2021-07-18 - ANE for LeapMotion sensor (provides Gestures, Image, Skeleton/Bone @ 210 FPS).
+* [LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) ⭐ 307 | 🐛 5 | 📅 2021-07-18 - ANE for LeapMotion sensor (provides Gestures, Image, Skeleton/Bone @ 210 FPS).
 * [AIRKinectv2](https://github.com/Tastenkunst/AIRKinectv2) ⭐ 53 | 🐛 5 | 🌐 ActionScript | 📅 2015-05-06 - ANE for Microsoft Kinect v2 for Windows SDK.
 * [Serial/MIDI/DMX](https://github.com/benkuper/AIR-NativeExtensions) ⭐ 49 | 🐛 0 | 🌐 ActionScript | 📅 2020-07-03 - AIRBonjour, NativeSerial, NativeDMXController, NativeMIDI, VirtualMIDI, ExtendedMouse.
 * [AIROUYAController](https://github.com/gaslightgames/AIROUYAController) ⚠️ Archived - ANE for the OUYA Controller.
@@ -674,4 +674,4 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
