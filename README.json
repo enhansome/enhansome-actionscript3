@@ -530,7 +530,7 @@
                 "open_issues": 69,
                 "owner": "useflashpunk",
                 "repo": "FlashPunk",
-                "stars": 394,
+                "stars": 395,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2777,11 +2777,11 @@
                 "id": 2562751,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T22:36:12Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-23T13:11:58Z",
+                "open_issues": 0,
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34175,
+                "stars": 34176,
                 "topics": [
                   "android",
                   "barcode",
@@ -7933,7 +7933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T06:03:15.152Z",
+    "last_updated": "2026-10-24T05:56:06.667Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",
@@ -7945,7 +7945,7 @@
       "open_issues": 2,
       "owner": "robinrodricks",
       "repo": "awesome-actionscript3",
-      "stars": 276,
+      "stars": 277,
       "topics": [
         "actionscript",
         "actionscript3",
