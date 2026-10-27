@@ -109,7 +109,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Away3D](https://github.com/away3d/away3d-core-fp11) ⭐ 642 | 🐛 111 | 🌐 ActionScript | 📅 2024-06-03 - Open-source GPU-accelerated 3D engine for Flash Player 11+ ([examples](https://github.com/away3d/away3d-examples-fp11) ⭐ 101 | 🐛 7 | 🌐 ActionScript | 📅 2015-05-29).
 * [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) ⭐ 381 | 🐛 19 | 🌐 ActionScript | 📅 2024-05-03 - Alternativa3D GPU accelerated 3D engine ([examples](https://github.com/AlternativaPlatform/Alternativa3DExamples) ⭐ 36 | 🐛 1 | 🌐 ActionScript | 📅 2012-10-23).
 * [Away3D OpenFL](https://github.com/away3d/away3d-core-openfl) ⭐ 165 | 🐛 29 | 🌐 Haxe | 📅 2017-03-14 - Away3D for Neko, HTML5 and native CPP. ([examples](https://github.com/away3d/away3d-examples-openfl) ⭐ 40 | 🐛 4 | 🌐 Haxe | 📅 2015-09-04).
-* [AwayPhysics FP11](https://github.com/away3d/awayphysics-core-fp11) ⭐ 114 | 🐛 13 | 🌐 C++ | 📅 2013-11-07 - Away Physics - 3D physics library for the Away3D FP 11 ([examples](https://github.com/away3d/awayphysics-examples-fp11) ⭐ 57 | 🐛 0 | 🌐 ActionScript | 📅 2013-02-24).
+* [AwayPhysics FP11](https://github.com/away3d/awayphysics-core-fp11) ⭐ 115 | 🐛 13 | 🌐 C++ | 📅 2013-11-07 - Away Physics - 3D physics library for the Away3D FP 11 ([examples](https://github.com/away3d/awayphysics-examples-fp11) ⭐ 57 | 🐛 0 | 🌐 ActionScript | 📅 2013-02-24).
 * [Zen3D](https://github.com/hgupta9/Zen3D) ⭐ 6 | 🐛 0 | 🌐 ActionScript | 📅 2017-06-29 - High-performance 3D engine for Adobe Flash & AIR (GPU based).
 * [AwayBuilder](http://awaytools.com/awaybuilder/) - Visual workflow tool to import, optimise and bake 3D assets from a variety of sources.
 * [Flare3D](http://flare3d.com/) - Commercial 3D platform with high-performance engine and Level-editor IDE.
@@ -264,7 +264,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### QR Code
 
-* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,180 | 🐛 0 | 🌐 Java | 📅 2026-10-23 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
+* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,184 | 🐛 5 | 🌐 Java | 📅 2026-10-26 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
 * [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) ⭐ 90 | 🐛 3 | 🌐 ActionScript | 📅 2016-08-18 - QR code encoder in as3.
 * [qrcode-as](https://github.com/yanbe/qrcode-as) ⭐ 29 | 🐛 1 | 🌐 ActionScript | 📅 2011-10-31 - QR Code reader which supports webcam on Windows, Mac and Linux.
 
@@ -448,7 +448,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Hardware
 
 * [LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) ⭐ 307 | 🐛 5 | 📅 2021-07-18 - Integrate with the LeapMotion sensor (provides Gestures, Image, Skeleton/Bone @ 210 FPS).
-* [OpenTSPS](https://github.com/labatrockwell/openTSPS) ⭐ 198 | 🐛 26 | 🌐 C++ | 📅 2017-11-19 - TSPS is a cross platform Toolkit for Sensing People in Spaces. It performs openCV operations on live video (Kinect, web camera, etc) and sends it to clients as JSON (via WebSockets), OSC, TUIO, or TCP.
+* [OpenTSPS](https://github.com/labatrockwell/openTSPS) ⭐ 197 | 🐛 26 | 🌐 C++ | 📅 2017-11-19 - TSPS is a cross platform Toolkit for Sensing People in Spaces. It performs openCV operations on live video (Kinect, web camera, etc) and sends it to clients as JSON (via WebSockets), OSC, TUIO, or TCP.
 * [AIRkinect](https://github.com/AS3NUI/airkinect-2-core) ⭐ 113 | 🐛 10 | 🌐 C++ | 📅 2017-04-17 - ANE for integrating with Microsoft Kinect. ([examples](https://github.com/AS3NUI/airkinect-2-examples) ⭐ 45 | 🐛 3 | 🌐 ActionScript | 📅 2013-05-21).
 * [Kinect-Gestures](https://github.com/tonybeltramelli/Air-Kinect-Gesture-Lib) ⭐ 53 | 🐛 1 | 🌐 ActionScript | 📅 2014-06-27 - AIR Kinect Gesture Library.
 * [AS3-arduino](https://github.com/quetwo/as3-arduino-connector) ⭐ 49 | 🐛 15 | 🌐 C | 📅 2015-03-22 - Connecting Arduino Prototyping board to Adobe AIR.
@@ -470,7 +470,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### HTTP
 
 * [AS3httpclient](https://github.com/gabriel/as3httpclient) ⭐ 243 | 🐛 11 | 🌐 ActionScript | 📅 2021-11-03 - HTTP client implementation.
-* [Amazon Web Services](https://github.com/satoshi7/ActionScript-API-for-AWS-Amazon-Web-Services-) ⭐ 25 | 🐛 2 | 🌐 ActionScript | 📅 2019-11-03 - AS3 API for AWS.
+* [Amazon Web Services](https://github.com/satoshi7/ActionScript-API-for-AWS-Amazon-Web-Services-) ⭐ 24 | 🐛 2 | 🌐 ActionScript | 📅 2019-11-03 - AS3 API for AWS.
 * [Hendrix-HTTP](https://github.com/HendrixString/Hendrix-HttP-AiR) ⭐ 12 | 🐛 0 | 🌐 ActionScript | 📅 2016-02-22 - Lightweight HTTP library for ActionScript 3 (as3) inspired by Square's OkHttp.
 * [AS3httpclient](https://github.com/abdul/as3httpclient) ⭐ 6 | 🐛 0 | 🌐 ActionScript | 📅 2015-02-22 - HTTP client implementation.
 * [HTTPForm](https://github.com/dv/HTTPForm) ⭐ 5 | 🐛 0 | 🌐 ActionScript | 📅 2012-04-26 - Emulate a multipart/form-data HTML form submission request, including file upload.
@@ -578,7 +578,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Emulators
 
-* [NES Emulator](https://github.com/nesbox/emulator) ⭐ 659 | 🐛 91 | 🌐 ActionScript | 📅 2015-08-02 - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles.
+* [NES Emulator](https://github.com/nesbox/emulator) ⭐ 661 | 🐛 91 | 🌐 ActionScript | 📅 2015-08-02 - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles.
 * [Commodore 64 Emulator](https://github.com/claus/fc64) ⚠️ Archived - A low level Commodore 64 emulator written in Actionscript 3.
 * [8080 Emulator](https://github.com/ozipi/As3_SpaceInvaders_Emulator) ⭐ 7 | 🐛 0 | 🌐 ActionScript | 📅 2009-12-08 - An actionscript 3 space invaders emulator based on the intel 8080 processor.
 * [8-bit VM](https://github.com/OutOfTheVoid/AS3-8-bit-VM) ⭐ 6 | 🐛 0 | 🌐 ActionScript | 📅 2012-11-22 - An eight bit virtual machine written in actionscript.
@@ -674,4 +674,4 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._

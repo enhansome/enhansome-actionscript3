@@ -773,7 +773,7 @@
                 "open_issues": 13,
                 "owner": "away3d",
                 "repo": "awayphysics-core-fp11",
-                "stars": 114,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2777,11 +2777,11 @@
                 "id": 2562751,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T13:11:58Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-26T06:54:17Z",
+                "open_issues": 5,
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34180,
+                "stars": 34184,
                 "topics": [
                   "android",
                   "barcode",
@@ -4834,7 +4834,7 @@
                 "open_issues": 26,
                 "owner": "labatrockwell",
                 "repo": "openTSPS",
-                "stars": 198,
+                "stars": 197,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -5088,7 +5088,7 @@
                 "open_issues": 2,
                 "owner": "satoshi7",
                 "repo": "ActionScript-API-for-AWS-Amazon-Web-Services-",
-                "stars": 25,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -6497,7 +6497,7 @@
                 "open_issues": 91,
                 "owner": "nesbox",
                 "repo": "emulator",
-                "stars": 659,
+                "stars": 661,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -7933,7 +7933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T06:17:20.054Z",
+    "last_updated": "2026-10-27T06:18:49.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",
