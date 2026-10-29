@@ -2777,11 +2777,11 @@
                 "id": 2562751,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T06:54:17Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-28T23:59:24Z",
+                "open_issues": 0,
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34185,
+                "stars": 34181,
                 "topics": [
                   "android",
                   "barcode",
@@ -7933,7 +7933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T06:52:31.928Z",
+    "last_updated": "2026-10-29T07:08:49.980Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",
