@@ -80,12 +80,12 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### UI Frameworks
 
-* [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework) ⭐ 3,119 | 🐛 95 | 🌐 ActionScript | 📅 2026-10-10, [help](http://wiki.starling-framework.org/start)).
-* [Feathers UI](https://feathersui.com/) - User interface components for Starling Framework ([github](https://github.com/BowlerHatLLC/feathers) ⭐ 913 | 🐛 169 | 🌐 ActionScript | 📅 2026-08-20, [help](https://feathersui.com/help/index.html)).
+* [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework) ⭐ 3,118 | 🐛 95 | 🌐 ActionScript | 📅 2026-10-10, [help](http://wiki.starling-framework.org/start)).
+* [Feathers UI](https://feathersui.com/) - User interface components for Starling Framework ([github](https://github.com/BowlerHatLLC/feathers) ⭐ 912 | 🐛 169 | 🌐 ActionScript | 📅 2026-08-20, [help](https://feathersui.com/help/index.html)).
 * [Swiz](https://github.com/swiz/swiz-framework) ⭐ 225 | 🐛 18 | 🌐 ActionScript | 📅 2013-06-19 - Brutally simple micro-architecture for creating RIAs with AS3 and Adobe Flex.
 * [Elastic-Lists](https://github.com/MoritzStefaner/Elastic-Lists) ⭐ 108 | 🐛 5 | 🌐 ActionScript | 📅 2011-06-03 - Fluid and powerful interface for facet browsing.
 * [AS3Commons UI](https://github.com/AS3Commons/as3commons-ui) ⭐ 61 | 🐛 2 | 🌐 ActionScript | 📅 2011-12-21 - Layouting, focus and keyboard management framework.
-* [Flow](https://github.com/artman/Flow) ⭐ 30 | 🐛 0 | 🌐 ActionScript | 📅 2014-08-30 - Layout, effects, data binding and remoting framework to be used instead of Flex.
+* [Flow](https://github.com/artman/Flow) ⭐ 29 | 🐛 0 | 🌐 ActionScript | 📅 2014-08-30 - Layout, effects, data binding and remoting framework to be used instead of Flex.
 * [Hiddenwood](https://github.com/raweden/Project-Hiddenwood) ⚠️ Archived - User interface library developed for a web app project, written in AS3 and in a MVC pattern.
 * [Apache Flex®](https://flex.apache.org/) - The Apache Flex® SDK is the evolution of the popular Adobe Flex SDK. The Apache Flex® SDK is an application development framework for easily building Flash-based applications for mobile devices, web browsers, and desktop platforms.
 * [Apache Royale®](http://royale.apache.org/) - The Apache Royale® project is developing a next-generation of the Apache Flex® SDK. Royale has the goal of allowing applications developed in MXML and ActionScript to not only run in the Flash/AIR runtimes, but also to run natively in the browser without Flash, on mobile devices as a PhoneGap/Cordova application, and in embedded JS environments such as Chromium Embedded Framework. Royale has the potential to allow your MXML and ActionScript code to run in even more places than Flash currently does.
@@ -578,7 +578,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Emulators
 
-* [NES Emulator](https://github.com/nesbox/emulator) ⭐ 661 | 🐛 91 | 🌐 ActionScript | 📅 2015-08-02 - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles.
+* [NES Emulator](https://github.com/nesbox/emulator) ⭐ 660 | 🐛 91 | 🌐 ActionScript | 📅 2015-08-02 - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles.
 * [Commodore 64 Emulator](https://github.com/claus/fc64) ⚠️ Archived - A low level Commodore 64 emulator written in Actionscript 3.
 * [8080 Emulator](https://github.com/ozipi/As3_SpaceInvaders_Emulator) ⭐ 7 | 🐛 0 | 🌐 ActionScript | 📅 2009-12-08 - An actionscript 3 space invaders emulator based on the intel 8080 processor.
 * [8-bit VM](https://github.com/OutOfTheVoid/AS3-8-bit-VM) ⭐ 6 | 🐛 0 | 🌐 ActionScript | 📅 2012-11-22 - An eight bit virtual machine written in actionscript.
@@ -598,7 +598,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Audio ANE
 
-* [SystemVolume](https://github.com/nweber/SystemVolumeNativeExtension) ⭐ 55 | 🐛 8 | 🌐 ActionScript | 📅 2012-08-03 - Interact with the system volume for iOS and Android devices.
+* [SystemVolume](https://github.com/nweber/SystemVolumeNativeExtension) ⭐ 54 | 🐛 8 | 🌐 ActionScript | 📅 2012-08-03 - Interact with the system volume for iOS and Android devices.
 * [SilentSwitch](https://github.com/StickSports/ANE-Silent-Switch) ⭐ 36 | 🐛 9 | 🌐 ActionScript | 📅 2017-06-05 - ANE for iOS to mute sounds if the hardware silent switch is on.
 * [SongPicker](https://github.com/richpixel/SongPickerANE) ⭐ 26 | 🐛 11 | 🌐 ActionScript | 📅 2015-09-11 - A song picker/player ANE for iOS and Android.
 * [VolumePro](https://github.com/myflashlab/VolumePro-ANE) ⚠️ Archived - Control native music stream volume and you can listen to the volume changes.
@@ -666,7 +666,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Testflight](https://github.com/jlopez/ane-testflight) ⭐ 25 | 🐛 5 | 🌐 ActionScript | 📅 2012-12-03 - Apple TestFlight ANE.
 * [Admob](https://github.com/myflashlab/Admob-ANE) ⚠️ Archived - Admob ANE.
 * [UMAnalytics](https://github.com/ColerYu/ANE-UMAnalytics) ⭐ 11 | 🐛 3 | 🌐 ActionScript | 📅 2015-01-17 - ANE for UMAnalytics SDK (iOS and Android).
-* [Localytics](https://github.com/randori/ANE-Localytics) ⭐ 10 | 🐛 4 | 🌐 ActionScript | 📅 2012-06-22 - Localytics analytics for mobile Adobe AIR applications (iOS & Android).
+* [Localytics](https://github.com/randori/ANE-Localytics) ⭐ 9 | 🐛 4 | 🌐 ActionScript | 📅 2012-06-22 - Localytics analytics for mobile Adobe AIR applications (iOS & Android).
 * [Devtodev](https://github.com/devtodev-analytics/air-sdk) ⭐ 6 | 🐛 0 | 📅 2020-08-24 - A full-cycle analytics solution for game developers.
 * [GameServices](https://github.com/myflashlab/GameServices-ANE) ⚠️ Archived - Google Game Services for Android+iOS.
 * [HockeyApp](https://github.com/airext/hockeyapp) ⭐ 2 | 🐛 0 | 🌐 C | 📅 2021-08-27 - ANE for the Hockeyapp testing & distribute platform.
@@ -674,4 +674,4 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._

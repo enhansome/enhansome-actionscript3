@@ -336,7 +336,7 @@
                 "open_issues": 95,
                 "owner": "Gamua",
                 "repo": "Starling-Framework",
-                "stars": 3119,
+                "stars": 3118,
                 "topics": [
                   "actionscript",
                   "adobe-air",
@@ -365,7 +365,7 @@
                 "open_issues": 169,
                 "owner": "feathersui",
                 "repo": "feathersui-starling",
-                "stars": 913,
+                "stars": 912,
                 "topics": [
                   "actionscript",
                   "actionscript-3",
@@ -460,7 +460,7 @@
                 "open_issues": 0,
                 "owner": "artman",
                 "repo": "Flow",
-                "stars": 30,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -6497,7 +6497,7 @@
                 "open_issues": 91,
                 "owner": "nesbox",
                 "repo": "emulator",
-                "stars": 661,
+                "stars": 660,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -6775,7 +6775,7 @@
                 "open_issues": 8,
                 "owner": "nweber",
                 "repo": "SystemVolumeNativeExtension",
-                "stars": 55,
+                "stars": 54,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -7851,7 +7851,7 @@
                 "open_issues": 4,
                 "owner": "randori",
                 "repo": "ANE-Localytics",
-                "stars": 10,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -7933,7 +7933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T07:08:49.980Z",
+    "last_updated": "2026-10-30T07:10:14.192Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",
