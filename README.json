@@ -333,7 +333,7 @@
                 "language": "ActionScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-10T18:06:19Z",
-                "open_issues": 95,
+                "open_issues": 96,
                 "owner": "Gamua",
                 "repo": "Starling-Framework",
                 "stars": 3118,
@@ -2781,7 +2781,7 @@
                 "open_issues": 0,
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34181,
+                "stars": 34182,
                 "topics": [
                   "android",
                   "barcode",
@@ -7933,7 +7933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T07:10:14.192Z",
+    "last_updated": "2026-10-31T07:00:38.205Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",
