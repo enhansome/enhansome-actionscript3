@@ -80,7 +80,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### UI Frameworks
 
-* [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework) ⭐ 3,120 | 🐛 96 | 🌐 ActionScript | 📅 2026-10-10, [help](http://wiki.starling-framework.org/start)).
+* [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework) ⭐ 3,121 | 🐛 96 | 🌐 ActionScript | 📅 2026-10-10, [help](http://wiki.starling-framework.org/start)).
 * [Feathers UI](https://feathersui.com/) - User interface components for Starling Framework ([github](https://github.com/BowlerHatLLC/feathers) ⭐ 912 | 🐛 169 | 🌐 ActionScript | 📅 2026-08-20, [help](https://feathersui.com/help/index.html)).
 * [Swiz](https://github.com/swiz/swiz-framework) ⭐ 225 | 🐛 18 | 🌐 ActionScript | 📅 2013-06-19 - Brutally simple micro-architecture for creating RIAs with AS3 and Adobe Flex.
 * [Elastic-Lists](https://github.com/MoritzStefaner/Elastic-Lists) ⭐ 108 | 🐛 5 | 🌐 ActionScript | 📅 2011-06-03 - Fluid and powerful interface for facet browsing.
@@ -264,7 +264,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### QR Code
 
-* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,181 | 🐛 0 | 🌐 Java | 📅 2026-10-28 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
+* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,181 | 🐛 2 | 🌐 Java | 📅 2026-11-02 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
 * [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) ⭐ 90 | 🐛 3 | 🌐 ActionScript | 📅 2016-08-18 - QR code encoder in as3.
 * [qrcode-as](https://github.com/yanbe/qrcode-as) ⭐ 29 | 🐛 1 | 🌐 ActionScript | 📅 2011-10-31 - QR Code reader which supports webcam on Windows, Mac and Linux.
 
@@ -489,7 +489,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Sockets
 
 * [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) ⭐ 251 | 🐛 8 | 🌐 ActionScript | 📅 2016-09-22 - WebSocket client implementation for the final WebSocket Draft RFC6455.
-* [FlashSocket.IO](https://github.com/simb/FlashSocket.IO) ⭐ 209 | 🐛 13 | 🌐 ActionScript | 📅 2016-09-22 - Clients connect to Socket.IO servers from AS3/AIR clients.
+* [FlashSocket.IO](https://github.com/simb/FlashSocket.IO) ⭐ 208 | 🐛 13 | 🌐 ActionScript | 📅 2016-09-22 - Clients connect to Socket.IO servers from AS3/AIR clients.
 * [Socket.io-flash](https://github.com/sinnus/socket.io-flash) ⭐ 45 | 🐛 4 | 🌐 ActionScript | 📅 2013-08-23 - Communication to Socket.IO v.0.8+ servers.
 * [Socket.io](https://github.com/ascorbic/socket-io-actionscript) ⭐ 35 | 🐛 0 | 🌐 ActionScript | 📅 2010-12-02 - Socket.IO Actionscript 3 client.
 * [SmartSocket](https://github.com/XaeroDegreaz/SmartSocket) ⭐ 15 | 🐛 1 | 🌐 ActionScript | 📅 2012-05-26 - SmartSocket is a Java and PHP socket server engine, to make creating multi-user applications quick and painless.
@@ -674,4 +674,4 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
