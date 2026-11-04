@@ -76,7 +76,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Hummingbird](https://github.com/flashapi/hummingbird) ⚠️ Archived - Build and deploy robust MVC applications for AS3, Mobile and the Starling Framework.
 * [Somacore](https://github.com/soundstep/somacore_framework) ⭐ 21 | 🐛 0 | 🌐 ActionScript | 📅 2011-12-14 - Lightweight event-based AS3 MVC framework.
 * [Kote](https://github.com/whitered/Kote) ⭐ 4 | 🐛 0 | 🌐 ActionScript | 📅 2013-03-18 - Fast and lightweight MVC framework that brings together the best of PureMVC and as3-signals.
-* [Apollo](https://github.com/LaurentZuijdwijk/Apollo) - Dependency injection and messaging framework, which can be used as the basis for MVC projects.
+* [Apollo](https://github.com/LaurentZuijdwijk/Apollo) ⚠️ Archived - Dependency injection and messaging framework, which can be used as the basis for MVC projects.
 
 #### UI Frameworks
 
@@ -264,7 +264,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### QR Code
 
-* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,183 | 🐛 2 | 🌐 Java | 📅 2026-11-02 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
+* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,182 | 🐛 2 | 🌐 Java | 📅 2026-11-02 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
 * [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) ⭐ 90 | 🐛 3 | 🌐 ActionScript | 📅 2016-08-18 - QR code encoder in as3.
 * [qrcode-as](https://github.com/yanbe/qrcode-as) ⭐ 29 | 🐛 1 | 🌐 ActionScript | 📅 2011-10-31 - QR Code reader which supports webcam on Windows, Mac and Linux.
 
@@ -491,7 +491,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) ⭐ 251 | 🐛 8 | 🌐 ActionScript | 📅 2016-09-22 - WebSocket client implementation for the final WebSocket Draft RFC6455.
 * [FlashSocket.IO](https://github.com/simb/FlashSocket.IO) ⭐ 208 | 🐛 13 | 🌐 ActionScript | 📅 2016-09-22 - Clients connect to Socket.IO servers from AS3/AIR clients.
 * [Socket.io-flash](https://github.com/sinnus/socket.io-flash) ⭐ 45 | 🐛 4 | 🌐 ActionScript | 📅 2013-08-23 - Communication to Socket.IO v.0.8+ servers.
-* [Socket.io](https://github.com/ascorbic/socket-io-actionscript) ⭐ 35 | 🐛 0 | 🌐 ActionScript | 📅 2010-12-02 - Socket.IO Actionscript 3 client.
+* [Socket.io](https://github.com/ascorbic/socket-io-actionscript) ⭐ 36 | 🐛 0 | 🌐 ActionScript | 📅 2010-12-02 - Socket.IO Actionscript 3 client.
 * [SmartSocket](https://github.com/XaeroDegreaz/SmartSocket) ⭐ 15 | 🐛 1 | 🌐 ActionScript | 📅 2012-05-26 - SmartSocket is a Java and PHP socket server engine, to make creating multi-user applications quick and painless.
 * [AMFsocket](https://github.com/chadrem/amf_socket) ⭐ 11 | 🐛 0 | 🌐 ActionScript | 📅 2015-03-31 - Bi-directional RPC library for high performance network communication.
 * [Sockpuppet](https://github.com/rjungemann/sockpuppet) - Complete Ruby/ActionScript socket client/server with AMF.
@@ -674,4 +674,4 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
