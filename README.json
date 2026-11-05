@@ -2802,7 +2802,7 @@
                 "open_issues": 2,
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34182,
+                "stars": 34184,
                 "topics": [
                   "android",
                   "barcode",
@@ -3165,7 +3165,7 @@
                 "open_issues": 103,
                 "owner": "flowplayer",
                 "repo": "flash",
-                "stars": 282,
+                "stars": 281,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -7954,7 +7954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T07:30:57.011Z",
+    "last_updated": "2026-11-05T07:55:33.671Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",
