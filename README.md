@@ -98,7 +98,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [YCanvas](https://github.com/jozefchutka/YCanvas) ⭐ 117 | 🐛 3 | 🌐 ActionScript | 📅 2014-12-15 - High-performance 2D tile renderer and world map renderer.
 * [IsoHill](https://github.com/jadbox/IsoHill-Game-Engine) ⭐ 101 | 🐛 1 | 🌐 ActionScript | 📅 2012-08-30 - GPU-based Isometric engine built on Starling, with TILED map parser, layers, etc ([website](http://www.isohill.com/)).
 * [Pixelizer](https://github.com/johanp/Pixelizer) ⭐ 53 | 🐛 20 | 🌐 ActionScript | 📅 2013-01-05 - Component based game engine to build 2D games. Provides rendering, animation, input, etc.
-* [AS3isolib](https://github.com/as3isolib/as3isolib.v1) ⭐ 39 | 🐛 0 | 🌐 HTML | 📅 2015-03-20 - Isometric Library developed to assist in creating isometrically projected games.
+* [AS3isolib](https://github.com/as3isolib/as3isolib.v1) ⭐ 40 | 🐛 0 | 🌐 HTML | 📅 2015-03-20 - Isometric Library developed to assist in creating isometrically projected games.
 * [Tetragon](https://github.com/NothingInteractive/tetragon) ⭐ 32 | 🐛 0 | 🌐 ActionScript | 📅 2013-10-25 - Cross-platform framework to build any kind of game. Provides resource management, debugging facilities, multi-locale support, layered extendability, a game-oriented data structure, and more.
 * [Nexus](https://github.com/tversteeg/Nexus) ⚠️ Archived - GPU-accelerated 2D game engine using Stage3D.
 * [CitrusEngine](http://citrusengine.com/) - Professional-grade game engine built built on Starling & Away3D.
@@ -226,7 +226,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Image
 
-* [Inspirit GPUImage](https://github.com/inspirit/GPUImage) ⭐ 170 | 🐛 4 | 🌐 ActionScript | 📅 2012-09-14 - Framework for GPU-based image processing.
+* [Inspirit GPUImage](https://github.com/inspirit/GPUImage) ⭐ 169 | 🐛 4 | 🌐 ActionScript | 📅 2012-09-14 - Framework for GPU-based image processing.
 * [ATF-Encoder](https://github.com/plepers/ATF-Encoder) ⭐ 79 | 🐛 1 | 🌐 ActionScript | 📅 2013-06-26 - Encode/decode ATF (Adobe Texture Format) files in pure AS3.
 * [AS3potrace](https://github.com/PowerflasherBR/as3potrace) ⭐ 60 | 🐛 1 | 🌐 ActionScript | 📅 2011-05-21 - POTrace implementation, to trace bitmap images to vector.
 * [Scale9Image](https://github.com/Tibus/Scale9Image) ⭐ 15 | 🐛 0 | 🌐 ActionScript | 📅 2013-04-22 - Optimized scale9Grid image for starling.
@@ -264,7 +264,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### QR Code
 
-* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,185 | 🐛 2 | 🌐 Java | 📅 2026-11-02 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
+* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,184 | 🐛 2 | 🌐 Java | 📅 2026-11-02 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
 * [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) ⭐ 90 | 🐛 3 | 🌐 ActionScript | 📅 2016-08-18 - QR code encoder in as3.
 * [qrcode-as](https://github.com/yanbe/qrcode-as) ⭐ 29 | 🐛 1 | 🌐 ActionScript | 📅 2011-10-31 - QR Code reader which supports webcam on Windows, Mac and Linux.
 
@@ -274,7 +274,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Standingwave3](https://github.com/maxl0rd/standingwave3) ⭐ 160 | 🐛 18 | 🌐 ActionScript | 📅 2012-12-20 - Dynamic audio library.
 * [SoundAS](https://github.com/treefortress/SoundAS) ⭐ 139 | 🐛 11 | 🌐 ActionScript | 📅 2023-10-02 - Modern & lightweight sound manager for AS3.
 * [SiON](https://github.com/keim/SiON) ⭐ 120 | 🐛 0 | 🌐 ActionScript | 📅 2021-08-27 - Flash Software Synthesizer.
-* [AS3sfxr](https://github.com/SFBTom/as3sfxr) ⭐ 99 | 🐛 4 | 🌐 ActionScript | 📅 2015-03-14 - Port of sfxr from C++ to AS3, using the new sound and file capabilities of Flash Player 10.
+* [AS3sfxr](https://github.com/SFBTom/as3sfxr) ⭐ 100 | 🐛 4 | 🌐 ActionScript | 📅 2015-03-14 - Port of sfxr from C++ to AS3, using the new sound and file capabilities of Flash Player 10.
 * [Soundtouch-as3](https://github.com/also/soundtouch-as3) ⭐ 62 | 🐛 2 | 🌐 ActionScript | 📅 2010-04-05 - AS3 Port of the SoundTouch Sound Processing Library.
 * [Flod](https://github.com/photonstorm/Flod) ⭐ 55 | 🐛 2 | 🌐 ActionScript | 📅 2012-05-05 - Amiga SoundTracker (MOD) and FastTracker (XM) Replay Library.
 * [AS3-Sound-Manager](https://github.com/GrupoW/as3-Sound-Manager) ⭐ 17 | 🐛 3 | 🌐 ActionScript | 📅 2011-05-10- Upgraded version of the Sound Manager Class from Matt Przybylski.
@@ -674,4 +674,4 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._

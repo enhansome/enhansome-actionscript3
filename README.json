@@ -656,7 +656,7 @@
                 "open_issues": 0,
                 "owner": "as3isolib",
                 "repo": "as3isolib.v1",
-                "stars": 39,
+                "stars": 40,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2244,7 +2244,7 @@
                 "open_issues": 4,
                 "owner": "inspirit",
                 "repo": "GPUImage",
-                "stars": 170,
+                "stars": 169,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2802,7 +2802,7 @@
                 "open_issues": 2,
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34185,
+                "stars": 34184,
                 "topics": [
                   "android",
                   "barcode",
@@ -2965,7 +2965,7 @@
                 "open_issues": 4,
                 "owner": "SFBTom",
                 "repo": "as3sfxr",
-                "stars": 99,
+                "stars": 100,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -7954,7 +7954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T07:56:49.858Z",
+    "last_updated": "2026-11-07T07:13:15.509Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",
