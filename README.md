@@ -80,8 +80,8 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### UI Frameworks
 
-* [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework) ⭐ 3,121 | 🐛 96 | 🌐 ActionScript | 📅 2026-10-10, [help](http://wiki.starling-framework.org/start)).
-* [Feathers UI](https://feathersui.com/) - User interface components for Starling Framework ([github](https://github.com/BowlerHatLLC/feathers) ⭐ 912 | 🐛 169 | 🌐 ActionScript | 📅 2026-08-20, [help](https://feathersui.com/help/index.html)).
+* [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework) ⭐ 3,124 | 🐛 96 | 🌐 ActionScript | 📅 2026-10-10, [help](http://wiki.starling-framework.org/start)).
+* [Feathers UI](https://feathersui.com/) - User interface components for Starling Framework ([github](https://github.com/BowlerHatLLC/feathers) ⭐ 913 | 🐛 169 | 🌐 ActionScript | 📅 2026-08-20, [help](https://feathersui.com/help/index.html)).
 * [Swiz](https://github.com/swiz/swiz-framework) ⭐ 225 | 🐛 18 | 🌐 ActionScript | 📅 2013-06-19 - Brutally simple micro-architecture for creating RIAs with AS3 and Adobe Flex.
 * [Elastic-Lists](https://github.com/MoritzStefaner/Elastic-Lists) ⭐ 108 | 🐛 5 | 🌐 ActionScript | 📅 2011-06-03 - Fluid and powerful interface for facet browsing.
 * [AS3Commons UI](https://github.com/AS3Commons/as3commons-ui) ⭐ 61 | 🐛 2 | 🌐 ActionScript | 📅 2011-12-21 - Layouting, focus and keyboard management framework.
@@ -93,7 +93,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Game Frameworks
 
 * [Flixel](https://github.com/AdamAtomic/flixel) ⭐ 1,144 | 🐛 75 | 🌐 ActionScript | 📅 2015-11-05 - Useful base classes that you can extend to make your own game objects.
-* [FlashPunk](https://github.com/useflashpunk/FlashPunk) ⭐ 396 | 🐛 69 | 🌐 ActionScript | 📅 2016-03-31 - Framework to build 2D games. Provides graphics, events, inputs, animation, etc.
+* [FlashPunk](https://github.com/useflashpunk/FlashPunk) ⭐ 395 | 🐛 69 | 🌐 ActionScript | 📅 2016-03-31 - Framework to build 2D games. Provides graphics, events, inputs, animation, etc.
 * [StarlingPunk](https://github.com/asaia/StarlingPunk) ⭐ 138 | 🐛 6 | 🌐 ActionScript | 📅 2017-04-17 - Framework built on Starling to add structure and organization to your game projects.
 * [YCanvas](https://github.com/jozefchutka/YCanvas) ⭐ 117 | 🐛 3 | 🌐 ActionScript | 📅 2014-12-15 - High-performance 2D tile renderer and world map renderer.
 * [IsoHill](https://github.com/jadbox/IsoHill-Game-Engine) ⭐ 101 | 🐛 1 | 🌐 ActionScript | 📅 2012-08-30 - GPU-based Isometric engine built on Starling, with TILED map parser, layers, etc ([website](http://www.isohill.com/)).
@@ -107,7 +107,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### 3D Frameworks
 
 * [Away3D](https://github.com/away3d/away3d-core-fp11) ⭐ 642 | 🐛 111 | 🌐 ActionScript | 📅 2024-06-03 - Open-source GPU-accelerated 3D engine for Flash Player 11+ ([examples](https://github.com/away3d/away3d-examples-fp11) ⭐ 101 | 🐛 7 | 🌐 ActionScript | 📅 2015-05-29).
-* [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) ⭐ 381 | 🐛 19 | 🌐 ActionScript | 📅 2024-05-03 - Alternativa3D GPU accelerated 3D engine ([examples](https://github.com/AlternativaPlatform/Alternativa3DExamples) ⭐ 36 | 🐛 1 | 🌐 ActionScript | 📅 2012-10-23).
+* [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) ⭐ 380 | 🐛 19 | 🌐 ActionScript | 📅 2024-05-03 - Alternativa3D GPU accelerated 3D engine ([examples](https://github.com/AlternativaPlatform/Alternativa3DExamples) ⭐ 35 | 🐛 1 | 🌐 ActionScript | 📅 2012-10-23).
 * [Away3D OpenFL](https://github.com/away3d/away3d-core-openfl) ⭐ 165 | 🐛 29 | 🌐 Haxe | 📅 2017-03-14 - Away3D for Neko, HTML5 and native CPP. ([examples](https://github.com/away3d/away3d-examples-openfl) ⭐ 40 | 🐛 4 | 🌐 Haxe | 📅 2015-09-04).
 * [AwayPhysics FP11](https://github.com/away3d/awayphysics-core-fp11) ⭐ 115 | 🐛 13 | 🌐 C++ | 📅 2013-11-07 - Away Physics - 3D physics library for the Away3D FP 11 ([examples](https://github.com/away3d/awayphysics-examples-fp11) ⭐ 57 | 🐛 0 | 🌐 ActionScript | 📅 2013-02-24).
 * [Zen3D](https://github.com/hgupta9/Zen3D) ⭐ 6 | 🐛 0 | 🌐 ActionScript | 📅 2017-06-29 - High-performance 3D engine for Adobe Flash & AIR (GPU based).
@@ -208,7 +208,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Data Visualization
 
 * [Weave](https://github.com/WeaveTeam/Weave) ⭐ 366 | 🐛 8 | 🌐 ActionScript | 📅 2019-01-06 - Web-based Analysis and Visualization Environment.
-* [Flare](https://github.com/prefuse/Flare) ⭐ 350 | 🐛 4 | 🌐 ActionScript | 📅 2012-08-02 - charts and graphs, supports data management, visual encoding, animation, and interaction techniques.
+* [Flare](https://github.com/prefuse/Flare) ⭐ 349 | 🐛 4 | 🌐 ActionScript | 📅 2012-08-02 - charts and graphs, supports data management, visual encoding, animation, and interaction techniques.
 * [clearmaps](https://github.com/sunlightlabs/clearmaps) ⭐ 62 | 🐛 1 | 🌐 ActionScript | 📅 2010-02-17 - Mapping framework for data visualization.
 * [Flextreemap](https://github.com/joshtynjala/flextreemap) ⚠️ Archived - TreeMap data visualization component for Adobe Flex.
 * [Axiis](https://github.com/hgupta9/AxiisCharts) ⭐ 10 | 🐛 0 | 🌐 ActionScript | 📅 2016-11-11 - Data visualization framework with line, bar, wedge, column, cluster, area, smith and treemap charts.
@@ -674,4 +674,4 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._

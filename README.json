@@ -357,7 +357,7 @@
                 "open_issues": 96,
                 "owner": "Gamua",
                 "repo": "Starling-Framework",
-                "stars": 3121,
+                "stars": 3124,
                 "topics": [
                   "actionscript",
                   "adobe-air",
@@ -386,7 +386,7 @@
                 "open_issues": 169,
                 "owner": "feathersui",
                 "repo": "feathersui-starling",
-                "stars": 912,
+                "stars": 913,
                 "topics": [
                   "actionscript",
                   "actionscript-3",
@@ -551,7 +551,7 @@
                 "open_issues": 69,
                 "owner": "useflashpunk",
                 "repo": "FlashPunk",
-                "stars": 396,
+                "stars": 395,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -752,7 +752,7 @@
                 "open_issues": 19,
                 "owner": "AlternativaPlatform",
                 "repo": "Alternativa3D",
-                "stars": 381,
+                "stars": 380,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2010,7 +2010,7 @@
                 "open_issues": 4,
                 "owner": "prefuse",
                 "repo": "Flare",
-                "stars": 350,
+                "stars": 349,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -7954,7 +7954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T08:00:06.124Z",
+    "last_updated": "2026-11-10T08:26:40.369Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",
