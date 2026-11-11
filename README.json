@@ -843,7 +843,7 @@
                 "open_issues": 3,
                 "owner": "greensock",
                 "repo": "GreenSock-AS3",
-                "stars": 424,
+                "stars": 425,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2010,7 +2010,7 @@
                 "open_issues": 4,
                 "owner": "prefuse",
                 "repo": "Flare",
-                "stars": 349,
+                "stars": 350,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2599,7 +2599,7 @@
                 "open_issues": 0,
                 "owner": "richardlord",
                 "repo": "Flint",
-                "stars": 259,
+                "stars": 260,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2802,7 +2802,7 @@
                 "open_issues": 4,
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34185,
+                "stars": 34191,
                 "topics": [
                   "android",
                   "barcode",
@@ -4764,7 +4764,7 @@
                 "open_issues": 3,
                 "owner": "greensock",
                 "repo": "GreenSock-AS3",
-                "stars": 424,
+                "stars": 425,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -7954,7 +7954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T08:26:40.369Z",
+    "last_updated": "2026-11-11T07:45:49.492Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",
@@ -7966,7 +7966,7 @@
       "open_issues": 2,
       "owner": "robinrodricks",
       "repo": "awesome-actionscript3",
-      "stars": 277,
+      "stars": 278,
       "topics": [
         "actionscript",
         "actionscript3",
