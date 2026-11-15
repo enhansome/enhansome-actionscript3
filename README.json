@@ -2031,7 +2031,7 @@
                 "open_issues": 1,
                 "owner": "sunlightlabs",
                 "repo": "clearmaps",
-                "stars": 62,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2802,7 +2802,7 @@
                 "open_issues": 4,
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34201,
+                "stars": 34202,
                 "topics": [
                   "android",
                   "barcode",
@@ -4520,7 +4520,7 @@
                 "open_issues": 15,
                 "owner": "claus",
                 "repo": "as3swf",
-                "stars": 524,
+                "stars": 522,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -7954,7 +7954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T07:37:40.673Z",
+    "last_updated": "2026-11-15T07:53:13.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",

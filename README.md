@@ -209,7 +209,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [Weave](https://github.com/WeaveTeam/Weave) ⭐ 366 | 🐛 8 | 🌐 ActionScript | 📅 2019-01-06 - Web-based Analysis and Visualization Environment.
 * [Flare](https://github.com/prefuse/Flare) ⭐ 350 | 🐛 4 | 🌐 ActionScript | 📅 2012-08-02 - charts and graphs, supports data management, visual encoding, animation, and interaction techniques.
-* [clearmaps](https://github.com/sunlightlabs/clearmaps) ⭐ 62 | 🐛 1 | 🌐 ActionScript | 📅 2010-02-17 - Mapping framework for data visualization.
+* [clearmaps](https://github.com/sunlightlabs/clearmaps) ⭐ 63 | 🐛 1 | 🌐 ActionScript | 📅 2010-02-17 - Mapping framework for data visualization.
 * [Flextreemap](https://github.com/joshtynjala/flextreemap) ⚠️ Archived - TreeMap data visualization component for Adobe Flex.
 * [Axiis](https://github.com/hgupta9/AxiisCharts) ⭐ 10 | 🐛 0 | 🌐 ActionScript | 📅 2016-11-11 - Data visualization framework with line, bar, wedge, column, cluster, area, smith and treemap charts.
 * [GraphVisualizer](https://github.com/armisael/GraphVisualizer) ⭐ 5 | 🐛 0 | 🌐 ActionScript | 📅 2009-07-13 - A Flex 3 + ActionScript 3 web software to draw dynamic graphcs.
@@ -264,7 +264,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### QR Code
 
-* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,201 | 🐛 4 | 🌐 Java | 📅 2026-11-09 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
+* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,202 | 🐛 4 | 🌐 Java | 📅 2026-11-09 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
 * [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) ⭐ 90 | 🐛 3 | 🌐 ActionScript | 📅 2016-08-18 - QR code encoder in as3.
 * [qrcode-as](https://github.com/yanbe/qrcode-as) ⭐ 29 | 🐛 1 | 🌐 ActionScript | 📅 2011-10-31 - QR Code reader which supports webcam on Windows, Mac and Linux.
 
@@ -674,4 +674,4 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
