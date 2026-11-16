@@ -2798,8 +2798,8 @@
                 "id": 2562751,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T06:59:34Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-16T07:03:20Z",
+                "open_issues": 5,
                 "owner": "zxing",
                 "repo": "zxing",
                 "stars": 34202,
@@ -5938,7 +5938,7 @@
                 "language": "ActionScript",
                 "license": null,
                 "last_commit": "2024-08-18T20:22:14Z",
-                "open_issues": 121,
+                "open_issues": 122,
                 "owner": "mikechambers",
                 "repo": "as3corelib",
                 "stars": 1506,
@@ -7954,7 +7954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T07:53:13.105Z",
+    "last_updated": "2026-11-16T08:00:41.669Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",
