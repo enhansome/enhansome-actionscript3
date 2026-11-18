@@ -593,7 +593,7 @@
                 "open_issues": 3,
                 "owner": "jozefchutka",
                 "repo": "YCanvas",
-                "stars": 117,
+                "stars": 116,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2798,11 +2798,11 @@
                 "id": 2562751,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T03:12:37Z",
+                "last_commit": "2026-11-18T02:12:34Z",
                 "open_issues": 0,
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34204,
+                "stars": 34206,
                 "topics": [
                   "android",
                   "barcode",
@@ -2944,7 +2944,7 @@
                 "open_issues": 0,
                 "owner": "keim",
                 "repo": "SiON",
-                "stars": 120,
+                "stars": 121,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -4366,7 +4366,7 @@
                 "open_issues": 9,
                 "owner": "sephiroth74",
                 "repo": "purePDF",
-                "stars": 140,
+                "stars": 139,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -7954,7 +7954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T09:14:12.353Z",
+    "last_updated": "2026-11-18T08:34:00.213Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",

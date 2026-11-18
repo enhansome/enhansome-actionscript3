@@ -95,7 +95,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Flixel](https://github.com/AdamAtomic/flixel) ⭐ 1,145 | 🐛 75 | 🌐 ActionScript | 📅 2015-11-05 - Useful base classes that you can extend to make your own game objects.
 * [FlashPunk](https://github.com/useflashpunk/FlashPunk) ⭐ 396 | 🐛 69 | 🌐 ActionScript | 📅 2016-03-31 - Framework to build 2D games. Provides graphics, events, inputs, animation, etc.
 * [StarlingPunk](https://github.com/asaia/StarlingPunk) ⭐ 138 | 🐛 6 | 🌐 ActionScript | 📅 2017-04-17 - Framework built on Starling to add structure and organization to your game projects.
-* [YCanvas](https://github.com/jozefchutka/YCanvas) ⭐ 117 | 🐛 3 | 🌐 ActionScript | 📅 2014-12-15 - High-performance 2D tile renderer and world map renderer.
+* [YCanvas](https://github.com/jozefchutka/YCanvas) ⭐ 116 | 🐛 3 | 🌐 ActionScript | 📅 2014-12-15 - High-performance 2D tile renderer and world map renderer.
 * [IsoHill](https://github.com/jadbox/IsoHill-Game-Engine) ⭐ 101 | 🐛 1 | 🌐 ActionScript | 📅 2012-08-30 - GPU-based Isometric engine built on Starling, with TILED map parser, layers, etc ([website](http://www.isohill.com/)).
 * [Pixelizer](https://github.com/johanp/Pixelizer) ⭐ 53 | 🐛 20 | 🌐 ActionScript | 📅 2013-01-05 - Component based game engine to build 2D games. Provides rendering, animation, input, etc.
 * [AS3isolib](https://github.com/as3isolib/as3isolib.v1) ⭐ 40 | 🐛 0 | 🌐 HTML | 📅 2015-03-20 - Isometric Library developed to assist in creating isometrically projected games.
@@ -264,7 +264,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### QR Code
 
-* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,204 | 🐛 0 | 🌐 Java | 📅 2026-11-17 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
+* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,206 | 🐛 0 | 🌐 Java | 📅 2026-11-18 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
 * [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) ⭐ 90 | 🐛 3 | 🌐 ActionScript | 📅 2016-08-18 - QR code encoder in as3.
 * [qrcode-as](https://github.com/yanbe/qrcode-as) ⭐ 29 | 🐛 1 | 🌐 ActionScript | 📅 2011-10-31 - QR Code reader which supports webcam on Windows, Mac and Linux.
 
@@ -273,7 +273,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) ⭐ 239 | 🐛 34 | 🌐 ActionScript | 📅 2016-10-25 - Recording audio and saving as a WAV.
 * [Standingwave3](https://github.com/maxl0rd/standingwave3) ⭐ 160 | 🐛 18 | 🌐 ActionScript | 📅 2012-12-20 - Dynamic audio library.
 * [SoundAS](https://github.com/treefortress/SoundAS) ⭐ 139 | 🐛 11 | 🌐 ActionScript | 📅 2023-10-02 - Modern & lightweight sound manager for AS3.
-* [SiON](https://github.com/keim/SiON) ⭐ 120 | 🐛 0 | 🌐 ActionScript | 📅 2021-08-27 - Flash Software Synthesizer.
+* [SiON](https://github.com/keim/SiON) ⭐ 121 | 🐛 0 | 🌐 ActionScript | 📅 2021-08-27 - Flash Software Synthesizer.
 * [AS3sfxr](https://github.com/SFBTom/as3sfxr) ⭐ 100 | 🐛 4 | 🌐 ActionScript | 📅 2015-03-14 - Port of sfxr from C++ to AS3, using the new sound and file capabilities of Flash Player 10.
 * [Soundtouch-as3](https://github.com/also/soundtouch-as3) ⭐ 62 | 🐛 2 | 🌐 ActionScript | 📅 2010-04-05 - AS3 Port of the SoundTouch Sound Processing Library.
 * [Flod](https://github.com/photonstorm/Flod) ⭐ 55 | 🐛 2 | 🌐 ActionScript | 📅 2012-05-05 - Amiga SoundTracker (MOD) and FastTracker (XM) Replay Library.
@@ -404,7 +404,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### PDF
 
-* [PurePDF](https://github.com/sephiroth74/purePDF) ⭐ 140 | 🐛 9 | 🌐 ActionScript | 📅 2019-04-29 - Complete PDF library, port of Java iText.
+* [PurePDF](https://github.com/sephiroth74/purePDF) ⭐ 139 | 🐛 9 | 🌐 ActionScript | 📅 2019-04-29 - Complete PDF library, port of Java iText.
 * [AlivePDF](https://code.google.com/archive/p/alivepdf/) - Client side PDF generation ([github](https://github.com/riadvice/alivepdf) ⭐ 32 | 🐛 338 | 🌐 ActionScript | 📅 2020-11-01).
 * [PDFView](https://github.com/jankapunkt/PDFView) ⚠️ Archived - PDF viewer built from scratch.
 * [PDFCase](https://github.com/dickclaus/pdfcase) ⭐ 4 | 🐛 0 | 🌐 ActionScript | 📅 2012-12-11 - PDF Library.
@@ -674,4 +674,4 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
