@@ -843,7 +843,7 @@
                 "open_issues": 3,
                 "owner": "greensock",
                 "repo": "GreenSock-AS3",
-                "stars": 425,
+                "stars": 426,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2798,11 +2798,11 @@
                 "id": 2562751,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T02:12:34Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-19T02:47:29Z",
+                "open_issues": 1,
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34206,
+                "stars": 34212,
                 "topics": [
                   "android",
                   "barcode",
@@ -4764,7 +4764,7 @@
                 "open_issues": 3,
                 "owner": "greensock",
                 "repo": "GreenSock-AS3",
-                "stars": 425,
+                "stars": 426,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -7954,7 +7954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T08:34:00.213Z",
+    "last_updated": "2026-11-19T08:50:04.955Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",
