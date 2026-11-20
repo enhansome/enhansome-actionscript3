@@ -70,7 +70,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### MVC Frameworks
 
-* [Robotlegs](https://github.com/robotlegs/robotlegs-framework) ⭐ 963 | 🐛 19 | 🌐 ActionScript | 📅 2020-06-16 - Dependency injection, module/view/command management framework for Flash.
+* [Robotlegs](https://github.com/robotlegs/robotlegs-framework) ⭐ 962 | 🐛 19 | 🌐 ActionScript | 📅 2020-06-16 - Dependency injection, module/view/command management framework for Flash.
 * [StarlingMVC](https://github.com/CreativeBottle/starlingMVC) ⭐ 125 | 🐛 10 | 🌐 ActionScript | 📅 2017-04-24 - IOC Framework for Starling based games.
 * [PureMVC](https://github.com/PureMVC/puremvc-as3-standard-framework) ⭐ 124 | 🐛 1 | 🌐 HTML | 📅 2018-10-27 - Industry-standard MVC framework for Flash ([multicore](https://github.com/PureMVC/puremvc-as3-multicore-framework) ⭐ 56 | 🐛 0 | 🌐 HTML | 📅 2018-10-27).
 * [Hummingbird](https://github.com/flashapi/hummingbird) ⚠️ Archived - Build and deploy robust MVC applications for AS3, Mobile and the Starling Framework.
@@ -80,7 +80,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### UI Frameworks
 
-* [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework) ⭐ 3,126 | 🐛 96 | 🌐 ActionScript | 📅 2026-10-10, [help](http://wiki.starling-framework.org/start)).
+* [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework) ⭐ 3,125 | 🐛 96 | 🌐 ActionScript | 📅 2026-10-10, [help](http://wiki.starling-framework.org/start)).
 * [Feathers UI](https://feathersui.com/) - User interface components for Starling Framework ([github](https://github.com/BowlerHatLLC/feathers) ⭐ 913 | 🐛 169 | 🌐 ActionScript | 📅 2026-08-20, [help](https://feathersui.com/help/index.html)).
 * [Swiz](https://github.com/swiz/swiz-framework) ⭐ 225 | 🐛 18 | 🌐 ActionScript | 📅 2013-06-19 - Brutally simple micro-architecture for creating RIAs with AS3 and Adobe Flex.
 * [Elastic-Lists](https://github.com/MoritzStefaner/Elastic-Lists) ⭐ 108 | 🐛 5 | 🌐 ActionScript | 📅 2011-06-03 - Fluid and powerful interface for facet browsing.
@@ -92,8 +92,8 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Game Frameworks
 
-* [Flixel](https://github.com/AdamAtomic/flixel) ⭐ 1,145 | 🐛 75 | 🌐 ActionScript | 📅 2015-11-05 - Useful base classes that you can extend to make your own game objects.
-* [FlashPunk](https://github.com/useflashpunk/FlashPunk) ⭐ 396 | 🐛 69 | 🌐 ActionScript | 📅 2016-03-31 - Framework to build 2D games. Provides graphics, events, inputs, animation, etc.
+* [Flixel](https://github.com/AdamAtomic/flixel) ⭐ 1,142 | 🐛 75 | 🌐 ActionScript | 📅 2015-11-05 - Useful base classes that you can extend to make your own game objects.
+* [FlashPunk](https://github.com/useflashpunk/FlashPunk) ⭐ 395 | 🐛 69 | 🌐 ActionScript | 📅 2016-03-31 - Framework to build 2D games. Provides graphics, events, inputs, animation, etc.
 * [StarlingPunk](https://github.com/asaia/StarlingPunk) ⭐ 138 | 🐛 6 | 🌐 ActionScript | 📅 2017-04-17 - Framework built on Starling to add structure and organization to your game projects.
 * [YCanvas](https://github.com/jozefchutka/YCanvas) ⭐ 116 | 🐛 3 | 🌐 ActionScript | 📅 2014-12-15 - High-performance 2D tile renderer and world map renderer.
 * [IsoHill](https://github.com/jadbox/IsoHill-Game-Engine) ⭐ 101 | 🐛 1 | 🌐 ActionScript | 📅 2012-08-30 - GPU-based Isometric engine built on Starling, with TILED map parser, layers, etc ([website](http://www.isohill.com/)).
@@ -116,7 +116,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Animation
 
-* [GreenSock GSAP](https://greensock.com/gsap-as) - The industry-standard animation library for Flash (TweenLite, TweenMax) ([github](https://github.com/greensock/GreenSock-AS3) ⭐ 426 | 🐛 3 | 🌐 ActionScript | 📅 2019-05-29).
+* [GreenSock GSAP](https://greensock.com/gsap-as) - The industry-standard animation library for Flash (TweenLite, TweenMax) ([github](https://github.com/greensock/GreenSock-AS3) ⭐ 425 | 🐛 3 | 🌐 ActionScript | 📅 2019-05-29).
 * [StarlingGAFPlayer](https://github.com/zenrobin/StarlingGAFPlayer) ⭐ 1 | 🐛 0 | 🌐 ActionScript | 📅 2016-05-24 - Play back GAF animations using Starling (animations authored in Flash Pro).
 * [GTween](http://gskinner.com/libraries/gtween/) - Small but robust library for programmatic tweening, animation, and transitions.
 * [DragonBones](http://dragonbones.github.io/) - High-speed skeletal animation using Starling, and tools to export animations from Flash Pro.
@@ -125,7 +125,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Signals
 
-* [AS3-signals](https://github.com/robertpenner/as3-signals) ⭐ 1,064 | 🐛 9 | 🌐 ActionScript | 📅 2025-05-19 - New approach for AS3 events inspired by C# events and signals/slots in Qt.
+* [AS3-signals](https://github.com/robertpenner/as3-signals) ⭐ 1,063 | 🐛 9 | 🌐 ActionScript | 📅 2025-05-19 - New approach for AS3 events inspired by C# events and signals/slots in Qt.
 * [react-as3](https://github.com/tconkling/react-as3) ⭐ 33 | 🐛 0 | 🌐 ActionScript | 📅 2018-08-18 - Signals/slots and functional reactive programming library.
 * [Fa-as3](https://github.com/fabrikagency/fa-as3) ⭐ 9 | 🐛 0 | 🌐 ActionScript | 📅 2009-06-22 - Write less, do more framework, modeled like jQuery.
 * [Signaller](https://github.com/whitered/Signaller) ⭐ 2 | 🐛 0 | 🌐 ActionScript | 📅 2010-04-28 - Signals implementation with restricted rights for dispatching.
@@ -208,7 +208,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Data Visualization
 
 * [Weave](https://github.com/WeaveTeam/Weave) ⭐ 366 | 🐛 8 | 🌐 ActionScript | 📅 2019-01-06 - Web-based Analysis and Visualization Environment.
-* [Flare](https://github.com/prefuse/Flare) ⭐ 350 | 🐛 4 | 🌐 ActionScript | 📅 2012-08-02 - charts and graphs, supports data management, visual encoding, animation, and interaction techniques.
+* [Flare](https://github.com/prefuse/Flare) ⭐ 349 | 🐛 4 | 🌐 ActionScript | 📅 2012-08-02 - charts and graphs, supports data management, visual encoding, animation, and interaction techniques.
 * [clearmaps](https://github.com/sunlightlabs/clearmaps) ⭐ 63 | 🐛 1 | 🌐 ActionScript | 📅 2010-02-17 - Mapping framework for data visualization.
 * [Flextreemap](https://github.com/joshtynjala/flextreemap) ⚠️ Archived - TreeMap data visualization component for Adobe Flex.
 * [Axiis](https://github.com/hgupta9/AxiisCharts) ⭐ 10 | 🐛 0 | 🌐 ActionScript | 📅 2016-11-11 - Data visualization framework with line, bar, wedge, column, cluster, area, smith and treemap charts.
@@ -441,7 +441,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Data Loader
 
-* [GreenSock LoaderMax](https://github.com/greensock/GreenSock-AS3) ⭐ 426 | 🐛 3 | 🌐 ActionScript | 📅 2019-05-29 - Provides an easy and powerful way to load assets at runtime.
+* [GreenSock LoaderMax](https://github.com/greensock/GreenSock-AS3) ⭐ 425 | 🐛 3 | 🌐 ActionScript | 📅 2019-05-29 - Provides an easy and powerful way to load assets at runtime.
 * [BulkLoader](https://github.com/arthur-debert/BulkLoader) ⭐ 269 | 🐛 10 | 🌐 ActionScript | 📅 2015-08-31 - Bulk asset loading library for Actionscript.
 * [AssetLoader](https://github.com/Matan/AssetLoader) ⭐ 117 | 🐛 3 | 🌐 ActionScript | 📅 2013-02-22 - Multi-file/asset loader for AS3 built on AS3Signals.
 
@@ -534,7 +534,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Crypto
 
-* [AS3corelib](https://github.com/mikechambers/as3corelib) ⭐ 1,506 | 🐛 122 | 🌐 ActionScript | 📅 2024-08-18 -  MD5 and SHA1 hashing, Image encoders, and JSON serialization.
+* [AS3corelib](https://github.com/mikechambers/as3corelib) ⭐ 1,505 | 🐛 122 | 🌐 ActionScript | 📅 2024-08-18 -  MD5 and SHA1 hashing, Image encoders, and JSON serialization.
 * [AS3Crypto](https://github.com/timkurvers/as3-crypto) ⚠️ Archived - Fork of Henri Torgemane's excellent cryptography library ([patched](https://github.com/lyokato/as3crypto_patched) ⭐ 16 | 🐛 0 | 🌐 ActionScript | 📅 2011-03-28).
 * [BlooddyCrypto](https://github.com/blooddy/blooddy_crypto) ⭐ 94 | 🐛 15 | 🌐 ActionScript | 📅 2022-02-25 - High-performance library for processing binary data. This library contains MD5, SHA-1, SHA-2, Base64, CRC32, JSON, PNG/JPEG encoders.
 * [ASCrypt](https://github.com/Meychi/ASCrypt) ⭐ 47 | 🐛 3 | 🌐 ActionScript | 📅 2015-02-07 - Crypto library with a similar API for multiple languages.
@@ -674,4 +674,4 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._

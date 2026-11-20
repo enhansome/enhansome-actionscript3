@@ -203,7 +203,7 @@
                 "open_issues": 19,
                 "owner": "robotlegs",
                 "repo": "robotlegs-framework",
-                "stars": 963,
+                "stars": 962,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -357,7 +357,7 @@
                 "open_issues": 96,
                 "owner": "Gamua",
                 "repo": "Starling-Framework",
-                "stars": 3126,
+                "stars": 3125,
                 "topics": [
                   "actionscript",
                   "adobe-air",
@@ -530,7 +530,7 @@
                 "open_issues": 75,
                 "owner": "AdamAtomic",
                 "repo": "flixel",
-                "stars": 1145,
+                "stars": 1142,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -551,7 +551,7 @@
                 "open_issues": 69,
                 "owner": "useflashpunk",
                 "repo": "FlashPunk",
-                "stars": 396,
+                "stars": 395,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -843,7 +843,7 @@
                 "open_issues": 3,
                 "owner": "greensock",
                 "repo": "GreenSock-AS3",
-                "stars": 426,
+                "stars": 425,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -892,7 +892,7 @@
                 "open_issues": 9,
                 "owner": "robertpenner",
                 "repo": "as3-signals",
-                "stars": 1064,
+                "stars": 1063,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -2010,7 +2010,7 @@
                 "open_issues": 4,
                 "owner": "prefuse",
                 "repo": "Flare",
-                "stars": 350,
+                "stars": 349,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -4764,7 +4764,7 @@
                 "open_issues": 3,
                 "owner": "greensock",
                 "repo": "GreenSock-AS3",
-                "stars": 426,
+                "stars": 425,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -5941,7 +5941,7 @@
                 "open_issues": 122,
                 "owner": "mikechambers",
                 "repo": "as3corelib",
-                "stars": 1506,
+                "stars": 1505,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:13.693Z"
@@ -7954,7 +7954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T08:50:04.955Z",
+    "last_updated": "2026-11-20T08:35:34.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",
