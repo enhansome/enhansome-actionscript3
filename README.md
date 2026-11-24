@@ -80,7 +80,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### UI Frameworks
 
-* [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework) ⭐ 3,129 | 🐛 96 | 🌐 ActionScript | 📅 2026-10-10, [help](http://wiki.starling-framework.org/start)).
+* [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework) ⭐ 3,131 | 🐛 96 | 🌐 ActionScript | 📅 2026-10-10, [help](http://wiki.starling-framework.org/start)).
 * [Feathers UI](https://feathersui.com/) - User interface components for Starling Framework ([github](https://github.com/BowlerHatLLC/feathers) ⭐ 913 | 🐛 169 | 🌐 ActionScript | 📅 2026-08-20, [help](https://feathersui.com/help/index.html)).
 * [Swiz](https://github.com/swiz/swiz-framework) ⭐ 225 | 🐛 18 | 🌐 ActionScript | 📅 2013-06-19 - Brutally simple micro-architecture for creating RIAs with AS3 and Adobe Flex.
 * [Elastic-Lists](https://github.com/MoritzStefaner/Elastic-Lists) ⭐ 108 | 🐛 5 | 🌐 ActionScript | 📅 2011-06-03 - Fluid and powerful interface for facet browsing.
@@ -92,7 +92,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Game Frameworks
 
-* [Flixel](https://github.com/AdamAtomic/flixel) ⭐ 1,142 | 🐛 75 | 🌐 ActionScript | 📅 2015-11-05 - Useful base classes that you can extend to make your own game objects.
+* [Flixel](https://github.com/AdamAtomic/flixel) ⭐ 1,143 | 🐛 75 | 🌐 ActionScript | 📅 2015-11-05 - Useful base classes that you can extend to make your own game objects.
 * [FlashPunk](https://github.com/useflashpunk/FlashPunk) ⭐ 395 | 🐛 69 | 🌐 ActionScript | 📅 2016-03-31 - Framework to build 2D games. Provides graphics, events, inputs, animation, etc.
 * [StarlingPunk](https://github.com/asaia/StarlingPunk) ⭐ 138 | 🐛 6 | 🌐 ActionScript | 📅 2017-04-17 - Framework built on Starling to add structure and organization to your game projects.
 * [YCanvas](https://github.com/jozefchutka/YCanvas) ⭐ 116 | 🐛 3 | 🌐 ActionScript | 📅 2014-12-15 - High-performance 2D tile renderer and world map renderer.
@@ -116,7 +116,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Animation
 
-* [GreenSock GSAP](https://greensock.com/gsap-as) - The industry-standard animation library for Flash (TweenLite, TweenMax) ([github](https://github.com/greensock/GreenSock-AS3) ⭐ 426 | 🐛 3 | 🌐 ActionScript | 📅 2019-05-29).
+* [GreenSock GSAP](https://greensock.com/gsap-as) - The industry-standard animation library for Flash (TweenLite, TweenMax) ([github](https://github.com/greensock/GreenSock-AS3) ⭐ 427 | 🐛 3 | 🌐 ActionScript | 📅 2019-05-29).
 * [StarlingGAFPlayer](https://github.com/zenrobin/StarlingGAFPlayer) ⭐ 1 | 🐛 0 | 🌐 ActionScript | 📅 2016-05-24 - Play back GAF animations using Starling (animations authored in Flash Pro).
 * [GTween](http://gskinner.com/libraries/gtween/) - Small but robust library for programmatic tweening, animation, and transitions.
 * [DragonBones](http://dragonbones.github.io/) - High-speed skeletal animation using Starling, and tools to export animations from Flash Pro.
@@ -264,7 +264,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### QR Code
 
-* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,218 | 🐛 2 | 🌐 Java | 📅 2026-11-23 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
+* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) ⭐ 34,221 | 🐛 2 | 🌐 Java | 📅 2026-11-23 - QR code detection and generation ([docs](https://zxing.github.io/zxing/)).
 * [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) ⭐ 90 | 🐛 3 | 🌐 ActionScript | 📅 2016-08-18 - QR code encoder in as3.
 * [qrcode-as](https://github.com/yanbe/qrcode-as) ⭐ 29 | 🐛 1 | 🌐 ActionScript | 📅 2011-10-31 - QR Code reader which supports webcam on Windows, Mac and Linux.
 
@@ -441,7 +441,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Data Loader
 
-* [GreenSock LoaderMax](https://github.com/greensock/GreenSock-AS3) ⭐ 426 | 🐛 3 | 🌐 ActionScript | 📅 2019-05-29 - Provides an easy and powerful way to load assets at runtime.
+* [GreenSock LoaderMax](https://github.com/greensock/GreenSock-AS3) ⭐ 427 | 🐛 3 | 🌐 ActionScript | 📅 2019-05-29 - Provides an easy and powerful way to load assets at runtime.
 * [BulkLoader](https://github.com/arthur-debert/BulkLoader) ⭐ 269 | 🐛 10 | 🌐 ActionScript | 📅 2015-08-31 - Bulk asset loading library for Actionscript.
 * [AssetLoader](https://github.com/Matan/AssetLoader) ⭐ 117 | 🐛 3 | 🌐 ActionScript | 📅 2013-02-22 - Multi-file/asset loader for AS3 built on AS3Signals.
 
@@ -674,4 +674,4 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
