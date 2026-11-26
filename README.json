@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "joshtynjala",
                 "repo": "monsterdebugger-client-starling",
-                "stars": 51,
+                "stars": 52,
                 "topics": [
                   "actionscript",
                   "feathers-ui",
@@ -357,7 +357,7 @@
                 "open_issues": 96,
                 "owner": "Gamua",
                 "repo": "Starling-Framework",
-                "stars": 3131,
+                "stars": 3129,
                 "topics": [
                   "actionscript",
                   "adobe-air",
@@ -2798,11 +2798,11 @@
                 "id": 2562751,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T07:07:37Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-25T21:23:45Z",
+                "open_issues": 3,
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34223,
+                "stars": 34224,
                 "topics": [
                   "android",
                   "barcode",
@@ -7954,7 +7954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T09:52:36.264Z",
+    "last_updated": "2026-11-26T09:33:01.039Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",
