@@ -357,7 +357,7 @@
                 "open_issues": 96,
                 "owner": "Gamua",
                 "repo": "Starling-Framework",
-                "stars": 3129,
+                "stars": 3128,
                 "topics": [
                   "actionscript",
                   "adobe-air",
@@ -2798,11 +2798,11 @@
                 "id": 2562751,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T21:23:45Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-27T01:59:04Z",
+                "open_issues": 0,
                 "owner": "zxing",
                 "repo": "zxing",
-                "stars": 34224,
+                "stars": 34228,
                 "topics": [
                   "android",
                   "barcode",
@@ -7954,7 +7954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T09:33:01.039Z",
+    "last_updated": "2026-11-27T09:41:59.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.",
